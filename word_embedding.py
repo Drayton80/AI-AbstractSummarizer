@@ -2,7 +2,7 @@ import codecs
 import glob
 import logging
 import multiprocessing
-import os
+#import os
 import pprint
 import re
 import nltk
@@ -18,12 +18,80 @@ from gensim.models.fasttext import FastText
 from gensim.models import Word2Vec
 
 
+''' Função Vocabulary Graph 2D:
+''   Informações:   
+''     Autor: Drayton80
+''     Data de Criação: 09/09/2018
+''
+''   Descrição: 
+''     Tal função exibe o gráfico relativo aos vetores de um objeto do gensim que representa um
+''     vocabulário de palavras
+''
+''   Parâmetros de entrada:
+''     model_vectors: o objeto do gensim relativo ao vocabulário (ou modelo) de palavras;
+''     graph_title: título do gráfico exibido;
+''     graph_label_x: texto exibido para descrever o eixo de coordenada horizontal;
+''     graph_label_y: texto exibido para descrever o eixo de coordenada vertical;
+'''
+def vocabulary_graph_2d(model_vectors, graph_title="2D Graph", graph_label_x="X", graph_label_y="Y"):
+  # Vai no atributo vectors do objeto aonde contém uma referência
+  # para todos os vetores e cada coordenada deles;
+  vectors_dimension = len(model_vectors.wv.vectors[0])
+
+  # Se as dimensões dos vetores forem maiores do que 2, é preciso comprimir eles
+  # para possibilitar a plotagem 2D
+  if 2 < vectors_dimension:
+    # Para poder plotar o gráfico, é preciso comprimir o número de dimensões o que
+    # será feito utilizando o método de machine learning chamado TSNE 
+    # (T Stochastic distributed Neighbour Embedding). Tal método, em linhas gerais, 
+    # comprime as dimensões (nesse caso, 300) em um número bem menor de dimensões 
+    # (neste caso definido por n_components = 2).
+    # Nessa linha abaixo apenas é inicializado o TSNE:
+    tsne = sklearn.manifold.TSNE(n_components=2, random_state=0)
+
+    # .wv.vectors é um atributo que contém uma lista com todos os vetores do vocabulário,
+    # ou seja, uma lista de lista de coordenadas. Já fit_transform faz a conversão das n
+    # dimensões para o novo número especificado antes
+    vectors_matrix_2d = tsne.fit_transform(model_vectors.wv.vectors)
+  else:
+    vectors_matrix_2d = model_vectors.wv.vectors
+
+  vectors_words = []
+  vectors_x = []
+  vectors_y = []
+
+  # Aqui retira-se as palavras atreladas à cada vetor:
+  for word in model_vectors.wv.vocab:
+    vectors_words.append(word)
+
+  # Em seguida, é pego as coordenadas de cada um e elas são salvas em listas:
+  for vectors in vectors_matrix_2d:
+    vectors_x.append(vectors[0])
+    vectors_y.append(vectors[1])
+
+  # Usa-se o matplot lib para fazer subplots aonde cada um deles refere-se a um dos vetores em
+  # separado (sendo isso feito para eles poderem conter um texto atrelado à eles)
+  figure, axes = plt.subplots()
+  # Aqui define-se o gráfico como scatter, ou seja, diversos pontos
+  axes.scatter(vectors_x, vectors_y)
+
+  # Escreve no gráfico a palavra atrelada ao vetor próxima ao ponto que representa o vetor em si
+  for i, word in enumerate(vectors_words):
+    axes.annotate(word, (vectors_x[i], vectors_y[i]))
+
+  # Configurações relativas ao próprio matplotlib:
+  plt.xlabel(graph_label_x)
+  plt.ylabel(graph_label_y)
+  plt.title(graph_title)
+  plt.show()
+
+
 ''' Função Delete Empty Attributes:
 ''   Informações:   
 ''     Autores: Drayton80, ArmandoTGT, douglasliralima
 ''     Data de Criação: 16/04/2018
 ''
-''   Definição: 
+''   Descrição: 
 ''     Tal função checa elementos referentes a um atributo em todas as
 ''     instâncias e deleta aqueles que estiverem vazios, os quais nesse caso
 ''     são representados como nan (not a number).
