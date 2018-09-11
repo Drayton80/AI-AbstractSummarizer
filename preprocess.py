@@ -1,3 +1,7 @@
+# coding: utf-8
+# A linha acima foi usada pois estava acontecendo um erro de compilação relativa a falta de caracteres
+# relativos ao ASCII no código
+
 import pandas as pd
 import word_embedding
 

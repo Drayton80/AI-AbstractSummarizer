@@ -2,7 +2,7 @@ import codecs
 import glob
 import logging
 import multiprocessing
-#import os
+import os
 import pprint
 import re
 import nltk
