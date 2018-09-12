@@ -18,5 +18,5 @@ data_frame = pd.read_csv("datasets/news_summary.csv", encoding = 'latin1')
 data_frame.drop(['author', 'date', 'read_more', 'headlines', 'text'], axis = 1, inplace = True)
 
 # Usa a função embedding words e salva o resultado do modelo em um arquivo:
-word_embedding.embedding(data_frame, "ctext", embedding_type="word2vec", save_model=True, save_model_file_name="vocabulary_word2vec")
-word_embedding.embedding(data_frame, "ctext", embedding_type="fasttext", save_model=True, save_model_file_name="vocabulary_fasttext")
+word_embedding.embedding(data_frame, "ctext", embedding_type="word2vec", vector_dimension=300, save_model=True, save_model_file_name="vocabulary_word2vec")
+word_embedding.embedding(data_frame, "ctext", embedding_type="fasttext", vector_dimension=300, save_model=True, save_model_file_name="vocabulary_fasttext")

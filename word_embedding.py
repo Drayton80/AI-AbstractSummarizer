@@ -144,7 +144,7 @@ def sentence_to_wordlist(sentence):
   return words
 
 
-''' Função Sentence to Wordlist:
+''' Função Embedding:
 ''   Informações:   
 ''     Autor: Drayton80
 ''     Data de Criação: 08/09/2018
@@ -157,6 +157,7 @@ def sentence_to_wordlist(sentence):
 ''     data_frame_element: como o data frame é um dicionário, é preciso especificar a palavra (ou elemento) ao qual será
 ''      aplicado a conversão;
 ''     embedding_type: o string relativo ao tipo de embedding que será aplicado na conversão;
+''     vector_dimension: dimensão de cada vetor individual;
 ''     save_model: se o modelo será salvo em um arquivo ou não (o arquivo salvo é em .txt);
 ''     save_model_file_name: o nome do arquivo que será salvo o modelo;
 ''
@@ -164,7 +165,8 @@ def sentence_to_wordlist(sentence):
 ''     Retorna o modelo relativo ao vocabulário de vetores no formato de objeto do Gensim (biblioteca onde se encontram
 ''      os métodos relativos aos tipos de embedding);
 '''
-def embedding(data_frame, data_frame_element, embedding_type="word2vec", save_model=False, save_model_file_name="model_vectors"):
+def embedding(data_frame, data_frame_element, embedding_type="word2vec", vector_dimension=50,
+              save_model=False, save_model_file_name="model_vectors"):
   print("<STARTING(embededding_words)>")
    
   # TRANSFORMAÇÂO DE PALAVRAS EM TOKENS:
@@ -193,9 +195,6 @@ def embedding(data_frame, data_frame_element, embedding_type="word2vec", save_mo
   
   
   # APLICAÇÂO DO MODELO DE EMBEDDING:
-  # Define o número de dimensões comparativas relativas ao treinamento do modelo
-  # Quanto maior esse número, melhor será o treinamento do word2vec
-  num_features = 300
   min_word_count = 3
   # Aqui é definido o número de threads que serão rodados baseado na própria CPU,
   # os threads serão invocados para melhorar o desempenho do treinamento
@@ -205,13 +204,13 @@ def embedding(data_frame, data_frame_element, embedding_type="word2vec", save_mo
   seed = 1
   
   if embedding_type == "word2vec" or embedding_type == "Word2Vec" or embedding_type == "w2v":
-    model_vectors = Word2Vec(sg=1, seed=seed, workers=num_workers, size=num_features,
+    model_vectors = Word2Vec(sg=1, seed=seed, workers=num_workers, size=vector_dimension,
                              min_count=min_word_count, window=context_size, sample=downsampling)
     model_vectors.build_vocab(word_sentences)
     model_vectors.train(word_sentences, total_words=len(model_vectors.wv.vocab), epochs=10)
     
   elif embedding_type == "fasttext" or embedding_type == "FastText" or embedding_type == "ft":
-    model_vectors = FastText(sg=1, seed=seed, workers=num_workers, size=num_features,
+    model_vectors = FastText(sg=1, seed=seed, workers=num_workers, size=vector_dimension,
                              min_count=min_word_count, window=context_size, sample=downsampling)
     model_vectors.build_vocab(word_sentences)
     model_vectors.train(word_sentences, total_words=len(model_vectors.wv.vocab), epochs=10)

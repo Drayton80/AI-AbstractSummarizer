@@ -18,6 +18,9 @@ print("Tamanho de um Vetor Word2Vec:", len(vectors_word2vec.wv.vectors[0]))
 print("Tamanho do Vocabulário Fast Text:", len(vectors_fasttext.wv.vectors))
 print("Tamanho de um Vetor Fast Text:", len(vectors_fasttext.wv.vectors[0]))
 print("Tamanho dos n-grams:", vectors_fasttext.wv.num_ngram_vectors)
+#print("Tamanho de um n-gram de um vetor:", vectors_fasttext.wv.num_ngram_vectors/len(vectors_fasttext.wv.vectors))
+print(vectors_fasttext.wv.most_similar(vectors_fasttext.wv.most_similar(positive="material")))
+print("\n", vectors_fasttext.wv.most_similar(vectors_fasttext.wv.most_similar(positive="country")))
 
 
 
