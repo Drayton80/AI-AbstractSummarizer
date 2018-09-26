@@ -1,0 +1,49 @@
+<doc id=bn9623.rpi_segs.txt.960611.252>
+<annotator>annotator2</annotator>
+<text>
+<original id=bn9623.rpi_segs.txt.960611.252.0>You may never see your own face on the silver screen , but perhaps your house ought to be in pictures .</original>
+<compressed id=bn9623.rpi_segs.txt.960611.252.0>You may never see your face on the silver screen , but perhaps your house ought to be in pictures .</compressed>
+<original id=bn9623.rpi_segs.txt.960611.252.1>Movie studios are on the look-out for the perfect house to use in films , finding it 's much cheaper than building a set from scratch .</original>
+<compressed id=bn9623.rpi_segs.txt.960611.252.1>Movie studios are on the look-out for the perfect house , finding it 's much cheaper than building a set from scratch .</compressed>
+<original id=bn9623.rpi_segs.txt.960611.252.2>The homeowners answering that casting call can be lucrative , but it can also cause some headaches .</original>
+<compressed id=bn9623.rpi_segs.txt.960611.252.2>The homeowners answering that call can be lucrative , but it can also cause headaches .</compressed>
+<original id=bn9623.rpi_segs.txt.960611.252.3>Fred Katayama reports in today 's edition of Your Money .</original>
+<compressed id=bn9623.rpi_segs.txt.960611.252.3>Fred Katayama reports in today 's Your Money .</compressed>
+<original id=bn9623.rpi_segs.txt.960611.252.4>Movie location scouts scour neighborhoods for a house with that certain star quality , usually searching for bigger homes with enough space for equipment plus 100 cast and crew .</original>
+<compressed id=bn9623.rpi_segs.txt.960611.252.4>location scouts scour neighborhoods for a house with star quality , searching for bigger homes with enough space for equipment plus 100 cast and crew .</compressed>
+<original id=bn9623.rpi_segs.txt.960611.252.5>A modest house can fetch rental fees of $ 1,000 a day ; and a mansion , such as the one featured in Sabrina , can command a daily rate of $ 10,000 and up.</original>
+<compressed id=bn9623.rpi_segs.txt.960611.252.5>A modest house can fetch rental fees of $ 1,000 a day ; a mansion can command a rate of $ 10,000</compressed>
+<original id=bn9623.rpi_segs.txt.960611.252.6>If your home is chosen , clear away your romantic notions and focus on the reality .</original>
+<compressed id=bn9623.rpi_segs.txt.960611.252.6>If your home is chosen , clear away your notions and focus on reality .</compressed>
+<original id=bn9623.rpi_segs.txt.960611.252.7>It 's hard to understand how all-consuming and huge a process it is.</original>
+<compressed id=bn9623.rpi_segs.txt.960611.252.7>It 's hard to understand how all-consuming and huge it is.</compressed>
+<original id=bn9623.rpi_segs.txt.960611.252.8>Once we go into your home , we 're in almost every nook and cranny of your house .</original>
+<compressed id=bn9623.rpi_segs.txt.960611.252.8>Once we go into your home , we 're in every nook and cranny .</compressed>
+<original id=bn9623.rpi_segs.txt.960611.252.9>The owners of a San Francisco home used in Mrs. Doubtfire sued the film 's producers , claiming the house was trashed .</original>
+<compressed id=bn9623.rpi_segs.txt.960611.252.9>The owners of a home used in Mrs. Doubtfire sued the producers , claiming the house was trashed .</compressed>
+<original id=bn9623.rpi_segs.txt.960611.252.10>So , before the first frame is shot , nail down a few essentials .</original>
+<compressed id=bn9623.rpi_segs.txt.960611.252.10>before the first frame is shot , nail down a few essentials .</compressed>
+<original id=bn9623.rpi_segs.txt.960611.252.11>Ask the right questions of exactly what they want to be doing there and when they want to be doing it ; and as well is to get everything in writing that you can .</original>
+<compressed id=bn9623.rpi_segs.txt.960611.252.11>Ask the right questions of what they want to be doing there and when ; and get everything in writing that you can .</compressed>
+<original id=bn9623.rpi_segs.txt.960611.252.12>In his book , Filmed on Location , James Leonis says insist on a contract that sets out specifics of the shoot , and make sure the studio has insurance covering any damage .</original>
+<compressed id=bn9623.rpi_segs.txt.960611.252.12>insist on a contract that sets out specifics of the shoot , and make sure the studio has insurance covering any damage .</compressed>
+<original id=bn9623.rpi_segs.txt.960611.252.13>Then , prepare for an invasion .</original>
+<compressed id=bn9623.rpi_segs.txt.960611.252.13>prepare for an invasion .</compressed>
+<original id=bn9623.rpi_segs.txt.960611.252.14>They started setting up the house around Thanksgiving time , and now it 's June , and they 're still talking about shooting in our house .</original>
+<compressed id=bn9623.rpi_segs.txt.960611.252.14>They started setting up the house around Thanksgiving time , and now it 's June , and they 're still talking about shooting .</compressed>
+<original id=bn9623.rpi_segs.txt.960611.252.15>Rob Kos ' New Jersey home is being used for Columbia Pictures ' upcoming film , The Devil 's Own , starring Harrison Ford and Brad Pitt .</original>
+<compressed id=bn9623.rpi_segs.txt.960611.252.15>Rob Kos ' New Jersey home is being used for The Devil 's Own , starring Harrison Ford and Brad Pitt .</compressed>
+<original id=bn9623.rpi_segs.txt.960611.252.16>Kos says , despite the commotion , the experience has been worthwhile .</original>
+<compressed id=bn9623.rpi_segs.txt.960611.252.16>Kos says , despite the commotion , the experience has been worthwhile .</compressed>
+<original id=bn9623.rpi_segs.txt.960611.252.17>It was an adventure and probably a once-in-a-lifetime experience to get to see behind the scenes of how movies are made ; and so we just rolled with the punches , and it 's been great .</original>
+<compressed id=bn9623.rpi_segs.txt.960611.252.17>It was an adventure and a once-in-a-lifetime experience to see how movies are made ; so we just rolled with the punches , and it 's been great .</compressed>
+<original id=bn9623.rpi_segs.txt.960611.252.18>For most homeowners , the dream of stardom is a long shot .</original>
+<compressed id=bn9623.rpi_segs.txt.960611.252.18>For most homeowners , the dream of stardom is a long shot .</compressed>
+<original id=bn9623.rpi_segs.txt.960611.252.19>But to improve the odds of being discovered , list your home with state and local film commissions and production companies .</original>
+<compressed id=bn9623.rpi_segs.txt.960611.252.19>to improve the odds of being discovered , list your home with film commissions and production companies .</compressed>
+<original id=bn9623.rpi_segs.txt.960611.252.20>That 's Your Money .</original>
+<compressed id=bn9623.rpi_segs.txt.960611.252.20>That 's Your Money .</compressed>
+<original id=bn9623.rpi_segs.txt.960611.252.21>I 'm Fred Katayama , CNN Financial News , New York .</original>
+<compressed id=bn9623.rpi_segs.txt.960611.252.21>Fred Katayama , CNN Financial News , New York .</compressed>
+</text>
+</doc>

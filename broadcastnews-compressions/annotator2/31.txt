@@ -1,0 +1,47 @@
+<doc id=bn9624.rpi_segs.txt.960612.1015>
+<annotator>annotator2</annotator>
+<text>
+<original id=bn9624.rpi_segs.txt.960612.1015.0>Well , the ball could be on its last bounce tonight for the NBA season .</original>
+<compressed id=bn9624.rpi_segs.txt.960612.1015.0>the ball could be on its last bounce tonight for the NBA season .</compressed>
+<original id=bn9624.rpi_segs.txt.960612.1015.1>The Chicago Bulls and Seattle Supersonics are facing off.</original>
+<compressed id=bn9624.rpi_segs.txt.960612.1015.1>The Chicago Bulls and Seattle Supersonics are facing off.</compressed>
+<original id=bn9624.rpi_segs.txt.960612.1015.2>And Chicago could take its fourth championship of the decade with one more win .</original>
+<compressed id=bn9624.rpi_segs.txt.960612.1015.2>Chicago could take its fourth championship of the decade with one more win .</compressed>
+<original id=bn9624.rpi_segs.txt.960612.1015.3>CNN 's Jeff Flock joins us now and is bracing for a wild night on the streets of Chicago .</original>
+<compressed id=bn9624.rpi_segs.txt.960612.1015.3>Jeff Flock joins us now and is bracing for a wild night on the streets of Chicago .</compressed>
+<original id=bn9624.rpi_segs.txt.960612.1015.4>Jeff , how you doing out there ?</original>
+<compressed id=bn9624.rpi_segs.txt.960612.1015.4>Jeff , how you doing ?</compressed>
+<original id=bn9624.rpi_segs.txt.960612.1015.5>Well , it is kind of a wild night .</original>
+<compressed id=bn9624.rpi_segs.txt.960612.1015.5>it is a wild night .</compressed>
+<original id=bn9624.rpi_segs.txt.960612.1015.6>This is Michael Jordan 's Restaurant here in Chicago and , yes , as a Bulls birthday cake passes over my head here in just about two seconds - again , Michael Jordan 's Restaurant - but not particularly good news for the Bulls tonight so far .</original>
+<compressed id=bn9624.rpi_segs.txt.960612.1015.6>This is Michael Jordan 's Restaurant and , as a Bulls birthday cake passes over my head in just about two seconds - - but not good news for the Bulls so far .</compressed>
+<original id=bn9624.rpi_segs.txt.960612.1015.7>By my count , they are trailing the Seattle Supersonics by 21 points here at halftime , so it 's an appropriate time for us to show you Michael Jordan 's Restaurant .</original>
+<compressed id=bn9624.rpi_segs.txt.960612.1015.7>they are trailing the Seattle Supersonics by 21 points at halftime , so it 's appropriate for us to show you Michael Jordan 's Restaurant .</compressed>
+<original id=bn9624.rpi_segs.txt.960612.1015.8>Perhaps you see outside the soaring picture of Michael , as it soars perhaps two or three stories over Chicago - Michael 's picture painted out on that restaurant here .</original>
+<compressed id=bn9624.rpi_segs.txt.960612.1015.8>Perhaps you see the picture of Michael , as it soars two or three stories over Chicago painted on that restaurant .</compressed>
+<original id=bn9624.rpi_segs.txt.960612.1015.9>Obviously , this city concerned if tonight the Bulls can somehow pull it out and claim victory tonight , concerned that they do n't have a repeat of what happened in 1992 .</original>
+<compressed id=bn9624.rpi_segs.txt.960612.1015.9>this city concerned if the Bulls can claim victory tonight , concerned that they do n't have a repeat of what happened in 1992 .</compressed>
+<original id=bn9624.rpi_segs.txt.960612.1015.10>That is when the Bulls won their second NBA championship , second of three in a row - a lot of problems on the streets that night when they clinched that NBA title - looting , cars were overturned , things really got kind of out of hand .</original>
+<compressed id=bn9624.rpi_segs.txt.960612.1015.10>That is when the Bulls won their second NBA championship of three in a row - a lot of problems on the streets when they clinched that NBA title - looting , cars were overturned , things got out of hand .</compressed>
+<original id=bn9624.rpi_segs.txt.960612.1015.11>So what the city has done is made a concerted effort , spending upwards of $ 3 million on security and putting together a public service announcement , featuring the likes of Bulls coach Phil Jackson , Michael Jordan himself and an unlikely candidate for a public service announcement on how to conduct oneself properly - Dennis Rodman .</original>
+<compressed id=bn9624.rpi_segs.txt.960612.1015.11>So the city has made a concerted effort , spending upwards of $ 3 million on security and putting together a public service announcement , featuring Bulls coach Phil Jackson , Michael Jordan himself and an unlikely candidate for a public service announcement on how to conduct oneself properly - Dennis Rodman .</compressed>
+<original id=bn9624.rpi_segs.txt.960612.1015.12>Just like last time , we 're all in this together .</original>
+<compressed id=bn9624.rpi_segs.txt.960612.1015.12>like last time , we 're all in this together .</compressed>
+<original id=bn9624.rpi_segs.txt.960612.1015.13>If we win , celebrate our achievements with style and dignity .</original>
+<compressed id=bn9624.rpi_segs.txt.960612.1015.13>If we win , celebrate our achievements with style and dignity .</compressed>
+<original id=bn9624.rpi_segs.txt.960612.1015.14>This Chicago 's moment to shine .</original>
+<compressed id=bn9624.rpi_segs.txt.960612.1015.14>This Chicago 's moment to shine .</compressed>
+<original id=bn9624.rpi_segs.txt.960612.1015.15>Let 's show the world how to do it right .</original>
+<compressed id=bn9624.rpi_segs.txt.960612.1015.15>Let 's show the world how to do it right .</compressed>
+<original id=bn9624.rpi_segs.txt.960612.1015.16>That is what they hope happens tonight - the Bulls clinch the championship - however at this moment , things not looking tremendously well , the Bulls down by about 20 points .</original>
+<compressed id=bn9624.rpi_segs.txt.960612.1015.16>they hope the Bulls clinch the championship - however at this moment , things not looking well , the Bulls down by about 20 points .</compressed>
+<original id=bn9624.rpi_segs.txt.960612.1015.17>We will continue to stand here and dance with the folks and hope that things turn out for the best .</original>
+<compressed id=bn9624.rpi_segs.txt.960612.1015.17>We will stand here and dance with the folks and hope that things turn out for the best .</compressed>
+<original id=bn9624.rpi_segs.txt.960612.1015.18>We 'll continue to watch it.</original>
+<compressed id=bn9624.rpi_segs.txt.960612.1015.18>We 'll watch it.</compressed>
+<original id=bn9624.rpi_segs.txt.960612.1015.19>For now , reporting live from Michael Jordan 's Restaurant in Chicago , Jeff Flock .</original>
+<compressed id=bn9624.rpi_segs.txt.960612.1015.19>live from Michael Jordan 's Restaurant in Chicago , Jeff Flock .</compressed>
+<original id=bn9624.rpi_segs.txt.960612.1015.20>Back to you folks .</original>
+<compressed id=bn9624.rpi_segs.txt.960612.1015.20>Back to you .</compressed>
+</text>
+</doc>

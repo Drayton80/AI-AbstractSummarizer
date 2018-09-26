@@ -1,0 +1,49 @@
+<doc id=bn9625.rpi_segs.txt.960623.83>
+<annotator>annotator2</annotator>
+<text>
+<original id=bn9625.rpi_segs.txt.960623.83.0>Ted Kaczynski has a new home while he awaits his first trial on attacks linked to the Unabomber .</original>
+<compressed id=bn9625.rpi_segs.txt.960623.83.0>Ted Kaczynski has a new home while he awaits trial on attacks linked to the Unabomber .</compressed>
+<original id=bn9625.rpi_segs.txt.960623.83.1>The Montana recluse has been transported to California amid heavy security .</original>
+<compressed id=bn9625.rpi_segs.txt.960623.83.1>The Montana recluse has been transported to California .</compressed>
+<original id=bn9625.rpi_segs.txt.960623.83.2>With the help of CNN affiliate KCRA , our Don Knapp joins us now live from Sacramento with a look at what 's next .</original>
+<compressed id=bn9625.rpi_segs.txt.960623.83.2>Don Knapp joins us live from Sacramento with a look at what 's next .</compressed>
+<original id=bn9625.rpi_segs.txt.960623.83.3>Jill , Ted- Theodore Kaczynski is not very far from us right now .</original>
+<compressed id=bn9625.rpi_segs.txt.960623.83.3>Theodore Kaczynski is not far from us right now .</compressed>
+<original id=bn9625.rpi_segs.txt.960623.83.4>He 's in the building behind me .</original>
+<compressed id=bn9625.rpi_segs.txt.960623.83.4>He 's in the building behind me .</compressed>
+<original id=bn9625.rpi_segs.txt.960623.83.5>He 's up on the eighth floor in a jail cell .</original>
+<compressed id=bn9625.rpi_segs.txt.960623.83.5>He 's on the eighth floor in a cell .</compressed>
+<original id=bn9625.rpi_segs.txt.960623.83.6>It 's the Sacramento County Jail , where he has been since about mid-day today .</original>
+<compressed id=bn9625.rpi_segs.txt.960623.83.6>It 's the Sacramento County Jail , where he has been since mid-day .</compressed>
+<original id=bn9625.rpi_segs.txt.960623.83.7>But as close as we are , it is unlikely we will have any more photo ops- as a sheriff 's sergeant said to me earlier today , any more photo ops of the man known as the Unabomb suspect .</original>
+<compressed id=bn9625.rpi_segs.txt.960623.83.7>it is unlikely we will have any more photo ops of the man known as the Unabomb suspect .</compressed>
+<original id=bn9625.rpi_segs.txt.960623.83.8>A U.S. marshal 's jet plane brought Kaczynski from Montana a day earlier than expected .</original>
+<compressed id=bn9625.rpi_segs.txt.960623.83.8>A U.S. marshal 's plane brought Kaczynski a day earlier than expected .</compressed>
+<original id=bn9625.rpi_segs.txt.960623.83.9>Following a hearing in Helena Friday , marshals here said Kaczynski would arrive Monday evening .</original>
+<compressed id=bn9625.rpi_segs.txt.960623.83.9>Following a hearing Friday , marshals here said Kaczynski would arrive Monday evening .</compressed>
+<original id=bn9625.rpi_segs.txt.960623.83.10>He arrived at about 11 Pacific time Sunday morning at Mather [ sp ] Field about 15 miles east of Sacramento .</original>
+<compressed id=bn9625.rpi_segs.txt.960623.83.10>He arrived Sunday morning at Mather Field 15 miles east of Sacramento .</compressed>
+<original id=bn9625.rpi_segs.txt.960623.83.11>Officers took the Unabomb suspect into an armored vehicle and drove in a seven-car motorcade to Sacrament 's County jail .</original>
+<compressed id=bn9625.rpi_segs.txt.960623.83.11>Officers took the suspect into an armored vehicle and drove in a seven-car motorcade to County jail .</compressed>
+<original id=bn9625.rpi_segs.txt.960623.83.12>While he 's charged with some very egregious crimes , his conduct in custody has been quite the contrary .</original>
+<compressed id=bn9625.rpi_segs.txt.960623.83.12>While he 's charged with some egregious crimes , his conduct in custody has been the contrary .</compressed>
+<original id=bn9625.rpi_segs.txt.960623.83.13>He 's very placid , calm , sedentary , all the time .</original>
+<compressed id=bn9625.rpi_segs.txt.960623.83.13>He 's placid , calm , sedentary , all the time .</compressed>
+<original id=bn9625.rpi_segs.txt.960623.83.14>Does nothing more than read .</original>
+<compressed id=bn9625.rpi_segs.txt.960623.83.14>Does nothing more than read .</compressed>
+<original id=bn9625.rpi_segs.txt.960623.83.15>Kaczynski occupies a cell on the eighth floor with a window that provides a view of Sacramento , a town where two Unabomb victims died .</original>
+<compressed id=bn9625.rpi_segs.txt.960623.83.15>Kaczynski occupies a cell on the eighth floor with a view of Sacramento , where two Unabomb victims died .</compressed>
+<original id=bn9625.rpi_segs.txt.960623.83.16>We may have seen the last new pictures of Kaczynski .</original>
+<compressed id=bn9625.rpi_segs.txt.960623.83.16>We may have seen the last pictures of Kaczynski .</compressed>
+<original id=bn9625.rpi_segs.txt.960623.83.17>Plans call for trips to court to begin in a garage beneath the county jail and end in a garage beneath the federal courthouse , places where cameras are not allowed .</original>
+<compressed id=bn9625.rpi_segs.txt.960623.83.17>Plans call for trips to court to begin in a garage beneath the county jail and end in a garage beneath the federal courthouse , where cameras are not allowed .</compressed>
+<original id=bn9625.rpi_segs.txt.960623.83.18>Kaczynski faces charges contained in a 10-count federal indictment naming him as the person responsible for transporting bombs and bomb parts from Montana to California and mailing them to victims .</original>
+<compressed id=bn9625.rpi_segs.txt.960623.83.18>Kaczynski faces charges contained in a 10-count indictment naming him as the person responsible for transporting bombs and bomb parts from Montana to California and mailing them to victims .</compressed>
+<original id=bn9625.rpi_segs.txt.960623.83.19>In all , the Unabomb task force says the Unabomb suspect was responsible for some 23 injuries and three deaths over a 17-year period .</original>
+<compressed id=bn9625.rpi_segs.txt.960623.83.19>the Unabomb task force says the suspect was responsible for 23 injuries and three deaths over a 17-year period .</compressed>
+<original id=bn9625.rpi_segs.txt.960623.83.20>Jill , back to you .</original>
+<compressed id=bn9625.rpi_segs.txt.960623.83.20>, back to you .</compressed>
+<original id=bn9625.rpi_segs.txt.960623.83.21>Thanks very much , Don .</original>
+<compressed id=bn9625.rpi_segs.txt.960623.83.21>Thanks , Don .</compressed>
+</text>
+</doc>

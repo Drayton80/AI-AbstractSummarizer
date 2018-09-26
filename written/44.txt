@@ -1,0 +1,36 @@
+<doc id=AA4.8>
+<text>
+<original id=AA4.8.0>Czechoslovakia 's playwright-turned-politician , Mr Vaclav Havel , moved a step nearer to the presidency yesterday when the country 's Communist Prime Minister , Mr Marian Calfa , recommended that he should be installed by the end of the year .</original>
+<compressed id=AA4.8.0>Czechoslovakia 's playwright-turned-politician , Vaclav Havel , moved nearer to the presidency when the country 's Prime Minister , Marian Calfa , recommended he should be installed .</compressed>
+<original id=AA4.8.1>Mr Calfa also said that all domestic operations of the dreaded secret police have been halted .</original>
+<compressed id=AA4.8.1>Mr Calfa said all operations of the secret police have halted .</compressed>
+<original id=AA4.8.2>`` It is one of our priorities to adjust the work of the Interior Ministry to the new social conditions and turn this ministry into a component of state administration based on democratic principles ... As of today the operations of the police force in the field of internal intelligence have been stopped , '' Mr Calfa said .</original>
+<compressed id=AA4.8.2>`` It is one of our priorities to adjust the Interior Ministry to administration based on democratic principles ... the operations of the police force in internal intelligence have been stopped , '' Calfa said .</compressed>
+<original id=AA4.8.3>Turning his attention to Mr Havel , the Prime Minister said , `` It is the government 's opinion that there is no alternative [ to him]. '' According to the constitution , Mr Havel should be elected by December 24 --- within two weeks of the resignation of President Husak .</original>
+<compressed id=AA4.8.3>Turning to Havel , the Prime Minister said , `` there is no alternative '' According to the constitution , Mr Havel should be elected within two weeks of the resignation of Husak .</compressed>
+<original id=AA4.8.4>However , there were indications last night that some Communist deputies may seek to complicate the vote , by not turning up in sufficient numbers , or to delay it , possibly by as much as three weeks , to allow their own party to re-group after its recent humiliations .</original>
+<compressed id=AA4.8.4>there were indications that Communist deputies may complicate the vote or delay it , to allow their party to re-group .</compressed>
+<original id=AA4.8.5>An `` extraordinary '' Congress to elect a new Party leadership opens in Prague today .</original>
+<compressed id=AA4.8.5>An `` extraordinary '' Congress to elect a new Party leadership opens in Prague .</compressed>
+<original id=AA4.8.6>Mr Havel , himself a victim of the secret police , has spoken frequently of the never-ending threat of a house search , the knowledge that every visitor was photographed and every conversation bugged by the Communist regime .</original>
+<compressed id=AA4.8.6>Mr Havel has spoken frequently of the threat of a house search , the knowledge that every visitor was photographed and every conversation bugged .</compressed>
+<original id=AA4.8.7>Mr Havel 's house was continously monitored from a nearby tower of the Manes gallery in central Prague , and cameras were installed by the secret police in other streets where dissidents lived .</original>
+<compressed id=AA4.8.7>Havel 's house was monitored from a tower in Prague , and cameras were installed in streets where dissidents lived .</compressed>
+<original id=AA4.8.8>During the 41 years of Communist rule , an as yet undisclosed number of secret police agents were involved in continuous surveillance operations against citizens and were responsible for the interrogation and harassment of dissidents .</original>
+<compressed id=AA4.8.8>During the 41 years of Communist rule , an undisclosed number of secret police were involved in surveillance operations against citizens and the harassment of dissidents .</compressed>
+<original id=AA4.8.9>Meanwhile , the Socialist Party , one of the four smaller parties represented in the assembly , announced last night that it would also be backing Mr Havel 's candidacy .</original>
+<compressed id=AA4.8.9>the Socialist Party announced that it would be backing Havel 's candidacy .</compressed>
+<original id=AA4.8.10>While these constitutional niceties were being debated , a crowd of students gathered in the rain a few hundred yards away in Wenceslas Square to demonstrate support for Mr Havel .</original>
+<compressed id=AA4.8.10>While these constitutional niceties were debated , students gathered to support for Havel .</compressed>
+<original id=AA4.8.11>Balloons were released and Czechoslovak flags were waved as passing motorists sounded their horns in noisy support .</original>
+<compressed id=AA4.8.11>Balloons released and Czechoslovak flags waved as passing motorists sounded their horns .</compressed>
+<original id=AA4.8.12>The chances of the man who was seen as a contender for the presidency until a few days ago , the former leader , Mr Alexander Dubcek , winning the post are now seen as receding .</original>
+<compressed id=AA4.8.12>The chances for Alexander Dubcek winning are now receding .</compressed>
+<original id=AA4.8.13>Unconfirmed reports say he could become Speaker , a position of some honour but no great responsibility .</original>
+<compressed id=AA4.8.13>reports say he could become Speaker , a position no great responsibility .</compressed>
+<original id=AA4.8.14>Mr Calfa went on to outline an economic programme which would be operational until free elections can be held .</original>
+<compressed id=AA4.8.14>Mr Calfa went to outline an economic programme which would be operational until free elections .</compressed>
+<original id=AA4.8.15>`` The economic system of the last few decades has failed , '' he said .</original>
+<compressed id=AA4.8.15>`` The economic system of the last decades failed , '' .</compressed>
+</text>
+</doc>

@@ -1,0 +1,57 @@
+<doc id=bn9625.rpi_segs.txt.960622.133>
+<annotator>annotator3</annotator>
+<text>
+<original id=bn9625.rpi_segs.txt.960622.133.0>Sunday will be a day for Greeks to remember their long-time former prime minister , Andreas Papandreou .</original>
+<compressed id=bn9625.rpi_segs.txt.960622.133.0>Sunday Greeks remember Andreas Papandreou .</compressed>
+<original id=bn9625.rpi_segs.txt.960622.133.1>He has died at the age of 77 after months of failing health .</original>
+<compressed id=bn9625.rpi_segs.txt.960622.133.1>He has died .</compressed>
+<original id=bn9625.rpi_segs.txt.960622.133.2>CNN 's David Compton now joins us with a look back at a colorful and controversial political figure .</original>
+<compressed id=bn9625.rpi_segs.txt.960622.133.2>David Compton joins us with a look at a controversial political figure .</compressed>
+<original id=bn9625.rpi_segs.txt.960622.133.3>Andreas Papandreou was educated in the United States at Harvard .</original>
+<compressed id=bn9625.rpi_segs.txt.960622.133.3>Andreas Papandreou was educated at Harvard .</compressed>
+<original id=bn9625.rpi_segs.txt.960622.133.4>He became a power player in Greek politics in 1974 , when he founded the socialist Pasok party .</original>
+<compressed id=bn9625.rpi_segs.txt.960622.133.4>in 1974 he founded the socialist Pasok party .</compressed>
+<original id=bn9625.rpi_segs.txt.960622.133.5>He would rule the socialists with an iron grip for more than two decades .</original>
+<compressed id=bn9625.rpi_segs.txt.960622.133.5>He would rule the socialists for more than two decades .</compressed>
+<original id=bn9625.rpi_segs.txt.960622.133.6>In 1981 , he took the nation by storm .</original>
+<compressed id=bn9625.rpi_segs.txt.960622.133.6>In 1981 , he took the nation by storm .</compressed>
+<original id=bn9625.rpi_segs.txt.960622.133.7>His socialists came to power in a landslide election victory and Andreas Papandreou was Greek prime minister .</original>
+<compressed id=bn9625.rpi_segs.txt.960622.133.7>His socialists came to power and Andreas Papandreou was prime minister .</compressed>
+<original id=bn9625.rpi_segs.txt.960622.133.8>At various times , he vowed to pull Greece out of NATO and the European Union , promises he never kept but which won him fanatical support at home .</original>
+<compressed id=bn9625.rpi_segs.txt.960622.133.8>he vowed to pull Greece out of NATO and the European Union , promises he never kept but which won him support .</compressed>
+<original id=bn9625.rpi_segs.txt.960622.133.9>Health problems sapped some of his once boundless energy .</original>
+<compressed id=bn9625.rpi_segs.txt.960622.133.9>Health problems sapped his energy .</compressed>
+<original id=bn9625.rpi_segs.txt.960622.133.10>He had open-heart surgery in London in 1988 .</original>
+<compressed id=bn9625.rpi_segs.txt.960622.133.10>He had open-heart surgery .</compressed>
+<original id=bn9625.rpi_segs.txt.960622.133.11>After leaving the hospital , he arrived back in Greece in true Papandreou style - with his young mistress , a former airline flight attendant , at his side .</original>
+<compressed id=bn9625.rpi_segs.txt.960622.133.11>he arrived back in Greece with his mistress at his side .</compressed>
+<original id=bn9625.rpi_segs.txt.960622.133.12>He divorced his wife and declared this mistress the new first lady of Greece .</original>
+<compressed id=bn9625.rpi_segs.txt.960622.133.12>He divorced and declared this mistress the new first lady of Greece .</compressed>
+<original id=bn9625.rpi_segs.txt.960622.133.13>He married her a year later .</original>
+<compressed id=bn9625.rpi_segs.txt.960622.133.13>He married her later .</compressed>
+<original id=bn9625.rpi_segs.txt.960622.133.14>Scandals about his private life he could fight off.</original>
+<compressed id=bn9625.rpi_segs.txt.960622.133.14>Scandals about his private life he could fight off.</compressed>
+<original id=bn9625.rpi_segs.txt.960622.133.15>It was a political scandal that forced Papandreou out of power .</original>
+<compressed id=bn9625.rpi_segs.txt.960622.133.15>a political scandal forced Papandreou out of power .</compressed>
+<original id=bn9625.rpi_segs.txt.960622.133.16>In 1989 , he was accused of helping to embezzle hundreds of millions of dollars .</original>
+<compressed id=bn9625.rpi_segs.txt.960622.133.16>he was accused of helping to embezzle millions of dollars .</compressed>
+<original id=bn9625.rpi_segs.txt.960622.133.17>With the scandal hanging over his head , and the economy turning sour , the socialists fell out of favor and Papandreou became Greece 's former prime minister .</original>
+<compressed id=bn9625.rpi_segs.txt.960622.133.17>With the scandal and the economy turning sour , Papandreou became Greece 's former prime minister .</compressed>
+<original id=bn9625.rpi_segs.txt.960622.133.18>It was a title he would not hold for long .</original>
+<compressed id=bn9625.rpi_segs.txt.960622.133.18>It was a title he would not hold for long .</compressed>
+<original id=bn9625.rpi_segs.txt.960622.133.19>In 1992 , he was cleared of any connection to the financial scandal and was once again elected prime minister .</original>
+<compressed id=bn9625.rpi_segs.txt.960622.133.19>he was cleared of any connection the scandal and was elected prime minister .</compressed>
+<original id=bn9625.rpi_segs.txt.960622.133.20>But time had mellowed the fiery Papandreou .</original>
+<compressed id=bn9625.rpi_segs.txt.960622.133.20>time had mellowed Papandreou .</compressed>
+<original id=bn9625.rpi_segs.txt.960622.133.21>He still knocked heads with European and U.S. leaders , but his rhetoric had been toned down .</original>
+<compressed id=bn9625.rpi_segs.txt.960622.133.21>He knocked heads with leaders , but his rhetoric had been toned down .</compressed>
+<original id=bn9625.rpi_segs.txt.960622.133.22>He even began to court the approval and economic help of other Western nations , and talked of privatizing some state-run industries .</original>
+<compressed id=bn9625.rpi_segs.txt.960622.133.22>He began to court the help of Western nations , and talked of privatizing some industries .</compressed>
+<original id=bn9625.rpi_segs.txt.960622.133.23>In his final years , Papandreou shied away from public appearances and Cabinet meetings became less and less frequent .</original>
+<compressed id=bn9625.rpi_segs.txt.960622.133.23>Papandreou shied away from public appearances and Cabinet meetings .</compressed>
+<original id=bn9625.rpi_segs.txt.960622.133.24>In the end , it was failing health , not political rivals , that ended the Papandreou era .</original>
+<compressed id=bn9625.rpi_segs.txt.960622.133.24>it was failing health that ended the Papandreou era .</compressed>
+<original id=bn9625.rpi_segs.txt.960622.133.25>David Compton , CNN , reporting .</original>
+<compressed id=bn9625.rpi_segs.txt.960622.133.25>David Compton , CNN .</compressed>
+</text>
+</doc>

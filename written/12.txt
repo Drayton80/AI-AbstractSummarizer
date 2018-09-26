@@ -1,0 +1,36 @@
+<doc id=A4K.36>
+<text>
+<original id=A4K.36.0>Fourteen Nuns battling to save their flock of 5,000 chickens from slaughter have won a further reprieve .</original>
+<compressed id=A4K.36.0>Fourteen Nuns battling to save their 5,000 chickens from slaughter have won a reprieve .</compressed>
+<original id=A4K.36.1>Lawyers representing the nuns from the Our Lady of the Passion Monastery , Daventry , Northamptonshire , were yesterday granted a judicial review of the Ministry of Agriculture order to slaughter the chickens .</original>
+<compressed id=A4K.36.1>Lawyers representing the nuns from Our Lady of the Passion Monastery , were granted a review of the Ministry of Agriculture order .</compressed>
+<original id=A4K.36.2>This followed a private hearing before Mr Justice Konrad Schiemann in London .</original>
+<compressed id=A4K.36.2>This followed a hearing before Mr Justice Konrad Schiemann .</compressed>
+<original id=A4K.36.3>It is alleged that the flock is infected with Salmonella typhimurium .</original>
+<compressed id=A4K.36.3>It is alleged that the flock is infected with Salmonella .</compressed>
+<original id=A4K.36.4>The judicial review hearing will take place on Friday in the High Court when the full arguments will be presented , according to Dennis Cooper , who is representing the nuns .</original>
+<compressed id=A4K.36.4>The hearing will take place on Friday when the full arguments will be presented , according to Dennis Cooper , who is representing the nuns .</compressed>
+<original id=A4K.36.5>In a written application for the review , lawyers said the decision to slaughter was made `` despite a significant lack of evidence of a connection between the food poisoning outbreak in Bedworth and the monastery '' .</original>
+<compressed id=A4K.36.5>lawyers said the decision was made `` despite a lack of evidence of a connection between the food poisoning in Bedworth and the monastery '' .</compressed>
+<original id=A4K.36.6>Ministry officials were also accused of giving conflicting evidence , leaving doubt as to the accuracy and reliability of reports of infection .</original>
+<compressed id=A4K.36.6>Ministry officials were accused of giving conflicting evidence , leaving doubt as to the reliability of reports of infection .</compressed>
+<original id=A4K.36.7>They had refused to supply details of alleged infection and this deprived the nuns of a chance to determine whether mistakes had been made , the lawyers said .</original>
+<compressed id=A4K.36.7>They refused to supply details and this deprived the nuns of a chance to determine whether mistakes had been made .</compressed>
+<original id=A4K.36.8>They said the failure to give full reasons for the intended slaughter and the absence of any factual basis for the action justified the High Court in blocking the order .</original>
+<compressed id=A4K.36.8>the failure to give full reasons and the absence of any basis justified the High Court blocking the order .</compressed>
+<original id=A4K.36.9>The ministry claims that an outbreak of food poisoning in July , at Bedworth , near Daventry , caused by Salmonella typhimurium was traced to the monastery .</original>
+<compressed id=A4K.36.9>The ministry claims that an outbreak of food poisoning in July near Daventry , was traced to the monastery .</compressed>
+<original id=A4K.36.10>However , the nuns said the ministry changed its account after initially telling them that Salmonella enteriditis was responsible .</original>
+<compressed id=A4K.36.10>the ministry changed its account after initially telling them that Salmonella was responsible .</compressed>
+<original id=A4K.36.11>Richard North , an environmental health officer advising the nuns , said last night that they were all `` delighted '' with the outcome .</original>
+<compressed id=A4K.36.11>Richard North , an environmental health officer advising the nuns , said they were `` delighted '' with the outcome .</compressed>
+<original id=A4K.36.12>Mother Catherine , 82 , the mother superior , will attend the hearing on Friday , he said .</original>
+<compressed id=A4K.36.12>Mother Catherine , 82 , the mother superior , will attend .</compressed>
+<original id=A4K.36.13>Mr North is technical adviser to the United Kingdom Egg Producers ' Association , which has launched an appeal to meet the nuns ' legal costs .</original>
+<compressed id=A4K.36.13>the United Kingdom Egg Producers ' Association launched an appeal to meet the nuns ' legal costs .</compressed>
+<original id=A4K.36.14>A spokesman for the ministry said it would continue consultation with Mother Catherine , and would be studying the papers submitted by the lawyers .</original>
+<compressed id=A4K.36.14>A spokesman said it would continue consultation with Mother Catherine , and would be studying the papers submitted by the lawyers .</compressed>
+<original id=A4K.36.15>`` There is still a statutory obligation to slaughter the flock , '' he said .</original>
+<compressed id=A4K.36.15>`` There is a statutory obligation to slaughter the flock '' .</compressed>
+</text>
+</doc>

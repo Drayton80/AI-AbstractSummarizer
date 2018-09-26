@@ -1,0 +1,38 @@
+<doc id=A96.17>
+<text>
+<original id=A96.17.0>Aturkish print worker alleged yesterday that a Harley Street doctor paid £2,500 for him to donate a kidney to a patient whom he believed was a fellow countryman .</original>
+<compressed id=A96.17.0>Aturkish print worker alleged that a doctor paid £2,500 for him to donate a kidney to a patient he believed was a countryman .</compressed>
+<original id=A96.17.1>Mr Ferhat Usta , a Muslim , said he realised minutes before the operation that his kidney was going to a Briton .</original>
+<compressed id=A96.17.1>Mr Usta , a Muslim , realised minutes before the operation that his kidney was going to a Briton .</compressed>
+<original id=A96.17.2>`` I suddenly got out of bed half naked .</original>
+<compressed id=A96.17.2>`` I got out of bed .</compressed>
+<original id=A96.17.3>I realised I was being deceived , '' he told the General Medical Council 's professional conduct committee .</original>
+<compressed id=A96.17.3>I was being deceived , '' he told the General Medical Council 's conduct committee .</compressed>
+<original id=A96.17.4>Mr Usta , aged 34 , who lives with his wife , mother and three daughters in a shack in an Istanbul shanty town , described how he came to London last year , attracted by a newspaper advertisement offering money to kidney donors .</original>
+<compressed id=A96.17.4>Mr Usta who lives with his wife , mother and daughters in an Istanbul shanty town , came to London , attracted by a advertisement offering money to kidney donors .</compressed>
+<original id=A96.17.5>He wanted to raise £2,000 to treat one of his children who suffered from a tubercular hip infection .</original>
+<compressed id=A96.17.5>He wanted £2,000 to treat one of his children who suffered from a hip infection .</compressed>
+<original id=A96.17.6>Mr Usta was examined by Dr Raymond Crockett , a Harley Street physician specialising in kidney disease .</original>
+<compressed id=A96.17.6>Mr Usta was examined by Dr Raymond Crockett , a physician specialising in kidney disease .</compressed>
+<original id=A96.17.7>Dr Crockett , Mr Michael Bewick , a leading kidney transplant surgeon , and Mr Michael Joyce , a urologist at Guy 's Hospital , deny professional misconduct over their involvement in transplanting kidneys from four living Turks , all of whom were paid for the organs .</original>
+<compressed id=A96.17.7>Dr Crockett , Mr Michael Bewick , and Mr Michael Joyce deny misconduct over their involvement in transplanting kidneys from living Turks , all of whom were paid .</compressed>
+<original id=A96.17.8>Mr Usta recalled how two brothers , described as `` kidney brokers '' , handed him £2,500 in cash on the night before the operation in July 1988 .</original>
+<compressed id=A96.17.8>Mr Usta recalled how `` kidney brokers '' , handed him £2,500 before the operation in July 1988 .</compressed>
+<original id=A96.17.9>Speaking through an interpreter , Mr Usta said : `` As far as I can figure it out , one day before the operation the cheque was given by Dr Crockett , it was changed and the money given to me that night. '' On Monday , the first day of the hearing , Mr Roger Henderson Qc , for the Gmc , said Dr Crockett 's notes included a bill for £20,000 for a Mr B , described as a Briton living in Israel who was suffering from a disease affecting his kidneys .</original>
+<compressed id=A96.17.9>Speaking through an interpreter , Mr Usta said : `` one day before the operation was the money given to me '' On the first day of the hearing , Mr Roger Henderson Qc , said Dr Crockett 's notes included a bill for £20,000 for a Mr B , a Briton living in Israel suffering from a disease affecting his kidneys .</compressed>
+<original id=A96.17.10>Mr Usta said he had come to London under the impression that his kidney was to be donated to one of the `` broker '' brothers , Ata Nur Kuntar .</original>
+<compressed id=A96.17.10>Mr Usta said he had come to London under the impression that his kidney was to be donated to one of the `` broker '' brothers .</compressed>
+<original id=A96.17.11>He had said to Mr Kuntar : `` You could have told me the truth from the very beginning .</original>
+<compressed id=A96.17.11>He said to Mr Kuntar : `` You could have told me the truth .</compressed>
+<original id=A96.17.12>Because I am a very poor man you made me accept a figure like six million lire ( £2,500 ) .</original>
+<compressed id=A96.17.12>Because I am a poor you made me accept six million lire ( £2,500 ) .</compressed>
+<original id=A96.17.13>An Englishman , if he is going to have an operation in a hospital like that , I am sure he would have at least £5,000 in his pocket .</original>
+<compressed id=A96.17.13>An Englishman going to have an operation like that would have £5,000 .</compressed>
+<original id=A96.17.14>`` I told him that I wanted £5,000 from him .</original>
+<compressed id=A96.17.14>`` I told him I wanted £5,000 .</compressed>
+<original id=A96.17.15>He then accepted this and he told me he was going to pay me the other £2,500 in Turkey in Turkish money. '' He said he never received the extra money .</original>
+<compressed id=A96.17.15>He told me he was going to pay the other £2,500 in Turkish money. '' He never received the money .</compressed>
+<original id=A96.17.16>The hearing continues today .</original>
+<compressed id=A96.17.16>The hearing continues .</compressed>
+</text>
+</doc>

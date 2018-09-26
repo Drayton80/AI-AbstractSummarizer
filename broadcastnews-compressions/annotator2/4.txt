@@ -1,0 +1,41 @@
+<doc id=bn9622.rpi_segs.txt.960531.568>
+<annotator>annotator2</annotator>
+<text>
+<original id=bn9622.rpi_segs.txt.960531.568.0>Direct talks did n't work , and mediators did n't help .</original>
+<compressed id=bn9622.rpi_segs.txt.960531.568.0>Direct talks did n't work , and mediators did n't help .</compressed>
+<original id=bn9622.rpi_segs.txt.960531.568.1>Now the FBI may be turning to a religious expert to help end the standoff at the Freemen standoff in Montana .</original>
+<compressed id=bn9622.rpi_segs.txt.960531.568.1>Now the FBI may be turning to a religious expert to end the Freemen standoff in Montana .</compressed>
+<original id=bn9622.rpi_segs.txt.960531.568.2>A member of a religious think tank from Houston is now meeting with federal agents .</original>
+<compressed id=bn9622.rpi_segs.txt.960531.568.2>A member of a religious think tank from Houston is meeting with federal agents .</compressed>
+<original id=bn9622.rpi_segs.txt.960531.568.3>CNN 's Don Knapp joins us live from Montana with more , now .</original>
+<compressed id=bn9622.rpi_segs.txt.960531.568.3>Don Knapp joins us live from Montana with .</compressed>
+<original id=bn9622.rpi_segs.txt.960531.568.4>Don ?</original>
+<compressed id=bn9622.rpi_segs.txt.960531.568.4>Don ?</compressed>
+<original id=bn9622.rpi_segs.txt.960531.568.5>Bobbie , it is , as you can see , a wet , rainy , grey muddy morning here in Montana with no sign of activity on the Freemen ranch this morning ; no sign of any activity on the part of the FBI .</original>
+<compressed id=bn9622.rpi_segs.txt.960531.568.5>no sign of activity on the Freemen ranch ; no sign of any activity on the part of the FBI .</compressed>
+<original id=bn9622.rpi_segs.txt.960531.568.6>We know that work is continuing in an effort to put generators on the neighboring ranches so that , at some point , the FBI will be allowed to- or will be able to shut off power to the Freemen .</original>
+<compressed id=bn9622.rpi_segs.txt.960531.568.6>work is continuing to put generators on the neighboring ranches so that the FBI will be able to shut off power to the Freemen .</compressed>
+<original id=bn9622.rpi_segs.txt.960531.568.7>But , as you point out , there is some activity underway .</original>
+<compressed id=bn9622.rpi_segs.txt.960531.568.7>But there is some activity underway .</compressed>
+<original id=bn9622.rpi_segs.txt.960531.568.8>The FBI has brought in a religious expert .</original>
+<compressed id=bn9622.rpi_segs.txt.960531.568.8>The FBI has brought in a religious expert .</compressed>
+<original id=bn9622.rpi_segs.txt.960531.568.9>He is Philip Arnold [ sp ] , an associate at the Reunion Institute in Houston and a member of the Religious Freedom Task Force .</original>
+<compressed id=bn9622.rpi_segs.txt.960531.568.9>He is Philip Arnold , an associate at the Reunion Institute in Houston and a member of the Religious Freedom Task Force .</compressed>
+<original id=bn9622.rpi_segs.txt.960531.568.10>He is said to be consulting with the FBI and , the Department of Justice told CNN they have not ruled out his acting as a negotiator .</original>
+<compressed id=bn9622.rpi_segs.txt.960531.568.10>He is consulting with the FBI and they have not ruled out his acting as a negotiator .</compressed>
+<original id=bn9622.rpi_segs.txt.960531.568.11>They say that he is an expert on this sort of unconventional barrier situation .</original>
+<compressed id=bn9622.rpi_segs.txt.960531.568.11>They say that he is an expert on this sort of situation .</compressed>
+<original id=bn9622.rpi_segs.txt.960531.568.12>He 's been critical of the FBI 's handling- or the federal government 's handling of the incident at Waco that cost so many lives .</original>
+<compressed id=bn9622.rpi_segs.txt.960531.568.12>He 's been critical of the federal government 's handling of the incident at Waco that cost so many lives .</compressed>
+<original id=bn9622.rpi_segs.txt.960531.568.13>Meanwhile , in Billings , Montana , yesterday , there was a hearing for two of the original Freemen whose arrests triggered this standoff , along with three other associates .</original>
+<compressed id=bn9622.rpi_segs.txt.960531.568.13>in Billings , Montana , there was a hearing for two of the Freemen whose arrests triggered this standoff , along with three other associates .</compressed>
+<original id=bn9622.rpi_segs.txt.960531.568.14>The hearing became unruly .</original>
+<compressed id=bn9622.rpi_segs.txt.960531.568.14>The hearing became unruly .</compressed>
+<original id=bn9622.rpi_segs.txt.960531.568.15>Two Freemen were evicted from the courtroom , and the judge did grant the prosecution a little more time to prepare for trial .</original>
+<compressed id=bn9622.rpi_segs.txt.960531.568.15>Two Freemen were evicted from the courtroom , and the judge did grant the prosecution more time to prepare for trial .</compressed>
+<original id=bn9622.rpi_segs.txt.960531.568.16>Bobbie ?</original>
+<compressed id=bn9622.rpi_segs.txt.960531.568.16>Bobbie ?</compressed>
+<original id=bn9622.rpi_segs.txt.960531.568.17>Don Knapp near Brusett , Montana , thanks very much .</original>
+<compressed id=bn9622.rpi_segs.txt.960531.568.17>Don Knapp near Brusett , Montana , thanks very much .</compressed>
+</text>
+</doc>

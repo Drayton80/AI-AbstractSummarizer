@@ -1,0 +1,34 @@
+<doc id=A4X.23>
+<text>
+<original id=A4X.23.0>A Un Mission has not yet found any detainees in Swapo refugee camps , prison camps , bases and other facilities in Angola and Zambia , the Un Special Representative for Namibia , Martti Ahtisaari , said yesterday .</original>
+<compressed id=A4X.23.0>Un has not yet found detainees in Swapo camps in Angola and Zambia , Un Representative , Martti Ahtisaari , said .</compressed>
+<original id=A4X.23.1>In making public the findings so far of the Mission on Detainees in Angola and Zambia , Mr Ahtisaari said that the group would keep trying to find about 250 people reported to have been detained or missing .</original>
+<compressed id=A4X.23.1>Mr Ahtisaari said the group would keep trying to find 250 people reported missing .</compressed>
+<original id=A4X.23.2>`` At the alleged places of detention , '' Mr Ahtisaari said , `` the facilities were found to have been stripped of all valuable material and not to have been inhabited for several weeks at least. '' As a result of interviews with local people , he said , the mission did not believe that any detainees were moved from prison camps `` to another place prior to the mission 's arrival '' .</original>
+<compressed id=A4X.23.2>Mr Ahtisaari said `` the facilities were found not to have been inhabited for weeks '' the mission did not believe any detainees were moved `` to another place prior to the mission 's arrival '' .</compressed>
+<original id=A4X.23.3>The Un team spent three weeks visiting the camps in September .</original>
+<compressed id=A4X.23.3>The Un team spent three weeks visiting the camps .</compressed>
+<original id=A4X.23.4>It found that a number of them were `` what could be described as pits '' , according to the Nigerian ambassador , Ba Clark , who headed the team and who represents the United Nations Transition Assistance Group ( Untag ) in Angola .</original>
+<compressed id=A4X.23.4>a number of them could be described as pits , according to the Nigerian ambassador , Ba Clark , who headed the team .</compressed>
+<original id=A4X.23.5>He described the facilities as `` bricks , cement or mud-lined holes in the ground without steps or , by now , roofs '' .</original>
+<compressed id=A4X.23.5>He described the facilities as `` bricks , cement or mud-lined holes in the ground without steps or roofs '' .</compressed>
+<original id=A4X.23.6>Before it left , the Un mission compiled information on 1,100 people who had been detained , were alleged to have been detained or who were said to be missing , back to 1977 .</original>
+<compressed id=A4X.23.6>the mission compiled information on 1,100 people who had been detained or said to be missing , back to 1977 .</compressed>
+<original id=A4X.23.7>The information came from a variety of sources , including Swapo itself .</original>
+<compressed id=A4X.23.7>The information came from a variety of sources , including Swapo .</compressed>
+<original id=A4X.23.8>The mission then cross-checked the names with those of people repatriated to Namibia through the Un High Commissioner for Refugees programme , which has brought back 41,000 Namibians , including most Swapo guerrillas .</original>
+<compressed id=A4X.23.8>The mission then cross-checked the names with those of people repatriated to Namibia , 41,000 including most Swapo guerrillas .</compressed>
+<original id=A4X.23.9>Mr Ahtisaari said that only 315 people were then found to be unaccounted for , because the mission 's list contained duplications , vague identifications , names of people who have been released and repatriated , names of people never detained and some who have been reported dead .</original>
+<compressed id=A4X.23.9>315 people were unaccounted for</compressed>
+<original id=A4X.23.10>But Mr Ahtisaari said that more recent checking , against the roll of Namibians who registered to vote in recent months , turned up 54 more names , and the mission expects to find that at least 20 others have been repatriated .</original>
+<compressed id=A4X.23.10>Mr Ahtisaari said that recent checking against the roll of Namibians who registered to vote turned up 54 more names , and the mission expects to find at least 20 others .</compressed>
+<original id=A4X.23.11>An anomaly in the report is that it lists 21 `` locations of alleged detainees '' in Angola .</original>
+<compressed id=A4X.23.11>the report lists 21 `` locations of alleged detainees '' in Angola .</compressed>
+<original id=A4X.23.12>The team visited only 10 .</original>
+<compressed id=A4X.23.12>The team visited 10 .</compressed>
+<original id=A4X.23.13>But war was under way again in southern Angola , the team faced obvious difficulties and had to rely on information from the Angolan government .</original>
+<compressed id=A4X.23.13>war was under way in Angola , the team had to rely on information from the government .</compressed>
+<original id=A4X.23.14>It is still not clear whether the approximately 250 people still listed as missing include those whom ex-detainees say were still alive in May , or if they include the names of those last seen in 1984 or 1986 .</original>
+<compressed id=A4X.23.14>It is not clear whether the 250 people still missing include those whom ex-detainees say were alive in May , or those last seen in 1984 or 1986 .</compressed>
+</text>
+</doc>

@@ -1,0 +1,40 @@
+<doc id=A7W.30>
+<text>
+<original id=A7W.30.0>British Rail has called on four rail unions to agree plans to limit excessive overtime worked by signals and telecommunications engineers as part of a radical review of pay and working conditions following the disaster .</original>
+<compressed id=A7W.30.0>British Rail has called on unions to to limit overtime worked by signals and telecommunications engineers following the disaster .</compressed>
+<original id=A7W.30.1>The unions were invited to urgent talks in a letter yesterday .</original>
+<compressed id=A7W.30.1>The unions were invited to talks .</compressed>
+<original id=A7W.30.2>Mr Nick Mitchell , the head of personnel for the signals and telecommunications section , said the board had come to certain conclusions about pay and conditions for its 7,000 S&T engineers after a review of manpower and reward systems .</original>
+<compressed id=A7W.30.2>Mr Nick Mitchell , head of personnel for signals and telecommunications , said the board had come to conclusions about pay and conditions for its 7,000 engineers after a review .</compressed>
+<original id=A7W.30.3>`` The point has now been reached where we need to finalise this work. '' A crippling recruitment and retention crisis has seen Br lose vital engineering staff to better paid jobs for example in British Telecom and Mercury , where senior technicians ' rates are up to £60 a week more .</original>
+<compressed id=A7W.30.3>`` we need to finalise this work. '' A recruitment and retention crisis has seen Br lose vital engineering staff to jobs where senior technicians ' rates are £60 a week more .</compressed>
+<original id=A7W.30.4>Br has had to rely on staff working excessive overtime to carry out maintenance and repair work .</original>
+<compressed id=A7W.30.4>Br has to rely on excessive overtime to carry out maintenance and repair work .</compressed>
+<original id=A7W.30.5>Pay rates , overtime --- central issues in this summer 's pay dispute --- and repeated restructuring of the S&T division , are attacked in Sir Anthony Hidden 's report .</original>
+<compressed id=A7W.30.5>Pay rates , overtime and repeated restructuring of the S&T division , are attacked in Sir Anthony Hidden 's report .</compressed>
+<original id=A7W.30.6>Br accepts that measures imposed in mid-1988 to ease staff retention problems have failed .</original>
+<compressed id=A7W.30.6>Br accepts that measures to ease staff retention failed .</compressed>
+<original id=A7W.30.7>Grading was simplified then and S&T staff were offered an extra £1,200 a year in skills allowances subject to satisfactory attendance and working , but skills shortages continue .</original>
+<compressed id=A7W.30.7>Grading was simplified and S&T staff were offered an extra £1,200 a year in skills allowances , but shortages continue .</compressed>
+<original id=A7W.30.8>Mr Jimmy Knapp , general secretary of the National Union of Railwaymen , said yesterday that Br had since moved to stem excessive overtime by ordering a maximum working week of 72 hours .</original>
+<compressed id=A7W.30.8>Mr Jimmy Knapp said Br had moved to a maximum working week of 72 hours .</compressed>
+<original id=A7W.30.9>The basic week is 39 hours .</original>
+<compressed id=A7W.30.9>The week is 39 hours .</compressed>
+<original id=A7W.30.10>He went on : `` Br have not talked to us about limiting overtime , but it says a lot about the industry when limiting shifts to 12 hours a day is considered progress. '' The consequence of the reduction had been to put resignalling work around Waterloo --- which led to the Clapham disaster --- two months behind schedule .</original>
+<compressed id=A7W.30.10>`` it says a lot about the industry when limiting shifts to 12 hours a day is progress. '' The reduction put resignalling work around Waterloo --- which led to the disaster --- two months behind schedule .</compressed>
+<original id=A7W.30.11>Br said it had taken steps to control overtime and to ensure engineers were taking breaks in the hard pressed Southern Region , where skills shortages are most acute .</original>
+<compressed id=A7W.30.11>Br said it had taken steps to control overtime and ensure engineers were taking breaks in the Southern Region , where shortages are acute .</compressed>
+<original id=A7W.30.12>On pay the Clapham report said it was `` abundantly clear '' that pay levels had failed to provide Br with the `` overall size , structure and quality of workforce '' it needed .</original>
+<compressed id=A7W.30.12>the Clapham report said it was `` clear '' that pay levels had failed to provide Br with the `` size , structure and quality of workforce '' it needed .</compressed>
+<original id=A7W.30.13>`` Constraints on recruiting are constraints on safety and have to be removed. '' The report also criticises the rail unions for `` entrenched resistance to change '' .</original>
+<compressed id=A7W.30.13>`` Constraints have to be removed. '' The report criticises the unions for `` resistance to change '' .</compressed>
+<original id=A7W.30.14>Evidence , particularly Mr Knapp 's , proved `` how deep was the mistrust and suspicion employer had for union and union had for employer '' .</original>
+<compressed id=A7W.30.14>Evidence proved `` how deep was the mistrust employer had for union and union had for employer '' .</compressed>
+<original id=A7W.30.15>The Br chairman Sir Robert Reid told a press conference in London yesterday : `` I accept all the inquiry 's recommendations here and now .</original>
+<compressed id=A7W.30.15>The Br chairman Sir Robert Reid told a press conference : `` I accept all the inquiry 's recommendations .</compressed>
+<original id=A7W.30.16>We have taken steps to ensure that the circumstances that led to this tragedy can never be repeated. '' British Rail is investigating the role of temporary hand-signalling in a head-on crash between two trains at Huddersfield which injured 17 people on Monday night .</original>
+<compressed id=A7W.30.16>the circumstances that led to this tragedy can never be repeated. '' British Rail is investigating the role of hand-signalling in a crash between trains at Huddersfield which injured 17 people .</compressed>
+<original id=A7W.30.17>No one was badly hurt in the accident between a trans-Pennine service and a local commuter train on track where modernised signalling is being installed .</original>
+<compressed id=A7W.30.17>No one was badly hurt in the accident on track where modernised signalling is being installed .</compressed>
+</text>
+</doc>

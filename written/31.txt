@@ -1,0 +1,40 @@
+<doc id=A30.25>
+<text>
+<original id=A30.25.0>Lord Aldington told a High Court jury yesterday he remembered making inquiries to ensure that thousands of Yugoslavs repatriated by the British at the end of the Second World War would be properly treated .</original>
+<compressed id=A30.25.0>Lord Aldington remembered making inquiries to ensure Yugoslavs repatriated by the British at the end of the War would be properly treated .</compressed>
+<original id=A30.25.1>He was continuing evidence in a libel action against Count Nikolai Tolstoy , the historian , and Nigel Watts , a Tunbridge Wells property developer , who circulated a pamphlet in 1987 describing him as responsible for repatriating 70,000 Russian Cossacks and Yugoslavs to be massacred by the communists in 1945 .</original>
+<compressed id=A30.25.1>He was continuing evidence in a libel action against Nikolai Tolstoy , and Nigel Watts , who circulated a pamphlet describing him as responsible for repatriating 70,000 Cossacks and Yugoslavs to be massacred by the communists .</compressed>
+<original id=A30.25.2>The defendants say the accusations are true .</original>
+<compressed id=A30.25.2>The defendants say the accusations are true .</compressed>
+<original id=A30.25.3>In evidence earlier this week Lord Aldington , 75 , formerly Brigadier Toby Lowe , said the first he had heard that the men , women and children sent back from the British-occupied zone of Austria had been tortured and massacred was from Count Tolstoy in 1979 .</original>
+<compressed id=A30.25.3>Lord Aldington said the first he had heard that men , women and children sent back from the British-occupied Austria had been tortured and massacred was from Tolstoy in 1979 .</compressed>
+<original id=A30.25.4>He said yesterday : `` I 'm sure I had been making inquiries ( in 1945 ) about what would happen to people who we sent back .</original>
+<compressed id=A30.25.4>He said : `` I had been making inquiries about what would happen .</compressed>
+<original id=A30.25.5>I have in my memory a feeling that we had satisfied ourselves that international law would be obeyed. '' He referred to two documents where the Yugoslavs gave undertakings about treatment of repatriated citizens .</original>
+<compressed id=A30.25.5>we had satisfied ourselves that international law would be obeyed. '' He referred to documents where the Yugoslavs gave undertakings about repatriated citizens .</compressed>
+<original id=A30.25.6>Lord Aldington was asked why the Yugoslavs had not been told their destination before repatriation .</original>
+<compressed id=A30.25.6>Lord Aldington was asked why the Yugoslavs had not been told their destination .</compressed>
+<original id=A30.25.7>`` We did not wish to create conditions which led to possible violence. '' This would have meant extra guards were needed on the camps , and would have forced the British soliders to use force .</original>
+<compressed id=A30.25.7>`` We did not wish to create conditions which led to violence. '' This would have meant extra guards , and would have forced the British soliders to use force .</compressed>
+<original id=A30.25.8>He also told the court he had been acting in accordance with an order from Allied Forces Headquarters on 14 May 1945 .</original>
+<compressed id=A30.25.8>he had been acting in accordance with an order from Allied Forces Headquarters .</compressed>
+<original id=A30.25.9>That said : `` All Russians to be handed over to Soviet forces and all surrendered Yugoslav nationals serving in German forces to be handed over to Yugoslav forces. '' Asked whether he had screened the Yugoslavs before they were sent back , he said there had been no requirement under the order .</original>
+<compressed id=A30.25.9>`` All Russians to be handed over to Soviet forces and all surrendered Yugoslav to Yugoslav forces. '' Asked whether he had screened the Yugoslavs , he said there had been no requirement under the order .</compressed>
+<original id=A30.25.10>He was asked why he had repatriated the women and children `` camp followers '' with the captured troops .</original>
+<compressed id=A30.25.10>He was asked why he had repatriated women and children with captured troops .</compressed>
+<original id=A30.25.11>He said that had been a concession to them to allow families to stay together .</original>
+<compressed id=A30.25.11>He said to allow families to stay together .</compressed>
+<original id=A30.25.12>`` I assume that we thought that these dependants would wish to accompany their soldiers and that the soldiers would wish to have them with them .</original>
+<compressed id=A30.25.12>`` we thought that dependants would wish to accompany their soldiers .</compressed>
+<original id=A30.25.13>It was a concession , not an extra burden. '' But he did not order the return of other civilians , he said .</original>
+<compressed id=A30.25.13>It was a concession '' he did not order the return of other civilians .</compressed>
+<original id=A30.25.14>At the time , he and his commanding officers were more concerned with preparing to fight Tito 's partisans , Lord Aldington added .</original>
+<compressed id=A30.25.14>he and his commanding officers were more concerned with Tito 's partisans .</compressed>
+<original id=A30.25.15>In May 1945 Yugoslav partisans had been spreading through Allied-occupied Austria , trying to annexe much of it to their own country .</original>
+<compressed id=A30.25.15>In May 1945 Yugoslav partisans had been spreading through Austria , trying to annexe it to their country .</compressed>
+<original id=A30.25.16>The British Eighth Army 's V Corps , where he was a staff officer , had been giving top priority to Operation Beehive , preparing a strategy to fight the Yugoslavs if necessary .</original>
+<compressed id=A30.25.16>The British Eighth Army 's V Corps had been giving priority to Operation Beehive , preparing to fight the Yugoslavs .</compressed>
+<original id=A30.25.17>He said it had been vital to keep Operation Beehive secret from the Soviets and the Yugoslavs , so many people within V Corps had not known about it.</original>
+<compressed id=A30.25.17>to keep Operation Beehive secret from Yugoslavs , many people within V Corps had not known about it.</compressed>
+</text>
+</doc>

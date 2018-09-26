@@ -1,0 +1,34 @@
+<doc id=AA8.15>
+<text>
+<original id=AA8.15.0>This was not a matter of political convenience .</original>
+<compressed id=AA8.15.0>This was not a matter of political convenience .</compressed>
+<original id=AA8.15.1>I was drawn to Laurie at first meeting , when the local Co-operative Party nominated him as candidate for the 1959 general election .</original>
+<compressed id=AA8.15.1>I was drawn to Laurie at first meeting , when the Co-operative Party nominated him as candidate for the 1959 election .</compressed>
+<original id=AA8.15.2>From the bottom of the list of nominees he climbed to the top .</original>
+<compressed id=AA8.15.2>he climbed to the top .</compressed>
+<original id=AA8.15.3>Laurie had a warmth of personality in all his doings with people and politics .</original>
+<compressed id=AA8.15.3>Laurie had a warmth with people and politics .</compressed>
+<original id=AA8.15.4>For me his was pluralist socialism at its best --- in the service of the community .</original>
+<compressed id=AA8.15.4>his was pluralist socialism at its best --- in the service of community .</compressed>
+<original id=AA8.15.5>A pacifist , co-operator , Third World volunteer , borough councillor , heartfelt socialist , he served the people of Brent warmly and well for 28 years .</original>
+<compressed id=AA8.15.5>A pacifist , volunteer , councillor , socialist , he served Brent well for 28 years .</compressed>
+<original id=AA8.15.6>In the Commons he was an independently minded , but loyal member of the Parliamentary Labour Party .</original>
+<compressed id=AA8.15.6>he was an independently minded , but loyal member of the Labour Party .</compressed>
+<original id=AA8.15.7>His concern for and knowledge of the Nhs was widely recognised --- and respected , though he never achieved the sort of ministerial office for which he was well qualified .</original>
+<compressed id=AA8.15.7>His knowledge of the Nhs was widely recognised though he never achieved the ministerial office for which he was qualified .</compressed>
+<original id=AA8.15.8>We marched together to and from Aldermaston , we worked together for co-operative socialism , we campaigned together for health , welfare , employment , education and housing in our `` inner city '' constituencies .</original>
+<compressed id=AA8.15.8>We marched together , we worked together , we campaigned together for health , welfare , employment , education and housing in our constituencies .</compressed>
+<original id=AA8.15.9>We worked for a wider Europe , international peace , development and disarmament .</original>
+<compressed id=AA8.15.9>We worked for a wider Europe , international development and disarmament .</compressed>
+<original id=AA8.15.10>Always he was an inspiration .</original>
+<compressed id=AA8.15.10>he was an inspiration .</compressed>
+<original id=AA8.15.11>Laurie had a passion and a warmth for people rather than the state .</original>
+<compressed id=AA8.15.11>Laurie had a warmth for people rather than the state .</compressed>
+<original id=AA8.15.12>He represented the British Labour Movement at its best .</original>
+<compressed id=AA8.15.12>He represented the Labour Movement at its best .</compressed>
+<original id=AA8.15.13>He stayed in Parliament despite ill health to ensure the good health of the the Labour party he believed in. I am so pleased to think that his kind of socialism `` without the state '' is now coming to the fore again in Labour politics .</original>
+<compressed id=AA8.15.13>He stayed in Parliament to ensure the health of the the Labour party he believed in. I think his kind of socialism `` without the state '' is coming to the fore again .</compressed>
+<original id=AA8.15.14>We have much to bless and indeed warmly remember him for .</original>
+<compressed id=AA8.15.14>We have much to remember him for .</compressed>
+</text>
+</doc>

@@ -1,0 +1,33 @@
+<doc id=bn9623.rpi.txt.960608.776>
+<annotator>annotator3</annotator>
+<text>
+<original id=bn9623.rpi.txt.960608.776.0>Hey , home video preview with Dennis Michael .</original>
+<compressed id=bn9623.rpi.txt.960608.776.0>home video preview with Dennis Michael .</compressed>
+<original id=bn9623.rpi.txt.960608.776.1>Grumpier Old Men is out on tape .</original>
+<compressed id=bn9623.rpi.txt.960608.776.1>Grumpier Old Men is out .</compressed>
+<original id=bn9623.rpi.txt.960608.776.2>But we do n't want to comment on that , do we ?</original>
+<compressed id=bn9623.rpi.txt.960608.776.2>we do n't want to comment on that</compressed>
+<original id=bn9623.rpi.txt.960608.776.3>Nicolas Cage 's dead end character has come to Las Vegas to drink himself to death , but in the process , he falls in love .</original>
+<compressed id=bn9623.rpi.txt.960608.776.3>Nicolas Cage 's character has come to Las Vegas to drink to death , but he falls in love .</compressed>
+<original id=bn9623.rpi.txt.960608.776.4>Leaving Las Vegas is one of the darkest romances ever to dance across the screen , but a best actor performance by Cage and a brilliant turn by Elizabeth Shue make this tragic tale irresistible .</original>
+<compressed id=bn9623.rpi.txt.960608.776.4>Leaving Las Vegas is one of the darkest romances ever , but a best actor performance by Cage and a brilliant turn by Elizabeth Shue make this tale irresistible .</compressed>
+<original id=bn9623.rpi.txt.960608.776.5>Not for kids , grownups should n't miss it.</original>
+<compressed id=bn9623.rpi.txt.960608.776.5>Not for kids , grownups should n't miss it.</compressed>
+<original id=bn9623.rpi.txt.960608.776.6>Speaking of grownups , Grumpier Old Men is n't as good as the original , but that hardly matters since Jack Lemmon and Walter Matthau are walking encyclopedias of screen comedy and the story line hardly matters either , except that it brings the remarkable Sophia Loren into the mix .</original>
+<compressed id=bn9623.rpi.txt.960608.776.6>Grumpier Old Men is n't as good as the original , but Jack Lemmon and Walter Matthau are walking encyclopedias of comedy and the story brings Sophia Loren into the mix .</compressed>
+<original id=bn9623.rpi.txt.960608.776.7>This is a comedy that lives for the rich moment .</original>
+<compressed id=bn9623.rpi.txt.960608.776.7>This lives for the rich moment .</compressed>
+<original id=bn9623.rpi.txt.960608.776.8>And this movie 's moment passed a long time ago , but it 's only now coming to home video .</original>
+<compressed id=bn9623.rpi.txt.960608.776.8>this movie 's moment passed long ago , but it 's coming to video .</compressed>
+<original id=bn9623.rpi.txt.960608.776.9>Heavy Metal was actually named after the science fiction magazine that inspired it , but it looks more like somebody tried to make a movie out of old album covers .</original>
+<compressed id=bn9623.rpi.txt.960608.776.9>Heavy Metal was named after the magazine that inspired it , but it looks like a movie of old album covers .</compressed>
+<original id=bn9623.rpi.txt.960608.776.10>Only rarely does this flick take flight .</original>
+<compressed id=bn9623.rpi.txt.960608.776.10>rarely does this flick take flight .</compressed>
+<original id=bn9623.rpi.txt.960608.776.11>Collectors only .</original>
+<compressed id=bn9623.rpi.txt.960608.776.11>Collectors only .</compressed>
+<original id=bn9623.rpi.txt.960608.776.12>See you at the rental counter .</original>
+<compressed id=bn9623.rpi.txt.960608.776.12>See you .</compressed>
+<original id=bn9623.rpi.txt.960608.776.13>Dennis Michael , CNN Entertainment News , Hollywood .</original>
+<compressed id=bn9623.rpi.txt.960608.776.13>Dennis Michael , CNN .</compressed>
+</text>
+</doc>

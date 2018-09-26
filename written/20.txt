@@ -1,0 +1,36 @@
+<doc id=A7W.54>
+<text>
+<original id=A7W.54.0>Detailed evidence has been uncovered showing how Britain played a leading role in preventing hundreds of Italian war criminals standing trial in Yugoslavia , Greece , and Ethiopia at the end of the second world war .</original>
+<compressed id=A7W.54.0>evidence has uncovered how Britain played a leading role in preventing Italian war criminals standing trial in Yugoslavia , Greece , and Ethiopia at the end of the second world war .</compressed>
+<original id=A7W.54.1>Some 1,200 Italians --- most of whom committed atrocities in Yugoslavia --- were listed by the United Nations War Crimes Commission , but none was handed over .</original>
+<compressed id=A7W.54.1>1,200 Italians were listed by the War Crimes Commission , but none was handed over .</compressed>
+<original id=A7W.54.2>Extradition from Britain was blocked for fear of unsettling the post-war anti-Communist government of Italy .</original>
+<compressed id=A7W.54.2>Extradition from Britain was blocked for fear of unsettling the government of Italy .</compressed>
+<original id=A7W.54.3>`` Justice requires the handing over of these people , but expediency , I fear , militates against it , '' wrote a Foreign Office official in a report .</original>
+<compressed id=A7W.54.3>`` Justice requires the handing over of these people , but expediency militates against it , '' wrote a Foreign Office official .</compressed>
+<original id=A7W.54.4>Another recorded that some held high positions in the Ministry of War : their arrest , the report added , would be `` a political embarrassment '' .</original>
+<compressed id=A7W.54.4>some held high positions : their arrest would be `` a political embarrassment '' .</compressed>
+<original id=A7W.54.5>Documents which disclose Britain 's collusion have been found in Un , Us and British archives by Dr Michael Palumbo , an American writer ( who three years ago discovered the Un files on Mr Kurt Waldheim , the Austrian President ) .</original>
+<compressed id=A7W.54.5>Documents which disclose Britain 's collusion have been found in Un , Us and British archives by Dr Michael Palumbo , an American writer who discovered files on Kurt Waldheim , the Austrian President ) .</compressed>
+<original id=A7W.54.6>His research forms the basis of a Bbc 2 Timewatch programme , The Fascist Legacy , A Pledge Betrayed , to be broadcast tonight .</original>
+<compressed id=A7W.54.6>His research forms the basis of a Bbc programme , The Fascist Legacy , A Pledge Betrayed .</compressed>
+<original id=A7W.54.7>One of those named as a war criminal was Marshal Pietro Badoglio , wanted by Ethiopia for ordering the use of poison gas and the bombing of Red Cross hospitals after Italy invaded the country in 1936 .</original>
+<compressed id=A7W.54.7>named as a war criminal was Marshal Pietro Badoglio , wanted by Ethiopia for ordering the use of poison gas and the bombing of Red Cross hospitals .</compressed>
+<original id=A7W.54.8>The Fo noted that he had provided `` valuable assistance '' to the allied cause as Prime Minister after Italy 's surrender in 1943 , and that it would be `` inopportune '' to hand him over to the Ethiopians .</original>
+<compressed id=A7W.54.8>The Fo noted he had provided assistance to the allied cause after Italy 's surrender , and that it would be `` inopportune '' to hand him over .</compressed>
+<original id=A7W.54.9>Most of the 800 named by the commission were wanted by Yugoslavia , and the Fo secretly acknowledged that it had an excellent case .</original>
+<compressed id=A7W.54.9>Most of the 800 named were wanted by Yugoslavia .</compressed>
+<original id=A7W.54.10>Churchill , in particular , was concerned not to weaken the Italian Government and strengthen the hand of Communists who had dominated the wartime resistance movement .</original>
+<compressed id=A7W.54.10>Churchill was concerned not to strengthen the Communists who had dominated the resistance .</compressed>
+<original id=A7W.54.11>`` The longer we can procrastinate , the better for all concerned , '' wrote an Fo official in 1946 .</original>
+<compressed id=A7W.54.11>`` The longer we procrastinate , the better , '' wrote an official in 1946 .</compressed>
+<original id=A7W.54.12>In 1947 Britain and the Us said the matter should be left to the Italian courts .</original>
+<compressed id=A7W.54.12>In 1947 Britain and the Us said the matter should be left to the Italian courts .</compressed>
+<original id=A7W.54.13>One of those most wanted by Yugoslavia but allowed to go unpunished was General Mario Roatta .</original>
+<compressed id=A7W.54.13>wanted by Yugoslavia but allowed to go unpunished was General Mario Roatta .</compressed>
+<original id=A7W.54.14>An Fo memo of 1943 noted `` our information about Roatta confirms the information circulating about him '' .</original>
+<compressed id=A7W.54.14>An Fo memo noted `` our information confirms the information circulating about him '' .</compressed>
+<original id=A7W.54.15>One Italian who was executed for war crimes --- General Bellomo --- was the only anti-fascist army officer at a senior level ; he was found guilty after one of his men shot an escaping British prisoner of war at Bari .</original>
+<compressed id=A7W.54.15>One Italian executed for war crimes --- General Bellomo --- was the only anti-fascist at a senior level ; one of his men shot an escaping British prisoner of war .</compressed>
+</text>
+</doc>

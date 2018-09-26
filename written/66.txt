@@ -1,0 +1,36 @@
+<doc id=AL6.42>
+<text>
+<original id=AL6.42.0>Snow , high winds and bitter disagreement yesterday further hampered attempts to tame Mount Etna , which is threatening to overrun the Sicilian town of Zafferana with millions of tons of volcanic lava .</original>
+<compressed id=AL6.42.0>Snow , winds and bitter disagreement hampered attempts to tame Mount Etna , which is threatening the Sicilian town of Zafferana with millions of tons of lava .</compressed>
+<original id=AL6.42.1>The wall of molten lava has come to a virtual halt 150 yards from the first home in the town , but officials said yesterday that its flow appeared to have picked up speed further up the slope .</original>
+<compressed id=AL6.42.1>The wall of molten lava has come to a halt 150 yards from the first home , but officials said that its flow appeared to have picked up speed further up the slope .</compressed>
+<original id=AL6.42.2>A crust appears to have formed over the volcanic rubble , but red-hot lava began creeping over it yesterday and into a private orchard .</original>
+<compressed id=AL6.42.2>A crust formed , but red-hot lava began creeping over it yesterday and into a private orchard .</compressed>
+<original id=AL6.42.3>Bad weather dashed hopes of attempts to halt the flow during what was seen as a natural lull in the lava 's momentum .</original>
+<compressed id=AL6.42.3>Bad weather dashed attempts to halt the flow during a lull in the lava 's momentum .</compressed>
+<original id=AL6.42.4>Some experts say that even if the eruption stopped today , the sheer pressure of lava piled up behind for six miles would bring debris cascading down on to the town anyway .</original>
+<compressed id=AL6.42.4>experts say even if the eruption stopped , the sheer pressure of lava piled up for miles would bring debris down on to the town .</compressed>
+<original id=AL6.42.5>Some estimate the volcano is pouring out one million tons of debris a day , at a rate of 15 ft per second , from a fissure that opened in mid-December .</original>
+<compressed id=AL6.42.5>the volcano is pouring out one million tons of debris a day , at 15 ft per second , from a fissure that opened in mid-December .</compressed>
+<original id=AL6.42.6>The Italian army yesterday detonated nearly 400 lb of dynamite 3,500 feet up Mount Etna 's slopes .</original>
+<compressed id=AL6.42.6>The army yesterday detonated 400 lb of dynamite 3,500 feet up Mount Etna .</compressed>
+<original id=AL6.42.7>The explosives , which were described as nothing more than an experiment , were detonated just above a dam built in January and breached last week .</original>
+<compressed id=AL6.42.7>The explosives were detonated just above a dam built in January and breached last week .</compressed>
+<original id=AL6.42.8>They succeeded in closing off the third of five underground conduits formed beneath the surface crust and through which red-hot magma has been flowing .</original>
+<compressed id=AL6.42.8>They succeeded in closing the third of five underground conduits through which magma has been flowing .</compressed>
+<original id=AL6.42.9>But the teams later discovered that the conduit was dry , suggesting that the lava had already found a new course .</original>
+<compressed id=AL6.42.9>the teams discovered the conduit dry , suggesting that the lava had found a new course .</compressed>
+<original id=AL6.42.10>Rumours have been circulating that experts are bitterly divided over what to do .</original>
+<compressed id=AL6.42.10>Rumours have been circulating that experts are divided .</compressed>
+<original id=AL6.42.11>But in another experiment 50 two-ton concrete slabs are to be chained together and dumped from a huge tilting steel platform about 6,750 ft above sea level .</original>
+<compressed id=AL6.42.11>50 two-ton concrete slabs are to be chained together and dumped from 6,750 ft above sea level .</compressed>
+<original id=AL6.42.12>It is hoped the slabs will block the conduit from which the main force of the lava is said to be bearing down `` like a train '' , causing it to break up and cool .</original>
+<compressed id=AL6.42.12>It is hoped the slabs will block the main force of the lava `` like a train '' , causing it to cool .</compressed>
+<original id=AL6.42.13>High winds and snowfalls have , however , grounded at a lower level the powerful Us Navy Sea Stallion helicopters used to transport the slabs .</original>
+<compressed id=AL6.42.13>High winds have grounded the Us Navy Sea Stallion helicopters used to transport the slabs .</compressed>
+<original id=AL6.42.14>Prof Letterio Villari , a noted vulcanologist , said yesterday he had `` absolutely no faith whatsoever '' in the plan .</original>
+<compressed id=AL6.42.14>Prof Letterio Villari , a vulcanologist , had `` no faith '' in the plan .</compressed>
+<original id=AL6.42.15>If Zafferana was saved from the lava , which could flow for a year or more , it would be `` a complete fluke '' , he said .</original>
+<compressed id=AL6.42.15>If Zafferana was saved from the lava , it would be `` a fluke '' .</compressed>
+</text>
+</doc>

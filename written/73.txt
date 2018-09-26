@@ -1,0 +1,36 @@
+<doc id=latwp960402.0123>
+<text>
+<original id=latwp960402.0123.0>Leading civil-rights lawyer and former City University of New York Law School Dean W. Haywood Burns and Shanara Gilbert , an associate professor at the law school in Queens , N.Y. , were killed in a car crash Tuesday in Cape Town , South Africa , authorities and associates of the two said Tuesday night .</original>
+<compressed id=latwp960402.0123.0>civil-rights lawyer and former City University of New York Law School Dean W. Haywood Burns and Shanara Gilbert , an associate professor at the law school in Queens , N.Y. , were killed in a car crash in South Africa .</compressed>
+<original id=latwp960402.0123.1>Burns , 55 , and Gilbert , about 45 , both of whom had traveled several times to South Africa to press for the civil-rights cause there , were attending a conference of an international lawyers ' association , said Clinton Bamberger , a University of Maryland law professor who knew Burns well .</original>
+<compressed id=latwp960402.0123.1>Burns and Gilbert , both of whom had traveled to South Africa for the civil-rights cause , were attending a conference , said Clinton Bamberger , a University of Maryland law professor who knew Burns .</compressed>
+<original id=latwp960402.0123.2>Maria Louw , matron in charge at Tygerberg Hospital in Cape Town , said in a telephone interview that the two were brought to the hospital 's emergency room shortly before 10 p.m. Tuesday night .</original>
+<compressed id=latwp960402.0123.2>Maria Louw said the two were brought to the emergency room shortly before 10 p.m. Tuesday night .</compressed>
+<original id=latwp960402.0123.3>Louw said she did not know details of the accident , only that there were at least two other deaths in a collision , both in the car in which Burns and Gilbert were traveling and in another vehicle .</original>
+<compressed id=latwp960402.0123.3>Louw said that there were two other deaths , both in the car in which Burns and Gilbert were traveling and in another vehicle .</compressed>
+<original id=latwp960402.0123.4>Both Burns and Gilbert suffered head injuries , and Gilbert suffered chest injuries as well , Louw said .</original>
+<compressed id=latwp960402.0123.4>Both Burns and Gilbert suffered head injuries and Gilbert suffered chest injuries , Louw said .</compressed>
+<original id=latwp960402.0123.5>Both were unconscious when they arrived at the hospital , and were immediately placed on life-support equipment , she said .</original>
+<compressed id=latwp960402.0123.5>Both were unconscious when they arrived and were immediately placed on life-support , she said .</compressed>
+<original id=latwp960402.0123.6>Gilbert died about 10 p.m. and Burns died about 2:30 a.m. , Louw said .</original>
+<compressed id=latwp960402.0123.6>Gilbert died about 10 p.m. and Burns about 2:30 a.m. .</compressed>
+<original id=latwp960402.0123.7>Burns , a graduate of Harvard University and Yale Law School , had been a leading legal light for civil rights since the movement of the 1960s in the Deep South .</original>
+<compressed id=latwp960402.0123.7>Burns had been a leading legal light for civil rights since the 1960s in the Deep South .</compressed>
+<original id=latwp960402.0123.8>He waged his first personal fight against discrimination as a 15-year-old in Peekskill , N.Y. , when he helped to integrate a swim club by filing a complaint with the state Human Rights Commission .</original>
+<compressed id=latwp960402.0123.8>He waged his first fight against discrimination as a 15-year-old in N.Y. , when he helped integrate a club by filing a complaint with the state Human Rights Commission .</compressed>
+<original id=latwp960402.0123.9>In the 1960s , he registered black voters in the South , worked as a lawyer for the National Association for the Advancement of Colored People and was chief counsel to the Poor People 's Project , the Rev. Martin Luther King Jr.'s last project before King was assassinated in 1968 .</original>
+<compressed id=latwp960402.0123.9>he registered black voters , worked as a lawyer for the National Association for the Advancement of Colored People and was counsel to the Poor People 's Project , the Rev. Martin Luther King Jr.'s last project in 1968 .</compressed>
+<original id=latwp960402.0123.10>Burns headed the defense teams of black communist activist Angela Davis and the Attica Brothers after the 1971 prison rebellion .</original>
+<compressed id=latwp960402.0123.10>Burns headed the defense of black activist Angela Davis and the Attica Brothers after the 1971 prison rebellion .</compressed>
+<original id=latwp960402.0123.11>He served for 10 years as vice provost and dean for urban and legal programs at City College before being named dean of the City University of New York Law School at Queens College in June , 1987 .</original>
+<compressed id=latwp960402.0123.11>He served for 10 years as vice provost and dean for urban and legal programs at City College before being dean of the City University of New York Law School at Queens College in 1987 .</compressed>
+<original id=latwp960402.0123.12>When he assumed his duties on Sept. 1 of that year , Burns became the first black dean of a law school in the state .</original>
+<compressed id=latwp960402.0123.12>Burns became the first black dean of a law school in the state .</compressed>
+<original id=latwp960402.0123.13>After stepping down as dean after the 1994-95 academic year , Burns spent last year as a visiting professor at his alma mater , Yale Law School .</original>
+<compressed id=latwp960402.0123.13>After stepping down as dean , Burns spent last year as a professor at Yale Law School .</compressed>
+<original id=latwp960402.0123.14>He had returned to the CUNY Law School faculty last fall .</original>
+<compressed id=latwp960402.0123.14>He returned to the CUNY Law School faculty last fall .</compressed>
+<original id=latwp960402.0123.15>Distributed by the Los Angeles Times-Washington Post News Service</original>
+<compressed id=latwp960402.0123.15>Distributed by the Los Angeles Times-Washington Post News</compressed>
+</text>
+</doc>

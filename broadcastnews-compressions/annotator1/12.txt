@@ -1,0 +1,51 @@
+<doc id=bn9623.rpi.txt.960606.634>
+<annotator>annotator1</annotator>
+<text>
+<original id=bn9623.rpi.txt.960606.634.0>On World News Tonight this Thursday , the first break in months at the so-called Freemen ranch in Montana .</original>
+<compressed id=bn9623.rpi.txt.960606.634.0>the first break in months at the so-called Freemen ranch in Montana .</compressed>
+<original id=bn9623.rpi.txt.960606.634.1>A family of four leaves ; the wildfire in Alaska spreads ; and elsewhere in America , interfering with Mother Nature to make the problem worse .</original>
+<compressed id=bn9623.rpi.txt.960606.634.1>A family of four leaves ; the wildfire in Alaska spreads ; and elsewhere interfering with Mother Nature make the problem worse .</compressed>
+<original id=bn9623.rpi.txt.960606.634.2>These forests are going to burn .</original>
+<compressed id=bn9623.rpi.txt.960606.634.2>forests are going to burn .</compressed>
+<original id=bn9623.rpi.txt.960606.634.3>And Senator Dole on abortion .</original>
+<compressed id=bn9623.rpi.txt.960606.634.3>Senator Dole on abortion .</compressed>
+<original id=bn9623.rpi.txt.960606.634.4>He would like the Republican platform language to change .</original>
+<compressed id=bn9623.rpi.txt.960606.634.4>He would like the Republican platform to change .</compressed>
+<original id=bn9623.rpi.txt.960606.634.5>From ABC , this is World News Tonight with Peter Jennings .</original>
+<compressed id=bn9623.rpi.txt.960606.634.5>this is World News with Peter Jennings .</compressed>
+<original id=bn9623.rpi.txt.960606.634.6>Good evening .</original>
+<compressed id=bn9623.rpi.txt.960606.634.6>Good evening .</compressed>
+<original id=bn9623.rpi.txt.960606.634.7>We begin in eastern Montana tonight .</original>
+<compressed id=bn9623.rpi.txt.960606.634.7>We begin in eastern Montana .</compressed>
+<original id=bn9623.rpi.txt.960606.634.8>There has been a change in the status quo .</original>
+<compressed id=bn9623.rpi.txt.960606.634.8>There has been a change .</compressed>
+<original id=bn9623.rpi.txt.960606.634.9>A family of four has left the compound where the so-called Freemen of Montana have been holed up.</original>
+<compressed id=bn9623.rpi.txt.960606.634.9>A family of four left the compound where the Freemen of Montana have been holed up.</compressed>
+<original id=bn9623.rpi.txt.960606.634.10>They are the first people to leave since April .</original>
+<compressed id=bn9623.rpi.txt.960606.634.10>They are the first to leave since April .</compressed>
+<original id=bn9623.rpi.txt.960606.634.11>And they leave after a week in which the FBI has visibly increased the pressure on the Freemen , who have been holed up on their ranch for more than 10 weeks .</original>
+<compressed id=bn9623.rpi.txt.960606.634.11>they leave after a week in which the FBI has visibly increased the pressure on the Freemen , who have on their ranch for more than 10 weeks .</compressed>
+<original id=bn9623.rpi.txt.960606.634.12>ABC 's Ron Claiborne tonight on who comes out and who stays .</original>
+<compressed id=bn9623.rpi.txt.960606.634.12>Ron Claiborne on who comes out and who stays .</compressed>
+<original id=bn9623.rpi.txt.960606.634.13>They left early this afternoon , meeting two FBI agents on the dirt road leading to the besieged compound .</original>
+<compressed id=bn9623.rpi.txt.960606.634.13>They left this afternoon , meeting two FBI agents on the road to the besieged compound .</compressed>
+<original id=bn9623.rpi.txt.960606.634.14>The departure follows a brief discussion between the agents and those inside the vehicle .</original>
+<compressed id=bn9623.rpi.txt.960606.634.14>The departure follows a discussion between the agents and those inside the vehicle .</compressed>
+<original id=bn9623.rpi.txt.960606.634.15>Inside the car were Elwin Ward [ sp ? ] , his wife Gloria and her daughters from previous marriages - 10-year-old Courtney and 8-year-old Jay Lynn .</original>
+<compressed id=bn9623.rpi.txt.960606.634.15>Inside were Elwin Ward , his wife Gloria and her daughters from previous marriages - 10-year-old Courtney and 8-year-old Jay Lynn .</compressed>
+<original id=bn9623.rpi.txt.960606.634.16>Gloria Ward had been facing a felony charge in Utah for allegedly denying visitation rights to the father of one of the girls .</original>
+<compressed id=bn9623.rpi.txt.960606.634.16>Gloria Ward had been facing a charge in Utah for allegedly denying visitation rights to the father of one of the girls .</compressed>
+<original id=bn9623.rpi.txt.960606.634.17>Utah authorities had agreed to drop the charges weeks ago .</original>
+<compressed id=bn9623.rpi.txt.960606.634.17>authorities had agreed to drop the charges .</compressed>
+<original id=bn9623.rpi.txt.960606.634.18>It is not clear why the family chose or was now allowed to leave .</original>
+<compressed id=bn9623.rpi.txt.960606.634.18>It is not clear why the family chose or was allowed to leave .</compressed>
+<original id=bn9623.rpi.txt.960606.634.19>But earlier this week , the FBI cut off electricity to the compound .</original>
+<compressed id=bn9623.rpi.txt.960606.634.19>earlier this week , the FBI cut electricity to the compound .</compressed>
+<original id=bn9623.rpi.txt.960606.634.20>Today 's departures may signal that the tactic of increasing the pressure and a new round of negotiations with the Freemen may be starting to pay off.</original>
+<compressed id=bn9623.rpi.txt.960606.634.20>Today 's departures may signal that increasing the pressure and new negotiations with the Freemen may pay off.</compressed>
+<original id=bn9623.rpi.txt.960606.634.21>But with 17 people still in the compound , including its most militant leaders , there is no indication yet that the standoff is about to end.</original>
+<compressed id=bn9623.rpi.txt.960606.634.21>with 17 people still in the compound , including its militant leaders , there is no indication that the standoff is about to end.</compressed>
+<original id=bn9623.rpi.txt.960606.634.22>Ron Claiborne , ABC News , Jordan , Montana .</original>
+<compressed id=bn9623.rpi.txt.960606.634.22>Ron Claiborne , Montana .</compressed>
+</text>
+</doc>

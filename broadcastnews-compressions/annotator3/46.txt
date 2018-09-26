@@ -1,0 +1,41 @@
+<doc id=bn9625.rpi.txt.960622.88>
+<annotator>annotator3</annotator>
+<text>
+<original id=bn9625.rpi.txt.960622.88.0>Hello , I 'm Carolyn O'Neil and welcome to On The Menu .</original>
+<compressed id=bn9625.rpi.txt.960622.88.0>I 'm Carolyn O'Neil welcome to On The Menu .</compressed>
+<original id=bn9625.rpi.txt.960622.88.1>You know with summer officially upon us , it 's time to head outdoors and fire up the backyard grill .</original>
+<compressed id=bn9625.rpi.txt.960622.88.1>with summer upon us , it 's time fire up the backyard grill .</compressed>
+<original id=bn9625.rpi.txt.960622.88.2>It not only gets you out of that hot kitchen , but according to the Barbecue Industry Association , 91 percent of folks say that they like to cook outdoors because they love the taste of grilled foods .</original>
+<compressed id=bn9625.rpi.txt.960622.88.2>It not only gets you out , but according to the Barbecue Industry Association , 91 percent of folks love grilled foods .</compressed>
+<original id=bn9625.rpi.txt.960622.88.3>But cooking outside means moving further from the refrigerator and that means you have to pay closer attention to summer food safety .</original>
+<compressed id=bn9625.rpi.txt.960622.88.3>cooking outside means moving further from the refrigerator and that you have to pay attention to food safety .</compressed>
+<original id=bn9625.rpi.txt.960622.88.4>It 's summertime and the grilling 's easy .</original>
+<compressed id=bn9625.rpi.txt.960622.88.4>It 's summertime and the grilling 's easy .</compressed>
+<original id=bn9625.rpi.txt.960622.88.5>But whether you 're flipping fish or a backyard burger , summer is no time to relax when it comes to food safety .</original>
+<compressed id=bn9625.rpi.txt.960622.88.5>summer is no time to relax when it comes to food safety .</compressed>
+<original id=bn9625.rpi.txt.960622.88.6>It 's not clear whether picnicking and backyard cookouts are to blame , but according to the United States Department of Agriculture , there is an increase in reported cases of many food-borne illnesses between May and September .</original>
+<compressed id=bn9625.rpi.txt.960622.88.6>whether picnicking and backyard cookouts are to blame , according to the United States Department of Agriculture , there is an increase in food-borne illnesses between May and September .</compressed>
+<original id=bn9625.rpi.txt.960622.88.7>So to keep summer foods safe , here are some timely tips .</original>
+<compressed id=bn9625.rpi.txt.960622.88.7>to keep summer foods safe , here are some tips .</compressed>
+<original id=bn9625.rpi.txt.960622.88.8>When cooking ground beef , make sure it 's thoroughly cooked .</original>
+<compressed id=bn9625.rpi.txt.960622.88.8>ground beef , make sure it 's thoroughly cooked .</compressed>
+<original id=bn9625.rpi.txt.960622.88.9>Undercooked hamburger can be a source of the deadly bacteria E. coli 0157H7 .</original>
+<compressed id=bn9625.rpi.txt.960622.88.9>Undercooked hamburger can be a source of E. coli .</compressed>
+<original id=bn9625.rpi.txt.960622.88.10>It 's very difficult to test the temperature , the internal temperature of a hamburger .</original>
+<compressed id=bn9625.rpi.txt.960622.88.10>It 's difficult to test the internal temperature .</compressed>
+<original id=bn9625.rpi.txt.960622.88.11>So the best surrogate that we 've found is the color of the meat and if you cook your hamburger or if you ask for your hamburger brown in the middle , you really cut your chances , your risk of getting E. Coli 157H7 or some of the other E. coli .</original>
+<compressed id=bn9625.rpi.txt.960622.88.11>the best surrogate is the color and if you cook your hamburger brown in the middle , you cut your risk of getting E. Coli .</compressed>
+<original id=bn9625.rpi.txt.960622.88.12>And with more than just burgers on the grill , it 's important to pick up skills in cooking other meats .</original>
+<compressed id=bn9625.rpi.txt.960622.88.12>it 's important to pick up skills in cooking other meats .</compressed>
+<original id=bn9625.rpi.txt.960622.88.13>The Pork Producers Council recommends using a meat thermometer to make sure pork is cooked to an internal temperature of at least 155 degrees .</original>
+<compressed id=bn9625.rpi.txt.960622.88.13>The Pork Producers Council recommends using a meat thermometer to make sure pork is cooked to 155 degrees .</compressed>
+<original id=bn9625.rpi.txt.960622.88.14>Then you can learn the tongue test .</original>
+<compressed id=bn9625.rpi.txt.960622.88.14>Then you can learn the tongue test .</compressed>
+<original id=bn9625.rpi.txt.960622.88.15>I will take my tongs or my fork and I 'll simply touch the surface of the pork chop , as I 'm doing here to this chop I just took off the grill .</original>
+<compressed id=bn9625.rpi.txt.960622.88.15>I will take my tongs and I 'll touch the surface of the pork chop .</compressed>
+<original id=bn9625.rpi.txt.960622.88.16>If there 's a little bit of give , just like that , I know that they 're done perfectly .</original>
+<compressed id=bn9625.rpi.txt.960622.88.16>If there 's a little bit of give they 're done perfectly .</compressed>
+<original id=bn9625.rpi.txt.960622.88.17>If there 's a lot of give to the pork chop , that means you need to put it back on the grill and if it 's real hard , then you know you 've gone too far .</original>
+<compressed id=bn9625.rpi.txt.960622.88.17>If there 's a lot of give , you need to put it back on the grill and if it 's real hard , you 've gone too far .</compressed>
+</text>
+</doc>

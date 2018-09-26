@@ -1,0 +1,49 @@
+<doc id=bn9624.rpi.txt.960618.327>
+<annotator>annotator3</annotator>
+<text>
+<original id=bn9624.rpi.txt.960618.327.0>Mrs. Clinton is at the center of this investigation , along with her husband , partly because she had such an independent life of her own - first as a private lawyer in Arkansas , and then as an extremely active and politically involved First Lady .</original>
+<compressed id=bn9624.rpi.txt.960618.327.0>Mrs. Clinton is at the center of this investigation , along with her husband , because she had an independent life as a lawyer , and as an politically involved First Lady .</compressed>
+<original id=bn9624.rpi.txt.960618.327.1>ABC 's Michele Norris tonight on some of the questions .</original>
+<compressed id=bn9624.rpi.txt.960618.327.1>Michele Norris on the questions .</compressed>
+<original id=bn9624.rpi.txt.960618.327.2>The questions started from the very beginning , when the Clintons were campaigning four years ago .</original>
+<compressed id=bn9624.rpi.txt.960618.327.2>The questions started when the Clintons were campaigning four years ago .</compressed>
+<original id=bn9624.rpi.txt.960618.327.3>Can we ask Mrs. Clinton ?</original>
+<compressed id=bn9624.rpi.txt.960618.327.3>Can we ask Mrs. Clinton ?</compressed>
+<original id=bn9624.rpi.txt.960618.327.4>Sure .</original>
+<compressed id=bn9624.rpi.txt.960618.327.4>Sure .</compressed>
+<original id=bn9624.rpi.txt.960618.327.5>Ask her whatever you want .</original>
+<compressed id=bn9624.rpi.txt.960618.327.5>Ask her whatever .</compressed>
+<original id=bn9624.rpi.txt.960618.327.6>On the issue of Whitewater , Mrs. Clinton denied representing her partner Jim McDougal 's bank before Arkansas state regulators .</original>
+<compressed id=bn9624.rpi.txt.960618.327.6>On Whitewater , Mrs. Clinton denied representing Jim McDougal 's bank before Arkansas regulators .</compressed>
+<original id=bn9624.rpi.txt.960618.327.7>My firm has done work for the bank .</original>
+<compressed id=bn9624.rpi.txt.960618.327.7>My firm has done work for the bank .</compressed>
+<original id=bn9624.rpi.txt.960618.327.8>That 's right .</original>
+<compressed id=bn9624.rpi.txt.960618.327.8>That 's right .</compressed>
+<original id=bn9624.rpi.txt.960618.327.9>And I have done work for the bank not related to the state at all.</original>
+<compressed id=bn9624.rpi.txt.960618.327.9>I have done work not related to the state</compressed>
+<original id=bn9624.rpi.txt.960618.327.10>But the billing records recently found in the private quarters at the White House contradict that claim , showing that she did contact the state 's chief regulator on behalf of that bank .</original>
+<compressed id=bn9624.rpi.txt.960618.327.10>the billing records at the White House contradict that , showing that she did contact the chief regulator on behalf of that bank .</compressed>
+<original id=bn9624.rpi.txt.960618.327.11>On the travel office firings two years ago , the First Lady claimed under oath that she had nothing to do with it.</original>
+<compressed id=bn9624.rpi.txt.960618.327.11>two years ago , the First Lady claimed under oath that she had nothing to do with it.</compressed>
+<original id=bn9624.rpi.txt.960618.327.12>And again , that claim was challenged by a memo from a White House staffer which quoted Mrs. Clinton as saying , `` We need those people out .</original>
+<compressed id=bn9624.rpi.txt.960618.327.12>a memo from White House quoted Mrs. Clinton saying , `` We need those people out .</compressed>
+<original id=bn9624.rpi.txt.960618.327.13>We need our people in. '</original>
+<compressed id=bn9624.rpi.txt.960618.327.13>We need our people in. '</compressed>
+<original id=bn9624.rpi.txt.960618.327.14>And in the wake of Vincent Foster 's suicide , there was testimony that documents were removed from his office ; a charge Mrs. Clinton denied .</original>
+<compressed id=bn9624.rpi.txt.960618.327.14>in the wake of Vincent Foster 's suicide , there was testimony that documents were removed from his office ; a charge Mrs. Clinton denied .</compressed>
+<original id=bn9624.rpi.txt.960618.327.15>But under congressional inquiry , some of the First Lady 's closest advisers undercut her credibility with a collective case of amnesia .</original>
+<compressed id=bn9624.rpi.txt.960618.327.15>under congressional inquiry , some of the First Lady 's advisers undercut her credibility with a collective case of amnesia .</compressed>
+<original id=bn9624.rpi.txt.960618.327.16>I do n't remember .</original>
+<compressed id=bn9624.rpi.txt.960618.327.16>I do n't remember .</compressed>
+<original id=bn9624.rpi.txt.960618.327.17>I do n't recall .</original>
+<compressed id=bn9624.rpi.txt.960618.327.17>I do n't recall</compressed>
+<original id=bn9624.rpi.txt.960618.327.18>I have no firm recollection .</original>
+<compressed id=bn9624.rpi.txt.960618.327.18>I have no recollection .</compressed>
+<original id=bn9624.rpi.txt.960618.327.19>The Clintons accuse their critics of bombarding them with a never-ending stream of questions to keep them on the defensive .</original>
+<compressed id=bn9624.rpi.txt.960618.327.19>The Clintons accuse their critics of bombarding them with questions to keep them on the defensive .</compressed>
+<original id=bn9624.rpi.txt.960618.327.20>But an examination of the First Lady 's statements suggest that problems like Whitewater stay afloat because while the questions keep coming , the answers often change .</original>
+<compressed id=bn9624.rpi.txt.960618.327.20>an examination of the First Lady 's statements suggest that problems stay because while questions keep coming , answers often change .</compressed>
+<original id=bn9624.rpi.txt.960618.327.21>Michele Norris , ABC News , Washington .</original>
+<compressed id=bn9624.rpi.txt.960618.327.21>Michele Norris , ABC .</compressed>
+</text>
+</doc>

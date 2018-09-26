@@ -1,0 +1,42 @@
+<doc id=A3G.43>
+<text>
+<original id=A3G.43.0>Archaeologists in Devon are recording the 5,000-year history of a valley which is about to be flooded to form one of Britain 's largest reservoirs .</original>
+<compressed id=A3G.43.0>Archaeologists in Devon are recording the 5,000-year history of a valley about to be flooded to form one of Britain 's largest reservoirs .</compressed>
+<original id=A3G.43.1>Investigations in the area --- part of the valley of the river Wolf , north-west of Dartmoor --- have revealed evidence of human activity dating from neolithic times .</original>
+<compressed id=A3G.43.1>Investigations in the valley of the river Wolf have revealed human activity dating from neolithic times .</compressed>
+<original id=A3G.43.2>But the most important aspect of the project has been the excavation of domestic buildings built between the fifteenth and nineteenth centuries .</original>
+<compressed id=A3G.43.2>most important has been the excavation of domestic buildings built between the fifteenth and nineteenth centuries .</compressed>
+<original id=A3G.43.3>For the first time , archaeologists have been able to study in detail the techniques used by post-medieval builders to construct the typical `` cob '' houses for which the West Country is famous .</original>
+<compressed id=A3G.43.3>For the first time , archaeologists have been able to study the techniques used to construct `` cob '' houses .</compressed>
+<original id=A3G.43.4>Building in cob --- mud , straw and cow dung --- is no longer practised .</original>
+<compressed id=A3G.43.4>Building in cob --- mud , straw and cow dung --- is no longer practised .</compressed>
+<original id=A3G.43.5>The tradition , which goes back at least 2,500 years , continued until the early part of this century .</original>
+<compressed id=A3G.43.5>The tradition , which goes back 2,500 years , continued until this century .</compressed>
+<original id=A3G.43.6>Although cob walls contain no stone , apart from the footings , they are remarkably resilient .</original>
+<compressed id=A3G.43.6>Although cob walls contain no stone , they are resilient .</compressed>
+<original id=A3G.43.7>Tens of thousands of traditional mud-built cob buildings are still in use throughout Devon and Cornwall .</original>
+<compressed id=A3G.43.7>thousands of cob buildings are still in use throughout Devon and Cornwall .</compressed>
+<original id=A3G.43.8>In the early nineteenth century , the area --- whose most celebrated son was the Rev Sabine Baring-Gould , composer of the hymn `` Onward Christian Soldiers '' --- supported at least 100 people .</original>
+<compressed id=A3G.43.8>In the early nineteenth century , the area supported 100 people .</compressed>
+<original id=A3G.43.9>It had its own brickworks , cloth mill and farms , and was largely self-sufficient .</original>
+<compressed id=A3G.43.9>It had brickworks , cloth mill and farms , and was largely self-sufficient .</compressed>
+<original id=A3G.43.10>However , by the 1970s the population had dwindled to less than 20 , and the last inhabitant moved out three years ago , after the land was bought by South West Water .</original>
+<compressed id=A3G.43.10>by the 1970s the population had dwindled , and the last inhabitant moved out three years ago , after the land was bought by South West Water .</compressed>
+<original id=A3G.43.11>Over the past two years , archaeologists have excavated the remains of a medieval village --- including its corn and cloth mills --- as well as four farm sites , and three buildings constructed of cob .</original>
+<compressed id=A3G.43.11>Over two years , archaeologists have excavated a medieval village --- including corn and cloth mills --- four farm sites , and three buildings constructed of cob .</compressed>
+<original id=A3G.43.12>The last house in the valley --- West Wortha --- will be demolished within the next four weeks , but archaeological work will continue even as the water level starts to rise .</original>
+<compressed id=A3G.43.12>The last house will be demolished within weeks , but archaeological work will continue .</compressed>
+<original id=A3G.43.13>The excavation --- directed by Peter Stead of Exeter Museum --- has been funded jointly by English Heritage and South West Water to the tune of £250,000 .</original>
+<compressed id=A3G.43.13>The excavation --- directed by Peter Stead --- has been funded by English Heritage and South West Water to the tune of £250,000 .</compressed>
+<original id=A3G.43.14>Items so far recovered include prehistoric flint instruments , medieval pottery , a seventeenth-century water wheel , eighteenth-century clay ovens for scalding Devonshire cream , and nineteenth-century cider presses and apple crushers .</original>
+<compressed id=A3G.43.14>Items recovered include prehistoric flint instruments , medieval pottery , a seventeenth-century water wheel , eighteenth-century clay ovens , and nineteenth-century cider presses and apple crushers .</compressed>
+<original id=A3G.43.15>A permanent exhibition on the history of the valley is to be established near the dam in the early 1990s .</original>
+<compressed id=A3G.43.15>A permanent exhibition is to be established near the dam .</compressed>
+<original id=A3G.43.16>The flooding process , which begins next week , is expected to be complete by 1991 .</original>
+<compressed id=A3G.43.16>The flooding is expected to be complete by 1991 .</compressed>
+<original id=A3G.43.17>A £16.1m dam will hold back a 2.6-mile-long artificial lake to be known as the Roadford Reservoir .</original>
+<compressed id=A3G.43.17>A £16.1m dam will hold back a 2.6-mile-long Roadford Reservoir .</compressed>
+<original id=A3G.43.18>The dam itself --- 45 miles west of Exeter and completed two months ago --- is 430 metres across and 40 metres high .</original>
+<compressed id=A3G.43.18>The dam --- completed two months ago --- is 430 metres across and 40 metres high .</compressed>
+</text>
+</doc>

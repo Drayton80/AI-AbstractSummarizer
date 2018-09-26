@@ -1,0 +1,40 @@
+<doc id=A3G.15>
+<text>
+<original id=A3G.15.0>The Treasury is refusing to fund a further phase of the city technology colleges .</original>
+<compressed id=A3G.15.0>The Treasury is refusing to fund further the city technology colleges .</compressed>
+<original id=A3G.15.1>Plans for the creation of 20 CTCs by 1990 were announced by Kenneth Baker , the then Secretary of State for Education and Science , at the Conservative Party conference in October 1986 .</original>
+<compressed id=A3G.15.1>20 CTCs by 1990 were announced by Kenneth Baker , then Secretary for Education , in 1986 .</compressed>
+<original id=A3G.15.2>They were to be a new form of secondary school --- `` beacons of excellence '' --- funded mainly by industry , and would concentrate on science and technology .</original>
+<compressed id=A3G.15.2>a form of secondary school funded by industry , would concentrate on science and technology .</compressed>
+<original id=A3G.15.3>But the Government has been severely embarrassed by the burgeoning cost of the programme .</original>
+<compressed id=A3G.15.3>the Government has been embarrassed by the cost .</compressed>
+<original id=A3G.15.4>Mr Baker had said that industrial sponsors would pay `` all or a substantial part '' of the capital costs .</original>
+<compressed id=A3G.15.4>Mr Baker had said sponsors would pay `` a substantial part '' of the costs .</compressed>
+<original id=A3G.15.5>The lack of sponsors has meant the taxpayer has had to foot more of the bill .</original>
+<compressed id=A3G.15.5>lack of sponsors has meant the taxpayer has had to foot the bill .</compressed>
+<original id=A3G.15.6>The Department of Education and Science said yesterday that the Government had spent £19.7m on CTCs and there was a further planned expenditure over the next three years of £106.2m .</original>
+<compressed id=A3G.15.6>the Government spent £19.7m on CTCs and there was a further expenditure of £106.2m .</compressed>
+<original id=A3G.15.7>So far industry had contributed £44m .</original>
+<compressed id=A3G.15.7>industry had contributed £44m .</compressed>
+<original id=A3G.15.8>Sir Cyril Taylor , the Government 's adviser on CTCs , who had earlier been successful in persuading Mr Baker to commit more government funds to the 20 schools , had been hoping to get more money for a new round of schools .</original>
+<compressed id=A3G.15.8>Sir Cyril Taylor , Government adviser on CTCs , had been hoping to get more money for a new round of schools .</compressed>
+<original id=A3G.15.9>But sources have confirmed that this has been ruled out by the Treasury in the current round of public expenditure talks .</original>
+<compressed id=A3G.15.9>this has been ruled out .</compressed>
+<original id=A3G.15.10>But yesterday , Susan Fey , of the Ctc Trust , said , `` We were only ever given a target of 20 .</original>
+<compressed id=A3G.15.10>Susan Fey , of the Ctc Trust , said , `` We were given a target of 20 .</compressed>
+<original id=A3G.15.11>We have never been to Treasury to ask for funds for more than 20 .</original>
+<compressed id=A3G.15.11>We have never been to Treasury to ask for funds for more .</compressed>
+<original id=A3G.15.12>Of course there have been discussions between the Trust and civil servants but nothing has gone to Pesc ( the expenditure talks). '' Although Sir Cyril had spoken in January 1988 about `` hundreds '' of CTCs , these would be funded by local education authorities .</original>
+<compressed id=A3G.15.12>there have been discussions between the Trust and civil servants '' Although Sir Cyril had spoken about `` hundreds '' of CTCs , these would be funded by local authorities .</compressed>
+<original id=A3G.15.13>Jack Straw , Labour 's shadow education secretary said yesterday at the Labour Party conference that the news to abandon further CTCs marked `` the death of an expensive corrupt fiasco , which has already cost the taxpayer millions '' .</original>
+<compressed id=A3G.15.13>Jack Straw , shadow education secretary said that the news to abandon further CTCs marked `` the death of an fiasco '' .</compressed>
+<original id=A3G.15.14>`` But so rotten has the policy proved that not even a `` taxpayer bail-out '' could save it. Indeed even Britain 's blue chip businesses boycotted the scheme despite being put under intense personal and political pressure , '' he added .</original>
+<compressed id=A3G.15.14>`` not even a `` taxpayer bail-out '' could save it. businesses boycotted the scheme despite intense personal and political pressure , '' .</compressed>
+<original id=A3G.15.15>Mr Straw said this involved `` veiled threats if they did not cough up and clear promises of honours if they did '' .</original>
+<compressed id=A3G.15.15>Mr Straw said this involved `` veiled threats and clear promises of honours '' .</compressed>
+<original id=A3G.15.16>He added : `` What is so appalling is that millions of pounds which should have been invested in children 's education has been squandered in pursuit of electoral advantage. '' He will renew calls on the public accounts committee to conduct a full investigation into `` this disgraceful waste of the funds so vital to the education of our children '' .</original>
+<compressed id=A3G.15.16>He added : `` millions which should have been invested in education has been squandered '' He will renew calls to conduct a investigation into `` this disgraceful waste '' .</compressed>
+<original id=A3G.15.17>He is also writing to John McGregor , the Education Secretary , urging him not only to abandon the idea of additional CTCs but to hand over those in the pipeline to local authorities .</original>
+<compressed id=A3G.15.17>He is writing to John McGregor , Education Secretary , urging him not only to abandon the idea of additional CTCs but to hand over to local authorities .</compressed>
+</text>
+</doc>

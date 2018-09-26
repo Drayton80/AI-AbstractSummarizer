@@ -1,0 +1,40 @@
+<doc id=AKH.41>
+<text>
+<original id=AKH.41.0>Moderate supporters of President Rafsanjani were heading for an overwhelming victory over Iranian hardliners last night , according to the latest tally of returns from parliamentary elections held on Friday .</original>
+<compressed id=AKH.41.0>supporters of President Rafsanjani were heading for an victory over Iranian hardliners .</compressed>
+<original id=AKH.41.1>The Iranian Interior Ministry said that 29 members of the Association of Combatant Clergy which , despite its harsh-sounding name , is linked to President Rafsanjani 's cautious opening to the West , were among the 30 highest scoring candidates in Teheran , the largest constituency .</original>
+<compressed id=AKH.41.1>The Iranian Ministry said that members of the Association of Combatant Clergy which is linked to opening to the West , were among the highest scoring candidates .</compressed>
+<original id=AKH.41.2>Only three of them secured enough votes to be assured of their seats .</original>
+<compressed id=AKH.41.2>Only three secured seats .</compressed>
+<original id=AKH.41.3>The rest will have to take part in a second ballot at a date yet to be announced .</original>
+<compressed id=AKH.41.3>The rest will take part in a second ballot .</compressed>
+<original id=AKH.41.4>In the rest of the country , about half of roughly 100 candidates who won seats in the first round were linked with the pro-Rafsanjani `` pragmatic '' faction .</original>
+<compressed id=AKH.41.4>In the country , half of candidates who won seats in the first round were pro-Rafsanjani .</compressed>
+<original id=AKH.41.5>Many of them will be new faces in the 270-seat parliament , the Majlis .</original>
+<compressed id=AKH.41.5>Many will be new in the 270-seat parliament .</compressed>
+<original id=AKH.41.6>The preliminary results , particularly in Teheran , indicate Iranians ' weariness with more than a decade of revolutionary turmoil and a desire to rebuild the economy following the eight-year war with Iraq .</original>
+<compressed id=AKH.41.6>The results , particularly in Teheran , indicate Iranians ' desire to rebuild the economy following the war with Iraq .</compressed>
+<original id=AKH.41.7>It was the first parliamentary election since the death three years ago of Ayatollah Khomeini , leader of the Islamic revolution and the radicals ' principal mentor .</original>
+<compressed id=AKH.41.7>It was the first election since the death three years ago of Ayatollah Khomeini , leader of the Islamic revolution .</compressed>
+<original id=AKH.41.8>The radicals have steadily lost ground to the moderates since then .</original>
+<compressed id=AKH.41.8>The radicals have lost ground to the moderates since .</compressed>
+<original id=AKH.41.9>They have opposed every attempt to improve relations with the West and to liberalise the economy as a betrayal of the legacy of Khomeini .</original>
+<compressed id=AKH.41.9>They opposed relations with the West as a betrayal of Khomeini .</compressed>
+<original id=AKH.41.10>The most popular candidate in Teheran , after about nine per cent of the city 's vote had been counted , was Hojatoleslam Akbar Husseini , a cleric and the presenter of a popular weekly television programme offering Islamic advice to resolve family problems .</original>
+<compressed id=AKH.41.10>The popular candidate in Teheran was Hojatoleslam Akbar Husseini , a cleric presenter of a television programme offering Islamic advice to resolve family problems .</compressed>
+<original id=AKH.41.11>Mr Husseini beat another cleric , Hojatoleslam Ali Akbar Abou Torabi , who had been a prisoner of war in Iraq for many years , and Dr Abbas Sheibani , a former minister .</original>
+<compressed id=AKH.41.11>Mr Husseini beat cleric Hojatoleslam Ali Akbar Abou Torabi , a prisoner of war for years , and Dr Abbas Sheibani , a former minister .</compressed>
+<original id=AKH.41.12>The best known radicals , such as the Speaker of the outgoing parliament , Hojatoleslam Mehdi Karrubi , and Mr Ali Akbar Mohtashemi , the former Interior Minister and the founder of the Lebanese Hizbollah group , came 36th and 40th respectively .</original>
+<compressed id=AKH.41.12>The best known radicals , Speaker of the parliament , Hojatoleslam Mehdi Karrubi , and Mr Ali Akbar Mohtashemi , the founder of Hizbollah , came 36th and 40th respectively .</compressed>
+<original id=AKH.41.13>In the Holy City of Mashad , Mrs Ghodssieh Alavi , a 50-year-old doctor associated with the `` pragmatist '' faction supporting Mr Rafsanjani , took the highest number of votes and became the first Iranian woman to be elected outside Teheran .</original>
+<compressed id=AKH.41.13>In Mashad , Mrs Ghodssieh Alavi , a doctor associated with the `` pragmatist '' faction , became the first Iranian woman to be elected outside Teheran .</compressed>
+<original id=AKH.41.14>Mrs Alavi beat Mr Hadi Khamenei , the brother of the Iranian leader Ayatollah Ali Khamenei , who will take part in a run-off poll to decide the fate of the second seat in Mashad .</original>
+<compressed id=AKH.41.14>Alavi beat Hadi Khamenei , the brother of Ayatollah Ali Khamenei , who will take part in a run-off to decide the the second seat .</compressed>
+<original id=AKH.41.15>But the successful candidate will have to receive the endorsement of the Guardian Council , a higher body of clerics and lawyers which supervises the elections .</original>
+<compressed id=AKH.41.15>the successful candidate will have to receive the endorsement of the Guardian Council , a body which supervises elections .</compressed>
+<original id=AKH.41.16>All Iranian papers reported large turn-outs , despite evidence from the streets of Teheran that many did not vote , either out of hostility to the regime or apathy .</original>
+<compressed id=AKH.41.16>Iranian papers reported large turn-outs , despite evidence that many did not vote out of hostility or apathy .</compressed>
+<original id=AKH.41.17>The radicals were widely expected to lose seats after a committee judging the suitability of candidates prevented about 1,000 of the 3,000 hopefuls from taking part , including several well-known radicals .</original>
+<compressed id=AKH.41.17>The radicals were widely expected to lose seats after a committee judging the suitability of candidates prevented 1,000 hopefuls from taking part .</compressed>
+</text>
+</doc>

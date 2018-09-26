@@ -1,0 +1,34 @@
+<doc id=AKH.9>
+<text>
+<original id=AKH.9.0>The Bomb devastated a part of the City which contains an outstanding series of buildings , dating from the Norman period to the present day .</original>
+<compressed id=AKH.9.0>The Bomb devastated outstanding buildings dating from the Norman period .</compressed>
+<original id=AKH.9.1>The Church of St Helen , in Bishopsgate , which has been wrecked , survived both the Great Fire and the efforts of the Luftwaffe during the Second World War .</original>
+<compressed id=AKH.9.1>The Church of St Helen , which has been wrecked , survived both the Great Fire and the Second World War .</compressed>
+<original id=AKH.9.2>It was built in the 13th century on older foundations , as a shared church , serving both a convent of nuns and the local parish , and was added to over the next five centuries .</original>
+<compressed id=AKH.9.2>It was built in the 13th century on older foundations , serving a convent and the parish , and was added to over the next centuries .</compressed>
+<original id=AKH.9.3>The interior was notable for medieval woodwork , important funerary monuments , and fine stained glass , some of it medieval and all now severely damaged .</original>
+<compressed id=AKH.9.3>The interior was notable for woodwork , monuments , and stained glass , some medieval and now damaged .</compressed>
+<original id=AKH.9.4>Sir Thomas Gresham , founder of the Royal Exchange , is buried in the church with other important figures in the history of London .</original>
+<compressed id=AKH.9.4>Sir Thomas Gresham , founder of the Royal Exchange , is buried with other figures in history .</compressed>
+<original id=AKH.9.5>( St Helen 's is sometimes described as the Westminster Abbey of the City ) .</original>
+<compressed id=AKH.9.5>( St Helen 's is the Westminster of the City ) .</compressed>
+<original id=AKH.9.6>If damage to its structure is bad enough to warrant demolition , its destruction would be one of London 's worst losses since the Second World War .</original>
+<compressed id=AKH.9.6>If damage is bad enough to warrant demolition , its destruction would be one of London 's worst losses .</compressed>
+<original id=AKH.9.7>But efforts are certain to be made to restore , and , if necessary , rebuild the church , which is a well-used place of worship .</original>
+<compressed id=AKH.9.7>efforts are to be made to restore and rebuild the church , which is well-used .</compressed>
+<original id=AKH.9.8>The Baltic Exchange was also wrecked and is almost certain to have to be demolished .</original>
+<compressed id=AKH.9.8>The Baltic Exchange was wrecked and is to be demolished .</compressed>
+<original id=AKH.9.9>It is an elaborate example of Edwardian commercial architecture , designed by T H Smith and W Wimble and completed in 1903 .</original>
+<compressed id=AKH.9.9>It is an example of Edwardian architecture , designed by Smith and Wimble in 1903 .</compressed>
+<original id=AKH.9.10>Many buildings of this period have been demolished for redevelopment since the War , so the Baltic Exchange had become a valued monument .</original>
+<compressed id=AKH.9.10>buildings of this period have been demolished , so the Baltic Exchange had become valued .</compressed>
+<original id=AKH.9.11>The 387ft-tall Commercial Union tower , designed by architects Gmw and now a shattered shell , was widely praised at the time of its completion in the late 1960s as a successful adaptation of the modern American commercial style , fronting a Manhatten style piazza .</original>
+<compressed id=AKH.9.11>The Commercial Union tower , designed by Gmw and now a shell , was praised in the 1960s as a successful adaptation of modern American style , fronting a Manhatten style piazza .</compressed>
+<original id=AKH.9.12>It remains a well liked and successful building of its era .</original>
+<compressed id=AKH.9.12>It remains liked and successful .</compressed>
+<original id=AKH.9.13>Richard Seifert 's NatWest Tower , which has suffered superficial damage , looks 1960s but was not completed until 1981 .</original>
+<compressed id=AKH.9.13>Seifert 's NatWest Tower , which suffered damage , looks 1960s but was not completed until 1981 .</compressed>
+<original id=AKH.9.14>Also superficially damaged was Richard Rogers 's Lloyd 's building , finished in 1986 .</original>
+<compressed id=AKH.9.14>Also damaged was Rogers 's Lloyd 's building , finished in 1986 .</compressed>
+</text>
+</doc>

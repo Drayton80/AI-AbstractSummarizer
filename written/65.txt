@@ -1,0 +1,46 @@
+<doc id=AKY.65>
+<text>
+<original id=AKY.65.0>Daniele Bovet , who has died aged 85 , won a Nobel Prize in 1957 for his part in developing anti-histamines , and in adapting the poison curare to more beneficent purpose .</original>
+<compressed id=AKY.65.0>Daniele Bovet , who died aged 85 , won a Nobel in 1957 for developing anti-histamines .</compressed>
+<original id=AKY.65.1>Few men can have done more to relieve human suffering , or shown less interest in profiting from the process .</original>
+<compressed id=AKY.65.1>Few have done more to relieve suffering , or shown less interest in profiting from the process .</compressed>
+<original id=AKY.65.2>When Bovet won the prize it was noted that he had never taken out a patent in his own name or sought to make a penny from the commercial expoitation of his research .</original>
+<compressed id=AKY.65.2>When Bovet won it was noted he had never taken out a patent or sought to make a penny from his research .</compressed>
+<original id=AKY.65.3>The son of an educationist , Daniele Bovet was born at Neuchatel , Switzerland , on March 23 1907 , and was instantly treated as a subject of research .</original>
+<compressed id=AKY.65.3>son of an educationist , Daniele Bovet was born on March 23 1907 , and was treated as a subject of research .</compressed>
+<original id=AKY.65.4>`` We children were guinea pigs for testing father 's educational theories , '' he remembered .</original>
+<compressed id=AKY.65.4>`` We were guinea pigs for father 's educational theories , '' he remembered .</compressed>
+<original id=AKY.65.5>`` It was wonderful. '' Young Daniele demonstrated his proclivities by cultivating moulds in his mother 's jam jars , before undertaking more formal education at Geneva University .</original>
+<compressed id=AKY.65.5>`` It was wonderful. '' Daniele demonstrated his proclivities by cultivating moulds in jam jars , before undertaking education at Geneva University .</compressed>
+<original id=AKY.65.6>In 1929 he went to Paris to work at the Pasteur Institute .</original>
+<compressed id=AKY.65.6>In 1929 he went to work at the Pasteur Institute .</compressed>
+<original id=AKY.65.7>When word came from Germany that a dye product called protonsil was proving efficacious in the treatment of streptococcal infections in mice , Bovet set himself to analyse this `` clumsy , complex chemical '' .</original>
+<compressed id=AKY.65.7>When protonsil was proving efficacious in the treatment of streptococcal infections in mice , Bovet set to analyse this `` chemical '' .</compressed>
+<original id=AKY.65.8>He succeeded in isolating the essential germ-killing element , and created sulfanilamide , the first modern drug to work directly upon the cause of infection .</original>
+<compressed id=AKY.65.8>He succeeded in isolating the germ-killing element , and created sulfanilamide , the first modern drug to work directly upon infection .</compressed>
+<original id=AKY.65.9>He went on to develop a succession of life-saving sulfa drugs .</original>
+<compressed id=AKY.65.9>He went on to develop life-saving sulfa drugs .</compressed>
+<original id=AKY.65.10>In 1936 Bovet became head of therapeutic chemistry at the Pasteur Insitute .</original>
+<compressed id=AKY.65.10>Bovet became head of therapeutic chemistry at the Pasteur Insitute .</compressed>
+<original id=AKY.65.11>He had by then begun to investigate the failure of the human system to produce an antibody against the effects of histamine , associated with such allergic reactions as hay fever and asthma .</original>
+<compressed id=AKY.65.11>He had begun to investigate an antibody against histamine , associated with allergic reactions .</compressed>
+<original id=AKY.65.12>Between 1937 and 1941 he discovered drugs which mitigated the worst symptoms of these maladies .</original>
+<compressed id=AKY.65.12>Between 1937 and 1941 he discovered drugs which mitigated these maladies .</compressed>
+<original id=AKY.65.13>He next turned his attention to curare , which South American Indians used to apply to the tips of their arrows to induce paralysis in their foes .</original>
+<compressed id=AKY.65.13>He turned to curare , which South American Indians used to induce paralysis .</compressed>
+<original id=AKY.65.14>Bovet produced a curare-based compound that came to be widely used as a muscle relaxant during surgery on the chest and the abdomen .</original>
+<compressed id=AKY.65.14>Bovet produced a compound used as a muscle relaxant during surgery .</compressed>
+<original id=AKY.65.15>In 1947 Bovet left the Pasteur Institute for the Insituto Superiore di Sanita in Rome , which was able to offer him better facilities .</original>
+<compressed id=AKY.65.15>Bovet left for the Insituto Superiore di Sanita in Rome , which was able to offer better facilities .</compressed>
+<original id=AKY.65.16>Here he was increasingly concerned with the chemistry of the brain , which he believed held the key to the treatment of mental illness .</original>
+<compressed id=AKY.65.16>he was concerned with the chemistry of the brain , the key to mental illness .</compressed>
+<original id=AKY.65.17>He became an Italian citizen in 1947 .</original>
+<compressed id=AKY.65.17>He became Italian in 1947 .</compressed>
+<original id=AKY.65.18>Bovet married , in 1938 , Filomeni Nitti , daughter of an anti-Fascist prime minister of Italy .</original>
+<compressed id=AKY.65.18>Bovet married , Filomeni Nitti , daughter of an anti-Fascist minister .</compressed>
+<original id=AKY.65.19>Appropriately enough , he experienced `` a lightning chemical reaction '' on their first meeting .</original>
+<compressed id=AKY.65.19>Appropriately , he experienced `` a chemical reaction '' on their first meeting .</compressed>
+<original id=AKY.65.20>They had a son .</original>
+<compressed id=AKY.65.20>They had a son .</compressed>
+</text>
+</doc>

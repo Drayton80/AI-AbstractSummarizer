@@ -1,0 +1,40 @@
+<doc id=AJD.25>
+<text>
+<original id=AJD.25.0>The Choice of the `` capital '' of Cornwall 's one-time china clay industry as the venue for the Liberal Democrats ' penultimate and most glitzy election rally last night was no accident .</original>
+<compressed id=AJD.25.0>The Choice of the `` capital '' of Cornwall 's one-time industry for the Liberal Democrats ' glitzy rally was no accident .</compressed>
+<original id=AJD.25.1>St Austell is smack in the middle of the party 's natural heartland which Liberal Democrat strategists are increasingly confident will largely revert to its traditional Liberal colours on Thursday .</original>
+<compressed id=AJD.25.1>St Austell is in the middle of the party 's heartland which Liberal Democrat strategists are confident will revert to Liberal on Thursday .</compressed>
+<original id=AJD.25.2>Mr Ashdown descended on the area yesterday for the third time in his marathon campaign amid growing recognition among Tories that the South-West could prove their Achilles ' heel , a danger underlined by the Press Association opinion poll which showed a swing against the Conservatives in the region of six per cent .</original>
+<compressed id=AJD.25.2>Mr Ashdown descended on the area for the third time amid recognition among Tories that the South-West could prove their Achilles ' heel , a danger underlined by the poll which showed a swing against the Conservatives of six per cent .</compressed>
+<original id=AJD.25.3>Liberal Democrat strategists predicted that such a swing would deliver into their party 's hands up to seven Tory seats in the area , including Bath , the constituency held by Mr Patten , Conservative Party chairman .</original>
+<compressed id=AJD.25.3>Liberal Democrat predicted that would deliver seven Tory seats , including Bath , held by Mr Patten , Conservative chairman .</compressed>
+<original id=AJD.25.4>`` This is the area where we are the clear challengers and we have a strong presence , '' said Mr Ashdown during a photogenic visit to a seal sanctuary in Gweek .</original>
+<compressed id=AJD.25.4>`` This is where we have a strong presence , '' said Mr Ashdown during a visit to a seal sanctuary in Gweek .</compressed>
+<original id=AJD.25.5>`` It is a bedrock of traditional liberalism to build on and it is here that we are likely to see the most substantial progress of all. Some are talking about Cornwall falling to us lock stock and barrel .</original>
+<compressed id=AJD.25.5>`` a bedrock of traditional liberalism it is here that we are likely to see the most substantial progress of all. Some are talking about Cornwall falling to us .</compressed>
+<original id=AJD.25.6>I would n't go so far. '' As the only viable West Country alternative to the Tories --- there are no Labour MPs between Bristol and Penzance --- the Liberal Democrats are benefiting from simmering resentment that , while the boom years largely past the region by , the recession has hit agriculture , tin mining , and tourism .</original>
+<compressed id=AJD.25.6>'' As the only West Country alternative to the Tories --- there are no Labour MPs --- the Liberal Democrats are benefiting from resentment that , while the boom years past the region by , the recession has hit .</compressed>
+<original id=AJD.25.7>Cutbacks in local defence establishments is also a factor in some constituencies .</original>
+<compressed id=AJD.25.7>Cutbacks in local defence is a factor .</compressed>
+<original id=AJD.25.8>In the Fawlty Towers belt of Torquay , abandoned hotels have been boarded up against vandals .</original>
+<compressed id=AJD.25.8>In Torquay , abandoned hotels have been boarded up against vandals .</compressed>
+<original id=AJD.25.9>Significantly , farmers --- generally reliable Tory supporters --- are blaming the Government for the sins of Brussels and appear to be turning a blind eye to the Liberal Democrats ' pro-European stance .</original>
+<compressed id=AJD.25.9>farmers --- generally Tory supporters --- are blaming the Government for Brussels and appear to be turning a blind eye to the Liberal Democrats ' pro-European stance .</compressed>
+<original id=AJD.25.10>Conservative Central Office has been inundated with jittery reports from regional Tory organisers , but is banking on driving home the message to a receptive audience that a vote for the Liberal Democrats would effectively open the door of Downing Street to Mr Kinnock .</original>
+<compressed id=AJD.25.10>Conservative Central Office is driving home that a vote for the Liberal Democrats would open the door of Downing Street to Mr Kinnock .</compressed>
+<original id=AJD.25.11>`` When people vote on the day , they are looking at the party who will form the government , and in this part of the country they do not want socialism , '' said Mr Peter Hodgson , the Conservatives ' Western Area chairman , who was confident the Conservatives would retain all their seats .</original>
+<compressed id=AJD.25.11>`` people are looking at the party who will form the government , and they do not want socialism , '' said Mr Peter Hodgson , the Conservatives ' Western Area chairman , confident the Conservatives would retain all seats .</compressed>
+<original id=AJD.25.12>At last night 's rally , which culminated in fireworks , Mr Ashdown did not miss the opportunity to evoke the West Country 's Liberal roots .</original>
+<compressed id=AJD.25.12>Mr Ashdown did not miss the opportunity to evoke the West Country 's Liberal roots .</compressed>
+<original id=AJD.25.13>`` Long before the most recent dramatic rise of the Liberal Democrats , Cornwall was the bedrock of liberalism and democracy .</original>
+<compressed id=AJD.25.13>`` before the recent dramatic rise of the Liberal Democrats , Cornwall was the bedrock of liberalism .</compressed>
+<original id=AJD.25.14>For even in the darkest days of two-party Tory and Labour domination , the flame of hope burns brightly here , '' he said .</original>
+<compressed id=AJD.25.14>even in the days of Tory and Labour domination , hope burns brightly '' .</compressed>
+<original id=AJD.25.15>`` And whenever Liberal Democrats are on the up , we sweep ahead in the South-West .</original>
+<compressed id=AJD.25.15>`` whenever Liberal Democrats are on the up , we sweep ahead in the South-West .</compressed>
+<original id=AJD.25.16>We 'll do so on Thursday .</original>
+<compressed id=AJD.25.16>We 'll do so .</compressed>
+<original id=AJD.25.17>Here in Cornwall , you are in the vanguard of conscience and reform. '' He warned the Conservatives and Labour that `` from the ancient bastion of liberalism , the flames are fanning out in all directions , consuming your shabby campaigns , your out-of-date policies , your visions of the future '' .</original>
+<compressed id=AJD.25.17>in Cornwall , you are in the vanguard '' He warned the Conservatives and Labour that `` from the bastion of liberalism , the flames are fanning out in all directions , consuming your out-of-date visions '' .</compressed>
+</text>
+</doc>

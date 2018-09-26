@@ -1,0 +1,57 @@
+<doc id=bn9623.rpi_segs.txt.960608.59>
+<annotator>annotator1</annotator>
+<text>
+<original id=bn9623.rpi_segs.txt.960608.59.0>If sex education is a hotly debated topic in a relatively open society , imagine what it 's like in a more traditional society like China .</original>
+<compressed id=bn9623.rpi_segs.txt.960608.59.0>If sex education is a hotly debated topic in a open society , imagine what it 's like in a more traditional society like China .</compressed>
+<original id=bn9623.rpi_segs.txt.960608.59.1>Well , now you do n't have to .</original>
+<compressed id=bn9623.rpi_segs.txt.960608.59.1>you do n't have to .</compressed>
+<original id=bn9623.rpi_segs.txt.960608.59.2>CNN 's Maria Ressa set in on a sex ed class and got a lesson on culture , instead .</original>
+<compressed id=bn9623.rpi_segs.txt.960608.59.2>Maria Ressa set in on a sex ed class and got a lesson on culture .</compressed>
+<original id=bn9623.rpi_segs.txt.960608.59.3>Their questions seemed naive .</original>
+<compressed id=bn9623.rpi_segs.txt.960608.59.3>Their questions seemed naive .</compressed>
+<original id=bn9623.rpi_segs.txt.960608.59.4>What do you do if you like a boy who 's older than you ?</original>
+<compressed id=bn9623.rpi_segs.txt.960608.59.4>What do you do if you like a boy ?</compressed>
+<original id=bn9623.rpi_segs.txt.960608.59.5>What if a teacher asks embarrassing questions ?</original>
+<compressed id=bn9623.rpi_segs.txt.960608.59.5>What if a teacher asks embarrassing questions ?</compressed>
+<original id=bn9623.rpi_segs.txt.960608.59.6>But these are questions few here feel they can discuss with parents and friends .</original>
+<compressed id=bn9623.rpi_segs.txt.960608.59.6>these are questions few here feel they can discuss .</compressed>
+<original id=bn9623.rpi_segs.txt.960608.59.7>This is China 's version of the sex education class , to help adolescent girls and boys deal with the problems of growing up.</original>
+<compressed id=bn9623.rpi_segs.txt.960608.59.7>This is China 's sex education to help adolescent girls and boys deal with growing up.</compressed>
+<original id=bn9623.rpi_segs.txt.960608.59.8>In two years , 30,000 students have participated in this special course , and it 's caused some controversy along the way .</original>
+<compressed id=bn9623.rpi_segs.txt.960608.59.8>In two years , 30,000 students have participated in this course , and it 's caused some controversy .</compressed>
+<original id=bn9623.rpi_segs.txt.960608.59.9>Teachers are really afraid , because in the past we never dealt with these questions of sexuality .</original>
+<compressed id=bn9623.rpi_segs.txt.960608.59.9>Teachers are afraid because we never dealt with sexuality .</compressed>
+<original id=bn9623.rpi_segs.txt.960608.59.10>China 's education system demands a strict code of behavior from its students .</original>
+<compressed id=bn9623.rpi_segs.txt.960608.59.10>China 's education system demands a strict code of behavior from students .</compressed>
+<original id=bn9623.rpi_segs.txt.960608.59.11>It 's formal , rote-oriented style of teaching enforces discipline and respect for authority .</original>
+<compressed id=bn9623.rpi_segs.txt.960608.59.11>It 's formal , rote-oriented teaching enforces discipline and respect for authority .</compressed>
+<original id=bn9623.rpi_segs.txt.960608.59.12>It also adds a good dose of party politics and communist doctrine .</original>
+<compressed id=bn9623.rpi_segs.txt.960608.59.12>It also adds party politics and communist doctrine .</compressed>
+<original id=bn9623.rpi_segs.txt.960608.59.13>But recent reforms have opened up the country to Western influence in movies , television and music and that sends conflicting messages to Chinese kids .</original>
+<compressed id=bn9623.rpi_segs.txt.960608.59.13>recent reforms have opened the country to Western influence in movies , television and music and that sends conflicting messages .</compressed>
+<original id=bn9623.rpi_segs.txt.960608.59.14>They see these things , and they want to go and try it for themselves .</original>
+<compressed id=bn9623.rpi_segs.txt.960608.59.14>They see things and they want to try it .</compressed>
+<original id=bn9623.rpi_segs.txt.960608.59.15>But , they 're too young to handle the consequences .</original>
+<compressed id=bn9623.rpi_segs.txt.960608.59.15>they 're too young .</compressed>
+<original id=bn9623.rpi_segs.txt.960608.59.16>The class is straightforward .</original>
+<compressed id=bn9623.rpi_segs.txt.960608.59.16>The class is straightforward .</compressed>
+<original id=bn9623.rpi_segs.txt.960608.59.17>A teacher addresses the physical changes going on in their bodies and speaks openly about topics normally considered taboo .</original>
+<compressed id=bn9623.rpi_segs.txt.960608.59.17>A teacher addresses the changes in their bodies and speaks about topics normally considered taboo .</compressed>
+<original id=bn9623.rpi_segs.txt.960608.59.18>And that encourages students like 14-year-old Chen Jing .</original>
+<compressed id=bn9623.rpi_segs.txt.960608.59.18>that encourages students like 14-year-old Chen Jing .</compressed>
+<original id=bn9623.rpi_segs.txt.960608.59.19>I just wish my parents and my other teachers could be like this teacher , so we could communicate .</original>
+<compressed id=bn9623.rpi_segs.txt.960608.59.19>I just wish my parents and other teachers could be like this , so we could communicate .</compressed>
+<original id=bn9623.rpi_segs.txt.960608.59.20>It 's still a conservative society .</original>
+<compressed id=bn9623.rpi_segs.txt.960608.59.20>It 's a conservative society .</compressed>
+<original id=bn9623.rpi_segs.txt.960608.59.21>Chen says she has no boyfriend and would not want one until she 's in college , but girls in her class face an added problem .</original>
+<compressed id=bn9623.rpi_segs.txt.960608.59.21>Chen has no boyfriend and would not want one until college , but girls face an added problem .</compressed>
+<original id=bn9623.rpi_segs.txt.960608.59.22>They are one of the first generations of China 's policy which restricts couples to one child .</original>
+<compressed id=bn9623.rpi_segs.txt.960608.59.22>They are the first generations of China 's policy which restricts couples to one child .</compressed>
+<original id=bn9623.rpi_segs.txt.960608.59.23>With no brother or sister to confide in , it becomes more difficult to handle their questions of sexuality , and as they grow , skewed ratios of boys to girls may put additional pressure on them .</original>
+<compressed id=bn9623.rpi_segs.txt.960608.59.23>With no brother or sister to confide in , it becomes difficult to handle questions of sexuality , and skewed ratios of boys to girls may put pressure on them .</compressed>
+<original id=bn9623.rpi_segs.txt.960608.59.24>Still , for now , Chen says this class is a relief , helping her understand and deal with questions she could n't even talk about .</original>
+<compressed id=bn9623.rpi_segs.txt.960608.59.24>Chen says this class is a relief , helping her understand and deal with questions she could n't even talk about .</compressed>
+<original id=bn9623.rpi_segs.txt.960608.59.25>Maria Ressa , CNN , Beijing .</original>
+<compressed id=bn9623.rpi_segs.txt.960608.59.25>Maria Ressa , Beijing .</compressed>
+</text>
+</doc>

@@ -1,0 +1,38 @@
+<doc id=A7V.12>
+<text>
+<original id=A7V.12.0>The Communists of Poland and Hungary are refusing to lie down and die .</original>
+<compressed id=A7V.12.0>The Communists of Poland and Hungary are refusing to lie down and die .</compressed>
+<original id=A7V.12.1>Having been rejected after holding sway for so long , they are now seeking new ways of making friends and influencing people .</original>
+<compressed id=A7V.12.1>they are seeking new ways of influencing people .</compressed>
+<original id=A7V.12.2>The leadership of the Polish Communist Party has this week approved changes committing it to altering its name and participating in free elections within a multi-party system .</original>
+<compressed id=A7V.12.2>the Polish Communist Party has approved changes altering its name and participating in free elections .</compressed>
+<original id=A7V.12.3>It was not plain sailing and orthodox and `` liberal '' Communists will be at each others ' throats --- at local level --- until they hold a full congress next January to determine new policies once and for all and to approve new leaders .</original>
+<compressed id=A7V.12.3>orthodox and `` liberal '' Communists will be at each others ' throats until they determine new policies and approve new leaders .</compressed>
+<original id=A7V.12.4>Some party members are already disssatisfied with Mr Mieczyslaw Rakowski , who became leader only in August , for the way he went immediately to Moscow when the party was in trouble rather than work out a Polish solution .</original>
+<compressed id=A7V.12.4>Some are disssatisfied with Mieczyslaw Rakowski for the way he went to Moscow when the party was in trouble .</compressed>
+<original id=A7V.12.5>According to these members , Mr Aleksandar Kwiasnewski , a `` liberal '' who is much younger than Mr Rakowski and had a rapid rise in the last phase of the Communist government , could replace him .</original>
+<compressed id=A7V.12.5>According to these members , Aleksandar Kwiasnewski , a `` liberal '' , could replace him .</compressed>
+<original id=A7V.12.6>The new party name is also a subject of debate .</original>
+<compressed id=A7V.12.6>The new party name is a subject of debate .</compressed>
+<original id=A7V.12.7>At least 70 alternatives have been submitted , with that of Polish Socialist Labour Party the front-runner .</original>
+<compressed id=A7V.12.7>70 alternatives have been submitted , with Polish Socialist Labour Party the front-runner .</compressed>
+<original id=A7V.12.8>The new party would drop the old insistence on the dictatorship of the proletariat .</original>
+<compressed id=A7V.12.8>The party would drop the insistence on the dictatorship of the proletariat .</compressed>
+<original id=A7V.12.9>Whatever the changes , the new party could have a difficult birth .</original>
+<compressed id=A7V.12.9>the new party could have a difficult birth .</compressed>
+<original id=A7V.12.10>It has been confirmed this week that political parties will no longer get financial subsidies , and the party urgently needs new sources of money .</original>
+<compressed id=A7V.12.10>political parties will no longer get financial subsidies , and the party needs money .</compressed>
+<original id=A7V.12.11>Its newspaper , Trybuna Ludu , lost 1.7billion zloties ( £382,500 ) last year ; this year it is expected to lose nearly five times as much .</original>
+<compressed id=A7V.12.11>Its newspaper , Trybuna Ludu , lost 1.7billion zloties last year ; this year it is expected to lose five times as much .</compressed>
+<original id=A7V.12.12>In Hungary , Mr Karoly Grosz , general secretary until last month of the now defunct Hungarian Socialist Workers ' Party ( Hswp ) , wants to reorganise the party and start a new Communist newspaper .</original>
+<compressed id=A7V.12.12>In Hungary , Karoly Grosz , general secretary of the defunct Hungarian Socialist Workers ' Party , wants to reorganise the party and start a new newspaper .</compressed>
+<original id=A7V.12.13>Mr Grosz , seen by many Hungarians as a discredited hardliner , added that there was a need to propagate Communist ideas in Hungary .</original>
+<compressed id=A7V.12.13>Grosz , seen as a discredited hardliner , added that there was a need to propagate Communist ideas .</compressed>
+<original id=A7V.12.14>He seems to be cashing in on the goodwill of those who regret the party 's `` new start '' last month when it renamed itself the Hungarian Socialist Party ( Hsp ) .</original>
+<compressed id=A7V.12.14>He seems to be cashing in on the goodwill of those who regret the party 's `` new start '' last month when it renamed itself the Hungarian Socialist Party .</compressed>
+<original id=A7V.12.15>One objective of Mr Grosz is to see that the Hswp holds its party congress , as in `` normal '' times , early next year .</original>
+<compressed id=A7V.12.15>One objective of Mr Grosz is to see that the Hswp holds its party congress normal .</compressed>
+<original id=A7V.12.16>The Hsp leadership says , however , that since there is no Hswp , there can be no Hswp congress .</original>
+<compressed id=A7V.12.16>The Hsp leadership says that since there is no Hswp , there can be no congress .</compressed>
+</text>
+</doc>

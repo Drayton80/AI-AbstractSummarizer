@@ -1,0 +1,44 @@
+<doc id=A7W.24>
+<text>
+<original id=A7W.24.0>Britain was yesterday accused of undermining international efforts to combat the greenhouse effect , as Mrs Thatcher flew to New York to declare to the United Nations her concern about the environment and reveal a number of British initiatives .</original>
+<compressed id=A7W.24.0>Britain was accused of undermining efforts to combat the greenhouse effect , as Mrs Thatcher flew to New York to declare to the United Nations her concern about the environment and reveal British initiatives .</compressed>
+<original id=A7W.24.1>Mrs Thatcher will today announce that she is to double the British contribution of £3 million to the Un Environment Project in Nairobi and give new money to tropical rain forest schemes .</original>
+<compressed id=A7W.24.1>Mrs Thatcher is to double the British contribution of £3 million to the Un Environment Project and give money to tropical rain forest schemes .</compressed>
+<original id=A7W.24.2>She is expected to place great emphasis on Britain 's contribution to controlling the hole in the ozone layer and global warming .</original>
+<compressed id=A7W.24.2>She is expected to place emphasis on Britain 's contribution to controlling the ozone layer and global warming .</compressed>
+<original id=A7W.24.3>But at a 72-nation conference in the Netherlands yesterday , Britain , the United States , Japan and the Soviet Union , which between them emit 50 per cent of the world 's carbon dioxide , blocked a proposed freeze on emissions of the gas by the year 2000 and a 20 per cent reduction by 2005 .</original>
+<compressed id=A7W.24.3>Britain , the United States , Japan and the Soviet Union , which emit 50 per cent of the world 's carbon dioxide , blocked a proposed freeze on emissions by 2000 and a 20 per cent reduction by 2005 .</compressed>
+<original id=A7W.24.4>Instead , Mr David Trippier , the environment minister , insisted the target dates should be dropped as unrealistic and the words `` as soon as possible '' substituted .</original>
+<compressed id=A7W.24.4>, Mr David Trippier , the environment minister , insisted the words `` as soon as possible '' substituted .</compressed>
+<original id=A7W.24.5>He said a number of large economies found it difficult to commit themselves to targets which had not been properly explored and before the International Panel on Climate Change reports scientific evidence next year .</original>
+<compressed id=A7W.24.5>He said large economies found difficult targets which had not been properly explored and before the International Panel on Climate Change reports next year .</compressed>
+<original id=A7W.24.6>This panel , with three committees chaired by Britain , the Us and Soviet Union , is examining the evidence for the Un before recommending how to reduce gas emissions .</original>
+<compressed id=A7W.24.6>This panel is examining the evidence before recommending how to reduce emissions .</compressed>
+<original id=A7W.24.7>Environmental groups believe that because the big industrial nations control these committees and are anxious to avoid curbs on industry and car use , they are using this scientific research as an excuse for taking no action .</original>
+<compressed id=A7W.24.7>Environmental groups believe that because the big industrial nations control these committees , they are using scientific research as an excuse .</compressed>
+<original id=A7W.24.8>Mr Steve Elsworth , Greenpeace air pollution campaigner , said : `` Britain 's contribution at the Dutch conference was to undermine efforts to set any date or make any real targets to deal with global warming .</original>
+<compressed id=A7W.24.8>Steve Elsworth , Greenpeace campaigner , said : `` Britain 's contribution was to undermine efforts to make any real targets .</compressed>
+<original id=A7W.24.9>Mr Trippier then claims the conference as a success , which clearly it is not .</original>
+<compressed id=A7W.24.9>Mr Trippier claims the conference as a success , which it is not .</compressed>
+<original id=A7W.24.10>Britain is all talk and no action .</original>
+<compressed id=A7W.24.10>Britain is all talk .</compressed>
+<original id=A7W.24.11>It is an internationally co-ordinated public relations exercise with no solid content in it. '' Mrs Thatcher will today emphasise the central role of the Un in global environmental issues .</original>
+<compressed id=A7W.24.11>It is an public relations exercise '' Mrs Thatcher will emphasise the central role of the Un in environmental issues .</compressed>
+<original id=A7W.24.12>She will attack the Hague declaration , a French initiative signed on March 12 , this year , where 24 heads of state proposed a Un agency empowered to impose sanctions on governments that did not reduce emissions of greenhouse gases .</original>
+<compressed id=A7W.24.12>She will attack the Hague declaration , signed on March 12 , where 24 heads of state proposed a Un agency empowered to impose sanctions on governments that did not reduce emissions .</compressed>
+<original id=A7W.24.13>Britain and the Us ignored the conference .</original>
+<compressed id=A7W.24.13>Britain and the Us ignored the conference .</compressed>
+<original id=A7W.24.14>Mrs Thatcher argues that sanctions are not the right course and only consensus will work .</original>
+<compressed id=A7W.24.14>Mrs Thatcher argues that only consensus will work .</compressed>
+<original id=A7W.24.15>This week , at the International Timber Trade Organisation 's conference in Japan , Britain was supported by green groups when it suggested a labelling scheme for tropical hardwood so consumers could choose products manufactured from sustainable timber reserves .</original>
+<compressed id=A7W.24.15>at the International Timber Trade Organisation 's conference , Britain was supported by green groups when it suggested a labelling scheme for tropical hardwood so consumers could choose products from sustainable reserves .</compressed>
+<original id=A7W.24.16>But the initiative was rejected by the countries where tropical forests are being indiscriminately felled for quick cash profits .</original>
+<compressed id=A7W.24.16>the initiative was rejected by countries where tropical forests are being felled for quick cash .</compressed>
+<original id=A7W.24.17>Mrs Thatcher has now rejected the Itto as the international forum to save the tropical forests , instead throwing her support behind the Un 's Tropical Forest Action Plan being run from Rome .</original>
+<compressed id=A7W.24.17>Mrs Thatcher has rejected the Itto , throwing her support behind the Un 's Tropical Forest Action Plan .</compressed>
+<original id=A7W.24.18>This project gives advice to Third World countries on how to manage their farming , forestry and agricultural needs .</original>
+<compressed id=A7W.24.18>This project gives advice to countries on how to manage their farming , forestry and agricultural needs .</compressed>
+<original id=A7W.24.19>Mrs Thatcher has been convinced by her Environment Secretary , Mr Chris Patten , from his days at overseas development that there is an important role for Britain to play in helping countries like Brazil to manage its forests correctly .</original>
+<compressed id=A7W.24.19>Mrs Thatcher has been convinced that there is an important role for Britain in helping countries like Brazil to manage its forests .</compressed>
+</text>
+</doc>

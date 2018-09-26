@@ -1,0 +1,46 @@
+<doc id=A3W.10>
+<text>
+<original id=A3W.10.0>The Number of people entitled to civil legal aid has fallen by more than 14 million since 1979 , according to research published today .</original>
+<compressed id=A3W.10.0>The Number of people entitled to legal aid has fallen by 14 million since 1979 .</compressed>
+<original id=A3W.10.1>The findings confirm earlier estimates of a large drop in eligibility and will fuel renewed calls for the legal aid means test to be thoroughly reviewed .</original>
+<compressed id=A3W.10.1>The findings confirm a drop in eligibility and will fuel calls for the legal aid means test to be reviewed .</compressed>
+<original id=A3W.10.2>Compared with 10 years ago , when it was estimated that at least 70 per cent of two-parent households with two children came within the scheme , less than half of two-parent families now qualify , according to the author of the study , Michael Murphy , a statistician at the London School of Economics .</original>
+<compressed id=A3W.10.2>Compared with 10 years ago , when it was estimated that 70 per cent of households with children came within the scheme , less than half of families now qualify , according to the of the study at the London School of Economics .</compressed>
+<original id=A3W.10.3>Claimants under the scheme receive advice or representation free or subject to a contribution linked to disposable income .</original>
+<compressed id=A3W.10.3>Claimants receive representation free or subject to a contribution linked to income .</compressed>
+<original id=A3W.10.4>But legal aid experts argue that low income and capital limits are denying access to justice to increasing numbers of people who cannot afford to pay privately .</original>
+<compressed id=A3W.10.4>legal aid experts argue that income and capital limits are denying access to justice to increasing numbers of people .</compressed>
+<original id=A3W.10.5>Mr Murphy 's analysis of available earnings and spending data , including the Department of Employment 's most recent Family Expenditure Survey , is revealed in today 's Legal Action .</original>
+<compressed id=A3W.10.5>Mr Murphy 's analysis of data , including the Department of Employment 's most recent Family Expenditure Survey , is revealed in today 's Legal Action .</compressed>
+<original id=A3W.10.6>The analysis concludes that 1 million households and more than 21/2 million people have dropped out of the legal aid net in the two years since Lord Mackay of Clashfern became Lord Chancellor .</original>
+<compressed id=A3W.10.6>more than 21/2 million people have dropped out of the legal aid net in two years .</compressed>
+<original id=A3W.10.7>Over the last decade , the upper disposable income limit rose by about 50 per cent , but earnings rose by 135 per cent and prices by 93 per cent .</original>
+<compressed id=A3W.10.7>Over the last decade , the income limit rose by 50 per cent , but earnings rose by 135 per cent and prices by 93 per cent .</compressed>
+<original id=A3W.10.8>Mr Murphy 's findings are borne out by new evidence of a decline in the use of legal aid .</original>
+<compressed id=A3W.10.8>Mr Murphy 's findings are borne out by evidence of a decline in legal aid .</compressed>
+<original id=A3W.10.9>Figures for the year ended 31 March 1989 , due to be published at the end of the year , show an overall 8 per cent drop in the use of the `` green form '' initial advice and assistance scheme , as compared with an overall increase the previous year of 10 per cent .</original>
+<compressed id=A3W.10.9>Figures for the year ended 31 March 1989 , show an 8 per cent drop in the advice and assistance scheme , as compared with an overall increase the previous year of 10 per cent .</compressed>
+<original id=A3W.10.10>`` Green form '' advice for consumer problems was 16 per cent down on the previous year .</original>
+<compressed id=A3W.10.10>`` Green form '' advice was 16 per cent down on the previous year .</compressed>
+<original id=A3W.10.11>Help with employment disputes fell by 14 per cent , with debt , immigration and housing matters showing falls of 13 , 9 and 8 per cent respectively .</original>
+<compressed id=A3W.10.11>Help with employment fell by 14 per cent , with debt , immigration and housing showing falls of 13 , 9 and 8 per cent respectively .</compressed>
+<original id=A3W.10.12>Like previous studies , Mr Murphy 's analysis uses conservative assumptions and legal aid experts say the problem could be much more serious .</original>
+<compressed id=A3W.10.12>Mr Murphy 's analysis uses conservative assumptions and legal aid experts say the problem could be more serious .</compressed>
+<original id=A3W.10.13>Mr Murphy says eligibility levels which took account of variations between households and actual , rather than assumed , figures for tax and housing , could be definitively assessed by further analysis of detailed Family Expenditure Survey statistics at the cost of only a few thousand pounds .</original>
+<compressed id=A3W.10.13>Mr Murphy says eligibility which took account of variations between households and actual figures for tax and housing , could be definitively assessed by further analysis of Family Expenditure Survey statistics .</compressed>
+<original id=A3W.10.14>Lord Mackay has treated claims that eligibility has substantially fallen as speculative .</original>
+<compressed id=A3W.10.14>Lord Mackay treated claims eligibility has fallen as speculative .</compressed>
+<original id=A3W.10.15>But there is now tacit acceptance at the Lord Chancellor 's department that the subject must be investigated .</original>
+<compressed id=A3W.10.15>there is acceptance that the subject must be investigated .</compressed>
+<original id=A3W.10.16>`` Over the last couple of months we have begun a preliminary look at the statistics with a view to doing our own calculations .</original>
+<compressed id=A3W.10.16>`` we have begun a view to doing our calculations .</compressed>
+<original id=A3W.10.17>The Family Expenditure Surveys will be a part of the exercise , '' a spokeswoman said .</original>
+<compressed id=A3W.10.17>The Family Expenditure Surveys will be a part of the exercise '' .</compressed>
+<original id=A3W.10.18>But she added : `` Numbers are one thing , effects are another .</original>
+<compressed id=A3W.10.18>she added : `` Numbers are one thing , effects another .</compressed>
+<original id=A3W.10.19>The scheme was intended for people of poor or moderate means .</original>
+<compressed id=A3W.10.19>The scheme was for people of poor means .</compressed>
+<original id=A3W.10.20>We will need to discover who is really being stopped from going ahead with legal action , or whether people are making choices between legal action or re-mortgaging their house , a holiday , a car or otherwise freeing money which is tied up. ''</original>
+<compressed id=A3W.10.20>We need to discover whether people are making choices between legal action or freeing money which is tied up. ''</compressed>
+</text>
+</doc>

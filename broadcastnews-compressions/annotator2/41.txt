@@ -1,0 +1,55 @@
+<doc id=bn9624.rpi_segs.txt.960618.534>
+<annotator>annotator2</annotator>
+<text>
+<original id=bn9624.rpi_segs.txt.960618.534.0>Aside from what Senator Dole alluded to , for the most part , Bob Dole ignored the Whitewater and FBI files - the controversies that is - as he spent a second straight day courting California voters .</original>
+<compressed id=bn9624.rpi_segs.txt.960618.534.0>Senator Bob Dole ignored the Whitewater and FBI files as he spent a second day courting California voters .</compressed>
+<original id=bn9624.rpi_segs.txt.960618.534.1>And , as our Bruce Morton explains , Dole 's strategy in the Golden State appears to be classic , as in the best Republican office is promoting a stronger defense .</original>
+<compressed id=bn9624.rpi_segs.txt.960618.534.1>Dole 's strategy in the Golden State appears to be classic , as in the best Republican office is promoting a stronger defense .</compressed>
+<original id=bn9624.rpi_segs.txt.960618.534.2>This Lockheed plant in Sunnyvale , California , is working on the THAD [ sp ] missile , a more sophisticated version of the Patriot anti-missile used in the Gulf War .</original>
+<compressed id=bn9624.rpi_segs.txt.960618.534.2>This Lockheed plant in Sunnyvale is working on the THAD missile , a more sophisticated version of the Patriot anti-missile used in the Gulf War .</compressed>
+<original id=bn9624.rpi_segs.txt.960618.534.3>But employment is down to about 10,000 , compared with 25,000 in 1986 .</original>
+<compressed id=bn9624.rpi_segs.txt.960618.534.3>But employment is down to 10,000 , compared with 25,000 in 1986 .</compressed>
+<original id=bn9624.rpi_segs.txt.960618.534.4>Dole accused President Clinton of dragging his feet on missile defense .</original>
+<compressed id=bn9624.rpi_segs.txt.960618.534.4>Dole accused President Clinton of dragging his feet on missile defense .</compressed>
+<original id=bn9624.rpi_segs.txt.960618.534.5>Mr. Clintons opposition to a missile defense is one of the most negligent , short-sighted , irresponsible and potentially catastrophic policies in history .</original>
+<compressed id=bn9624.rpi_segs.txt.960618.534.5>Mr. Clintons opposition to a missile defense is one of the most negligent , short-sighted , irresponsible and catastrophic policies in history .</compressed>
+<original id=bn9624.rpi_segs.txt.960618.534.6>And Dole said it encourages terrorists to think about missile attacks .</original>
+<compressed id=bn9624.rpi_segs.txt.960618.534.6>Dole said it encourages terrorists to think about missile attacks .</compressed>
+<original id=bn9624.rpi_segs.txt.960618.534.7>From Libya to Iraq to Iran to North Korea and elsewhere , a rogues gallery of terrorists and aggressive anti-American regimes , I believe , are in effect being encouraged by the administration 's attitude .</original>
+<compressed id=bn9624.rpi_segs.txt.960618.534.7>From Libya to Iraq to Iran to North Korea and elsewhere , terrorists and anti-American regimes are being encouraged by the administration 's attitude .</compressed>
+<original id=bn9624.rpi_segs.txt.960618.534.8>Dole made it clear that he would speed development of this plant 's THAD and of missile defense in general .</original>
+<compressed id=bn9624.rpi_segs.txt.960618.534.8>Dole would speed development of this plant 's THAD and of missile defense in general .</compressed>
+<original id=bn9624.rpi_segs.txt.960618.534.9>He also noted that people often do n't believe what politicians say and linked that with his decision to leave the U.S. Senate .</original>
+<compressed id=bn9624.rpi_segs.txt.960618.534.9>He noted that people do n't believe what politicians say and linked that with his decision to leave the Senate .</compressed>
+<original id=bn9624.rpi_segs.txt.960618.534.10>I decided that I could put my career on the line , because I think America 's future 's on the line .</original>
+<compressed id=bn9624.rpi_segs.txt.960618.534.10>I could put my career on the line , because America 's future 's on the line .</compressed>
+<original id=bn9624.rpi_segs.txt.960618.534.11>That 's how important it is.</original>
+<compressed id=bn9624.rpi_segs.txt.960618.534.11>That 's how important it is.</compressed>
+<original id=bn9624.rpi_segs.txt.960618.534.12>So I decided to role the dice , and I rolled the dice , and now it 's up to you .</original>
+<compressed id=bn9624.rpi_segs.txt.960618.534.12>I rolled the dice , and now it 's up to you .</compressed>
+<original id=bn9624.rpi_segs.txt.960618.534.13>Crowd reactions ?</original>
+<compressed id=bn9624.rpi_segs.txt.960618.534.13>Crowd reactions ?</compressed>
+<original id=bn9624.rpi_segs.txt.960618.534.14>Here are a few taken at random .</original>
+<compressed id=bn9624.rpi_segs.txt.960618.534.14>Here are a few taken at random .</compressed>
+<original id=bn9624.rpi_segs.txt.960618.534.15>The guy has some ideas .</original>
+<compressed id=bn9624.rpi_segs.txt.960618.534.15>The guy has ideas .</compressed>
+<original id=bn9624.rpi_segs.txt.960618.534.16>I think that 's part of the problem with a lot of politicians today .</original>
+<compressed id=bn9624.rpi_segs.txt.960618.534.16>I think that 's part of the problem with politicians today .</compressed>
+<original id=bn9624.rpi_segs.txt.960618.534.17>They want to be president , but they do n't really seem to have an idea what they want to do when they get there , except to be president .</original>
+<compressed id=bn9624.rpi_segs.txt.960618.534.17>They want to be president , but they do n't have an idea what they want to do when they get there .</compressed>
+<original id=bn9624.rpi_segs.txt.960618.534.18>He 's very down to earth and I thought was very true to what the American people really want .</original>
+<compressed id=bn9624.rpi_segs.txt.960618.534.18>He 's down to earth and true to what the American people want .</compressed>
+<original id=bn9624.rpi_segs.txt.960618.534.19>They want to have security in their lives .</original>
+<compressed id=bn9624.rpi_segs.txt.960618.534.19>They want to have security .</compressed>
+<original id=bn9624.rpi_segs.txt.960618.534.20>Earlier , Dole stopped to visit a volunteer fire station , noting that both his father and grandfather had been firefighters .</original>
+<compressed id=bn9624.rpi_segs.txt.960618.534.20>Dole stopped to visit a volunteer fire station , noting that both his father and grandfather had been firefighters .</compressed>
+<original id=bn9624.rpi_segs.txt.960618.534.21>Dole used this stop to say that Clinton 's defense policies have hurt California .</original>
+<compressed id=bn9624.rpi_segs.txt.960618.534.21>Dole used this to say that Clinton 's defense policies have hurt California .</compressed>
+<original id=bn9624.rpi_segs.txt.960618.534.22>At other stops on this tour , he 'll say other Clinton policies have done the same thing in other areas .</original>
+<compressed id=bn9624.rpi_segs.txt.960618.534.22>At other stops , he 'll say other Clinton policies have done the same thing in other areas .</compressed>
+<original id=bn9624.rpi_segs.txt.960618.534.23>From here , for instance , he goes to talk about agriculture .</original>
+<compressed id=bn9624.rpi_segs.txt.960618.534.23>From here he goes to talk about agriculture .</compressed>
+<original id=bn9624.rpi_segs.txt.960618.534.24>Bruce Morton , CNN , Sunnyvale , California .</original>
+<compressed id=bn9624.rpi_segs.txt.960618.534.24>Bruce Morton , CNN , Sunnyvale , California .</compressed>
+</text>
+</doc>

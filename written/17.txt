@@ -1,0 +1,34 @@
+<doc id=A7W.22>
+<text>
+<original id=A7W.22.0>Martin Linton .</original>
+<compressed id=A7W.22.0>Martin Linton .</compressed>
+<original id=A7W.22.1>The Lawson affair rumbled on in the Commons yesterday with the Labour leader , Mr Neil Kinnock , asking the Prime Minister why she did not `` tell the truth '' when she was asked why the former Chancellor of the Exchequer resigned by television interviewer Brian Walden .</original>
+<compressed id=A7W.22.1>The Lawson affair rumbled on with the Labour leader , Neil Kinnock , asking the Prime Minister why she did not `` tell the truth '' when she was asked why the former Chancellor resigned .</compressed>
+<original id=A7W.22.2>The answer she gave was not that she did n't know Mr Lawson 's stated reason for resigning , but that she found it incomprehensible .</original>
+<compressed id=A7W.22.2>The answer she gave was that she found it incomprehensible .</compressed>
+<original id=A7W.22.3>`` If he had wanted to resign on a point of policy , I could have understood that .</original>
+<compressed id=A7W.22.3>`` resign on a point of policy I could have understood .</compressed>
+<original id=A7W.22.4>Policy is a matter for ministers , '' she said at question time .</original>
+<compressed id=A7W.22.4>Policy is a matter for ministers , '' she said .</compressed>
+<original id=A7W.22.5>`` But I find it totally incomprehensible if someone has held the office of Chancellor with high standing for six years to want to resign over a personality --- with such suddenness and haste. '' The clash came as Mr Kinnock exploited the apparent contradiction between Mrs Thatcher 's claim that she did not know why Mr Lawson resigned and the former Chancellor 's assertion in last Sunday 's Walden interview that he had made it quite clear to the Prime Minister that Sir Alan Walter 's continued presence as her economic adviser was the only issue .</original>
+<compressed id=A7W.22.5>`` I find it incomprehensible to resign over a personality '' Mr Kinnock exploited the contradiction between Mrs Thatcher 's claim and the former Chancellor 's assertion that Sir Alan Walter 's presence as economic adviser was the only issue .</compressed>
+<original id=A7W.22.6>Mr Kinnock said : `` You appear to be the only person left in the country who does not understand why the Chancellor resigned .</original>
+<compressed id=A7W.22.6>Mr Kinnock said : `` You appear to be the only person who does not understand why the Chancellor resigned .</compressed>
+<original id=A7W.22.7>`` Is n't the truth that the Chancellor said to you `` either the adviser goes by the end of the year or I go now '' ?</original>
+<compressed id=A7W.22.7>`` the Chancellor said to you `` either the adviser goes or I go ''</compressed>
+<original id=A7W.22.8>Why ca n't you admit to that truth ? '' Mrs Thatcher replied : `` Policy is a matter for ministers --- advice is not. '' She added , referring to the two meetings she held with Mr Lawson on the afternoon before he resigned : `` I tried to persuade the Chancellor not to go .</original>
+<compressed id=A7W.22.8>Why ca n't you admit to that truth ? '' Mrs Thatcher replied : `` Policy is a matter for ministers --- advice is not. '' I tried to persuade the Chancellor not to go .</compressed>
+<original id=A7W.22.9>It was quite clear he was determined to go and go that day. '' Mrs Thatcher later parried more questions when the Liberal Democrat Mr Charles Kennedy ( Ross , Cromarty and Skye ) asked her whether she felt her `` diminishing credibility '' would be salvaged if she followed the advice of the former chairman of the Tory backbench 1922 Committee , Sir Edward du Cann , that a leadership challenge would clear the air .</original>
+<compressed id=A7W.22.9>he was determined to go that day. '' Mrs Thatcher parried more questions when the Liberal Democrat Mr Charles Kennedy asked her whether she felt her credibility would be salvaged if she followed the advice of the Tory Sir Edward du Cann , that a leadership challenge would clear the air .</compressed>
+<original id=A7W.22.10>`` In the event of such a development does she think her position would be unassailable ? '' he asked --- echoing the Prime Minister 's earlier comment that Mr Lawson 's position was `` unassailable '' .</original>
+<compressed id=A7W.22.10>`` does she think her position would be unassailable ? ''</compressed>
+<original id=A7W.22.11>But Mrs Thatcher retorted : `` A party that ca n't even decide its name is hardly in a position to criticise anyone. '' The Prime Minister has again denied that there had been any direct British assistance to the Khmer Rouge in Cambodia .</original>
+<compressed id=A7W.22.11>Mrs Thatcher retorted : `` A party that ca n't decide its name is hardly in a position to criticise '' The Prime Minister has denied there had been any British assistance to the Khmer Rouge .</compressed>
+<original id=A7W.22.12>In a letter to Mr Kinnock released last night , she said : `` You ask about support for the Khmer Rouge .</original>
+<compressed id=A7W.22.12>In a letter to Mr Kinnock she said : `` You ask about support for the Khmer Rouge .</compressed>
+<original id=A7W.22.13>The Government 's repugnance for that organisation and everything it stands for has been made absolutely clear on repeated occasions .</original>
+<compressed id=A7W.22.13>The Government 's repugnance for that organisation has been made clear .</compressed>
+<original id=A7W.22.14>No form of British assistance , military or otherwise , has been , or will be , given to the Khmer Rouge. '' But she did not reply directly to Labour 's allegations that the Government had provided aid to others who were supporting the Pol Pot forces .</original>
+<compressed id=A7W.22.14>No assistance has been , or will be , given to the Khmer Rouge. '' she did not reply to allegations that the Government had provided aid to others supporting Pol Pot .</compressed>
+</text>
+</doc>

@@ -1,0 +1,44 @@
+<doc id=A30.7>
+<text>
+<original id=A30.7.0>Neil Kinnock won a decisive victory yesterday when his party rejected demands to embrace proportional representation by a three-to-one majority .</original>
+<compressed id=A30.7.0>Neil Kinnock won when his party rejected proportional representation .</compressed>
+<original id=A30.7.1>Conference delegates endorsed their leader 's determined stand after Roy Hattersley , Labour 's deputy leader , warned that for the party to concede demands for Pr would be `` an act of historic folly '' .</original>
+<compressed id=A30.7.1>Conference delegates endorsed their leader 's stand after Roy Hattersley , deputy leader , warned that Pr would be `` an folly '' .</compressed>
+<original id=A30.7.2>He insisted : `` The inevitable result of proportional representation is coalition government .</original>
+<compressed id=A30.7.2>He insisted : `` The result is coalition government .</compressed>
+<original id=A30.7.3>I do not believe that at the end of a week in which we have honed a new policy we are going to even contemplate bargaining that away in smoke-filled rooms with Paddy Ashdown , David Owen , or anyone else. '' Post-election pacts were the inevitable consequence of Pr. `` We would never have a Labour government able to carry out a Labour programme --- even when that programme had won far more votes than any of the other parties. '' Although Labour accepted that a second chamber to replace the Lords could be elected by a method other than the present first-past-the-post system , that chamber did not make or break governments .</original>
+<compressed id=A30.7.3>I do not believe that at the end of a week in which we have honed a new policy we are going to contemplate bargaining that away '' pacts were the consequence of Pr. `` We would never have a Labour programme --- even when that had won more votes '' Although a chamber to replace the Lords could be elected by a method other than the present , that chamber did not make or break governments .</compressed>
+<original id=A30.7.4>`` It is in the House of Commons that governments must build their majorities .</original>
+<compressed id=A30.7.4>`` in the Commons governments build majorities .</compressed>
+<original id=A30.7.5>For the House of Commons , proportional reprentation would in consequence be a reduction , not an extension of democracy. '' However , Jeff Rooker , Mp for Birmingham Perry Barr and a prominent advocate of Pr , said the House of Commons would continue to be `` largely , middle class , white , and male dominated '' without a new system .</original>
+<compressed id=A30.7.5>For the Commons , proportional reprentation would be a reduction of democracy. '' Jeff Rooker , advocate of Pr , said the Commons would continue to be `` , middle class , white , and male '' without a new system .</compressed>
+<original id=A30.7.6>`` You cannot be satisfied with a system which means votes do not have equal value and where , unless you live in a marginal constituency elections pass you by on the other side .</original>
+<compressed id=A30.7.6>`` You cannot be satisfied with a system which means votes do not have equal value and unless you live in a marginal constituency elections pass you by .</compressed>
+<original id=A30.7.7>You cannot be satisfied when our fellow citizens are saddled with an electoral system which leads to elective dictatoriship , and the corruption of parliamentary law-making processes .</original>
+<compressed id=A30.7.7>You cannot be satisfied with an system which leads to elective dictatoriship , and the corruption of parliamentary processes .</compressed>
+<original id=A30.7.8>And all on the basis of 42 per cent of the vote .</original>
+<compressed id=A30.7.8>on the basis of 42 per cent .</compressed>
+<original id=A30.7.9>`` Electoral reform cannot be held in reserve in case things go wrong .</original>
+<compressed id=A30.7.9>`` reform cannot be held in reserve .</compressed>
+<original id=A30.7.10>It would be unprincipled , and undemocratic to take that view. '' Gavin Laird , general secretary of the Aeu engineering union , said Pr would be the remaining burning issue within the party in the run-up to the next election .</original>
+<compressed id=A30.7.10>It would be undemocratic to take that view. '' Gavin Laird , of the engineering union , said Pr would be the burning issue in the run-up to the next election .</compressed>
+<original id=A30.7.11>`` The Nec report on this issue is a sham .</original>
+<compressed id=A30.7.11>`` The Nec report is a sham .</compressed>
+<original id=A30.7.12>There was no debate on the national executive , merely an expression of prejudice and fear of change .</original>
+<compressed id=A30.7.12>There was no debate , merely expression of fear of change .</compressed>
+<original id=A30.7.13>How can this party stifle debate on such a crucial issue ?</original>
+<compressed id=A30.7.13>How can this party stifle debate on such a issue ?</compressed>
+<original id=A30.7.14>How can this party join with the Tories to defend the status quo ? '' Sheila Cunningham , of Norfolk North , said the present system was unfair and perpetuated the elective dictatorship which had developed in the 1980s .</original>
+<compressed id=A30.7.14>How can this party join the Tories to defend the status quo ? '' Sheila Cunningham said the system perpetuated the elective dictatorship developed in the 1980s .</compressed>
+<original id=A30.7.15>Both the Tories and Labour had 46 per cent of the vote in the 1955 general election , yet Conservatives were elected with a majority of 55 .</original>
+<compressed id=A30.7.15>Both Tories and Labour had 46 per cent in 1955 , yet Conservatives were elected with a majority of 55 .</compressed>
+<original id=A30.7.16>But many speakers saw the issue as a damaging diversion from Labour 's efforts to win the next election .</original>
+<compressed id=A30.7.16>many speakers saw the issue as a diversion from Labour 's efforts to win .</compressed>
+<original id=A30.7.17>Alan Duncan , of the Gmb , said : `` It is absolutely irresponsible to waste the next year on a debate of no interest or concern to the people we represent. '' He was supported by Alun Michael , Mp for Cardiff South , who argued that for Labour to take the issue seriously would be a gift to the party 's opponents .</original>
+<compressed id=A30.7.17>Alan Duncan said : `` It is irresponsible to waste the next year on a debate of no interest '' He was supported by Alun Michael .</compressed>
+<original id=A30.7.18>`` Pr involves voting for the least worst , and we want the best for the country as a whole .</original>
+<compressed id=A30.7.18>`` Pr involves voting for the least worst , and we want the best .</compressed>
+<original id=A30.7.19>Just as we are on the way out of the desert , it would be plain daft to turn back because someone thinks they have seen a hazy mirage on the horizon. ''</original>
+<compressed id=A30.7.19>on the way out of the desert , it would be daft to turn back because someone thinks they have seen a mirage ''</compressed>
+</text>
+</doc>

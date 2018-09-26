@@ -1,0 +1,40 @@
+<doc id=A8K.8>
+<text>
+<original id=A8K.8.0>The driver of a 5,000-gallon tanker , Darren Rushton , of Stoke-on-Trent , raced to warn three people in a cafe as burning fuel poured towards them when his vehicle exploded after a collision outside Oldbury oil terminal , West Midlands .</original>
+<compressed id=A8K.8.0>The driver of a tanker , Darren Rushton , raced to warn people in a cafe as burning fuel poured towards them when his vehicle exploded outside Oldbury oil terminal .</compressed>
+<original id=A8K.8.1>They reached safety seconds before the cafe was engulfed in flames .</original>
+<compressed id=A8K.8.1>They reached safety seconds before the cafe was in flames .</compressed>
+<original id=A8K.8.2>Broadcast warning .</original>
+<compressed id=A8K.8.2>warning .</compressed>
+<original id=A8K.8.3>Powers claimed by the Home Secretary to intervene over the content of programmes would radically alter the constitution of broadcasting , Mr Anthony Lester , Qc , told the Court of Appeal yesterday in winding up an appeal against the High Court refusal to outlaw restrictions on interviews with named groups , including Sinn Fein .</original>
+<compressed id=A8K.8.3>Powers claimed by the Home Secretary to intervene over the content of programmes would alter the constitution of broadcasting , Mr Anthony Lester , Qc , told the Court in an appeal against the High Court refusal to outlaw interviews with groups , including Sinn Fein .</compressed>
+<original id=A8K.8.4>Judgment was reserved .</original>
+<compressed id=A8K.8.4>Judgment was reserved .</compressed>
+<original id=A8K.8.5>Welsh oil spill .</original>
+<compressed id=A8K.8.5>Welsh oil spill .</compressed>
+<original id=A8K.8.6>Anti-pollution vessels were last night tackling a mile-long oil slick after the 80,000-ton Texaco Westminster and a tug collided at Milford Haven .</original>
+<compressed id=A8K.8.6>Anti-pollution vessels were tackling a mile-long oil slick after the Texaco Westminster and a tug collided at Milford Haven .</compressed>
+<original id=A8K.8.7>Council uproar .</original>
+<compressed id=A8K.8.7>Council uproar .</compressed>
+<original id=A8K.8.8>A Kensington and Chelsea council meeting was suspended and police called last night during uproar over plans to redevelop Portobello Road market when a motion to shelve plans pending consultation was voted down after stall-holders presented an opposition petition .</original>
+<compressed id=A8K.8.8>A Kensington and Chelsea council meeting was suspended and police called during uproar over plans to redevelop Portobello market when a motion to shelve plans was voted down after stall-holders opposition .</compressed>
+<original id=A8K.8.9>Mothers ' campaign .</original>
+<compressed id=A8K.8.9>Mothers ' campaign .</compressed>
+<original id=A8K.8.10>The Pre-School Playgroups Association yesterday launched a nationwide campaign to provide facilities so mothers can return to work .</original>
+<compressed id=A8K.8.10>The Pre-School Playgroups Association launched a campaign to provide facilities so mothers can return to work .</compressed>
+<original id=A8K.8.11>Murder hunt .</original>
+<compressed id=A8K.8.11>Murder hunt .</compressed>
+<original id=A8K.8.12>A murder hunt was launched yesterday after a body , believed to be that of Monica Cantwell , aged 24 , from Lingfield , Surrey , was found in New Zealand .</original>
+<compressed id=A8K.8.12>A murder hunt was launched after a body , believed to be Monica Cantwell , from Surrey , was found in New Zealand .</compressed>
+<original id=A8K.8.13>Listeria cases increase .</original>
+<compressed id=A8K.8.13>Listeria cases increase .</compressed>
+<original id=A8K.8.14>The number of listeria cases rose by a quarter in the first six months of this year , Dr Diane Roberts , of the Central Public Health Laboratory , told a London conference yesterday .</original>
+<compressed id=A8K.8.14>listeria cases rose by a quarter in the first six months of this year , Dr Diane Roberts , of the Central Public Health Laboratory , told a conference .</compressed>
+<original id=A8K.8.15>Help line for pensioners .</original>
+<compressed id=A8K.8.15>Help for pensioners .</compressed>
+<original id=A8K.8.16>A group of charities yesterday launched the Winter Warmth Line telephone advice service for pensioners .</original>
+<compressed id=A8K.8.16>charities launched the Winter Warmth Line telephone advice service for pensioners .</compressed>
+<original id=A8K.8.17>Doctor to be struck off. London sex therapist Dr Brian Richards , convicted in the Us of trying to have his partner killed , was yesterday found guilty of serious professional misconduct by the professional conduct committee of the General Medical Council , who ordered his name struck off.</original>
+<compressed id=A8K.8.17>Doctor struck off. London sex therapist Dr Brian Richards , convicted in the Us of trying to have his partner killed , was found guilty of serious professional misconduct by the General Medical Council</compressed>
+</text>
+</doc>

@@ -1,0 +1,46 @@
+<doc id=AAT.5>
+<text>
+<original id=AAT.5.0>Israel yesterday maintained an embarrassed official silence on the capture by Us troops in Panama of Mike Harari , a former Mossad officer and close aide to the deposed Panamanian leader , General Manuel Noriega .</original>
+<compressed id=AAT.5.0>Israel maintained silence on the capture by Us troops of Mike Harari , a former Mossad officer and close aide to Manuel Noriega .</compressed>
+<original id=AAT.5.1>Harari was in charge of Israel 's intelligence networks in Mexico , Central America and the Caribbean until his retirement in 1979 , after a 25 year career , when he became Panama 's commercial attache and honorary consul in Tel Aviv before rejoining Gen Noriega in Panama City two years ago .</original>
+<compressed id=AAT.5.1>Harari was in charge of Israel 's intelligence in Central America and the Caribbean until his retirement in 1979 , when he became Panama 's honorary consul in Tel Aviv before rejoining Gen Noriega in Panama City two years ago .</compressed>
+<original id=AAT.5.2>He is credited with forcing Gen Noriega to remove a portrait of Adolf Hitler from the wall of his secret bunker , training the dictator 's personal bodyguard , setting up his computer networks and complex personal banking system , and establishing a small and private intelligence team to watch over the Panamanian secret police and military intelligence .</original>
+<compressed id=AAT.5.2>He is credited with forcing Gen Noriega to remove a portrait of Adolf Hitler from his bunker , training the dictator 's bodyguard , setting up his computer and personal banking system , and establishing a small intelligence team to watch the Panamanian secret police and military intelligence .</compressed>
+<original id=AAT.5.3>The Us repeatedly asked Israel to ensure that Harari , aged 62 , to leave Panama , but Israel insisted that he was a private citizen , a claim which was treated with considerable scepticism by Washington .</original>
+<compressed id=AAT.5.3>The Us asked Israel that Harari leave Panama , but Israel insisted he was a private citizen , which was treated with scepticism by Washington .</compressed>
+<original id=AAT.5.4>Us officials claim the Israeli has been involved not only in security matters in Panama but also in the drug traffic for which Gen Noriega , now hiding in the Vatican embassy , is wanted by Washington .</original>
+<compressed id=AAT.5.4>Us officials claim the Israeli has been involved not only in security matters but also in the drug traffic for which Noriega is wanted .</compressed>
+<original id=AAT.5.5>For all his international notoriety , Harari is barely known in his native country , and the one photograph known to exist of him was reprinted on the front pages of newspapers yesterday accompanying the news of his arrest .</original>
+<compressed id=AAT.5.5>Harari is barely known in his native country , and the photograph of him was reprinted on the front of newspapers accompanying the news of his arrest .</compressed>
+<original id=AAT.5.6>It was taken in 1985 when , as Panama 's honorary consul in Israel , he accompanied Gen Noriega on an official visit .</original>
+<compressed id=AAT.5.6>It was taken when , as Panama 's consul in Israel , he accompanied Gen Noriega on an official visit .</compressed>
+<original id=AAT.5.7>It shows him , impassive in dark glasses , standing behind the saluting general .</original>
+<compressed id=AAT.5.7>It shows him standing behind the general .</compressed>
+<original id=AAT.5.8>Harari spent much of his adult life in Israel 's secret world .</original>
+<compressed id=AAT.5.8>Harari spent much of his life in Israel 's secret world .</compressed>
+<original id=AAT.5.9>Born in Tel Aviv in 1927 , he worked as a radio operator in Italy for the pre-state Haganah militia during the campaign to smuggle Jewish Holocaust survivors past the British naval blockade of Palestine .</original>
+<compressed id=AAT.5.9>Born in Tel Aviv in 1927 , he worked as a radio operator in Italy during the campaign to smuggle Holocaust survivors past the blockade of Palestine .</compressed>
+<original id=AAT.5.10>In the 1950s he joined the Shin Bet internal security service and by the early 1960s was operating secretly in Europe , running agents into Arab countries for Mossad .</original>
+<compressed id=AAT.5.10>In the 1950s he joined the Shin Bet security service and by the 1960s was operating in Europe , running agents for Mossad .</compressed>
+<original id=AAT.5.11>Known as a field man par excellence , he led the Israeli assassination teams that hunted down and killed Palestinians involved in the Black September terrorist organisation in the early 1970s .</original>
+<compressed id=AAT.5.11>he led the Israeli teams that killed Palestinians involved in the Black September organisation in the 1970s .</compressed>
+<original id=AAT.5.12>The Mossad squads were set up after the massacre of 11 Israeli athletes at the Munich Olympic games in September , 1972 .</original>
+<compressed id=AAT.5.12>The Mossad squads were set up after the massacre of 11 Israeli athletes at the Munich Olympic games in 1972 .</compressed>
+<original id=AAT.5.13>But in July , 1973 , Harari led a group which accidentally killed an innocent Moroccan waiter in the Norwegian town of Lillehammer .</original>
+<compressed id=AAT.5.13>in July , 1973 , Harari led a group which killed an innocent Moroccan waiter in the Norwegian town of Lillehammer .</compressed>
+<original id=AAT.5.14>Harari left Mossad in 1978 , and shortly afterwards became a private businessman .</original>
+<compressed id=AAT.5.14>Harari left Mossad in 1978 and became a private businessman .</compressed>
+<original id=AAT.5.15>By 1980 he was working in Central America , where he befriended Gen Noriega 's predecessor , Omar Torrijos .</original>
+<compressed id=AAT.5.15>By 1980 he was working in Central America , where he befriended Noriega 's predecessor , Omar Torrijos .</compressed>
+<original id=AAT.5.16>He supplied Israeli security personnel to guard the Panamanian leaders and train their own forces , and later became involved in official Israel arms sales to the central American country .</original>
+<compressed id=AAT.5.16>He supplied security personnel to guard the Panamanian leaders and train their forces , and became involved in official Israel arms sales to the central American country .</compressed>
+<original id=AAT.5.17>He remains the most notorious of a large group of retired Israeli intelligence and security men whose dubious activities in support of unsavoury regimes have embarrassed their own government .</original>
+<compressed id=AAT.5.17>He remains the most notorious of a group of Israeli intelligence and security men whose activities in support of unsavoury regimes have embarrassed their own government .</compressed>
+<original id=AAT.5.18>Former Mossad colleagues have insisted hotly that Harari could not have been involved in the drugs trade , but he is clearly a hard man to defend .</original>
+<compressed id=AAT.5.18>Former colleagues have insisted that Harari could not have been involved in the drugs trade , but he is a hard man to defend .</compressed>
+<original id=AAT.5.19>`` The greatest damage to Israel , '' says Meir Amit , a former head of the intelligence agency , `` is that rather than being known as producers in agriculture , in genetics , or in medicine , our trademark is the security business. '' A second Israeli who acted as a civilian chief of Gen Noriega 's personal security team , Eliezer Ben Gaitan , took refuge in the papal mission in Panama City with the deposed dictator , and was detained by Us troops on Tuesday .</original>
+<compressed id=AAT.5.19>`` The damage to Israel , '' says Meir Amit , a former head of intelligence , `` is that rather than being known in agriculture , genetics , or medicine , our trademark is security '' A second Israeli who acted as a chief of Gen Noriega 's security team , Eliezer Ben Gaitan , was detained by Us troops .</compressed>
+<original id=AAT.5.20>Well-paid for his services to Gen Noriega , Harari was known in Panama as `` Mr Sixty Percent , '' according to Panama 's former Ambassador to Tel Aviv , Mr Eduadro Herero Hassan , who was flown back to Panama this week by the Us to help rebuild a new Panamanian security force .</original>
+<compressed id=AAT.5.20>Well-paid for his services to Gen Noriega , Harari was known as `` Mr Sixty Percent , '' according to Panama 's former Ambassador to Tel Aviv , Mr Hassan , who was flown back to Panama to help rebuild a Panamanian security force .</compressed>
+</text>
+</doc>

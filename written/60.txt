@@ -1,0 +1,40 @@
+<doc id=AK9.38>
+<text>
+<original id=AK9.38.0>An Avalanche of applications by schools wanting to opt out of local authority control is now expected .</original>
+<compressed id=AK9.38.0>schools wanting out of local control is expected .</compressed>
+<original id=AK9.38.1>The number of grant-maintained schools could rise to up to 10 times the current 226 .</original>
+<compressed id=AK9.38.1>grant-maintained schools could rise to up to 10 times the current 226 .</compressed>
+<original id=AK9.38.2>Leaders of the opt-out movement say more than 2,000 have expressed a strong interest in balloting parents on such a move .</original>
+<compressed id=AK9.38.2>Leaders say 2,000 have expressed interest in balloting parents on a move .</compressed>
+<original id=AK9.38.3>More than 150,000 children are already educated in grant-maintained schools but , if the prediction is correct , two thirds of all state school pupils in England and Wales could be under the new system .</original>
+<compressed id=AK9.38.3>150,000 children are in grant-maintained schools but two thirds of all state pupils in England and Wales could be under the new system .</compressed>
+<original id=AK9.38.4>Schools which have opted out since the reform was introduced in 1989 have had full control of their budgets , and have applied for major grants direct from Whitehall .</original>
+<compressed id=AK9.38.4>Schools which have opted out since 1989 control their budgets and applied for grants direct .</compressed>
+<original id=AK9.38.5>Now they will be given even more freedom --- they may change their characters if they wish to do so .</original>
+<compressed id=AK9.38.5>Now they will be given more freedom .</compressed>
+<original id=AK9.38.6>This has led to predictions that a large number of new grammar schools may be created .</original>
+<compressed id=AK9.38.6>grammar schools may be created .</compressed>
+<original id=AK9.38.7>A new Bill will be introduced to prevent hostile local authorities from making life difficult for schools which want to opt out .</original>
+<compressed id=AK9.38.7>A Bill will be introduced to prevent hostile authorities from making life difficult for schools .</compressed>
+<original id=AK9.38.8>For example , they will be prevented from spending public money on campaigns to stop them .</original>
+<compressed id=AK9.38.8>they will be prevented from spending public money on campaigns to stop them .</compressed>
+<original id=AK9.38.9>In other areas of education , there will be more sweeping changes .</original>
+<compressed id=AK9.38.9>there will be more changes .</compressed>
+<original id=AK9.38.10>Schools will be inspected regularly by privatised inspection services chosen by the head teacher and governess .</original>
+<compressed id=AK9.38.10>Schools will be inspected by services chosen by the head teacher .</compressed>
+<original id=AK9.38.11>Parents will be given simple , straightforward details of the inspectors ' findings .</original>
+<compressed id=AK9.38.11>Parents will be given straightforward findings .</compressed>
+<original id=AK9.38.12>Authority by authority , league tables of examination results will be published .</original>
+<compressed id=AK9.38.12>league tables of examination results will be published .</compressed>
+<original id=AK9.38.13>In primary schools , there will be renewed emphasis on the `` three Rs , '' particularly in National Curriculum at seven .</original>
+<compressed id=AK9.38.13>there will be renewed emphasis on the `` three Rs '' .</compressed>
+<original id=AK9.38.14>The National Curriculum will continue to be reviewed and slimmed down , and integrated with the Gcse exam .</original>
+<compressed id=AK9.38.14>The National Curriculum will be reviewed and integrated with the Gcse .</compressed>
+<original id=AK9.38.15>Pupils sitting GCSEs will find more of their mark concentrated in a final exam and less in course work .</original>
+<compressed id=AK9.38.15>Pupils sitting GCSEs will find their mark concentrated in a final exam .</compressed>
+<original id=AK9.38.16>After 16 , A-levels will remain the `` gold standard , '' but schools will teach more vocational courses which will also be used for entry to higher education .</original>
+<compressed id=AK9.38.16>A-levels will remain the `` standard , '' but schools will teach more vocational courses which will also be used for entry to higher education .</compressed>
+<original id=AK9.38.17>The expansion of higher education will continue --- numbers have already risen from one in eight school-leavers to one in four --- and polytechnics will be able to become universities .</original>
+<compressed id=AK9.38.17>The expansion of higher education will continue .</compressed>
+</text>
+</doc>

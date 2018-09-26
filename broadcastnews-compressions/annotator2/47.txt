@@ -1,0 +1,41 @@
+<doc id=bn9625.rpi_segs.txt.960622.120>
+<annotator>annotator2</annotator>
+<text>
+<original id=bn9625.rpi_segs.txt.960622.120.0>A national survey shows that managed care health plans are a bargain compared to more traditional health insurance and for some patients they are easier to use .</original>
+<compressed id=bn9625.rpi_segs.txt.960622.120.0>A survey shows that managed care health plans are a bargain compared to traditional health insurance and for some patients they are easier to use .</compressed>
+<original id=bn9625.rpi_segs.txt.960622.120.1>But as CNN Medical Correspondent Dan Rutz reports , not all doctors think HMOs are good for their patient 's health .</original>
+<compressed id=bn9625.rpi_segs.txt.960622.120.1>But not all doctors think HMOs are good for their patient 's health .</compressed>
+<original id=bn9625.rpi_segs.txt.960622.120.2>This doctor saved a man 's life - not with medicine , but by taking on the insurance bureaucracy that had given up on him .</original>
+<compressed id=bn9625.rpi_segs.txt.960622.120.2>This doctor saved a man 's life by taking on the insurance bureaucracy that had given up on him .</compressed>
+<original id=bn9625.rpi_segs.txt.960622.120.3>And I told him that I had a hard time dealing with a 39-year-old person who wants to live , and just not even trying .</original>
+<compressed id=bn9625.rpi_segs.txt.960622.120.3>I told him that I had a hard time with a 39-year-old person who wants to live , and not trying .</compressed>
+<original id=bn9625.rpi_segs.txt.960622.120.4>Steven Herod was dying of heart failure , which had caused his stomach to swell to grotesque proportions .</original>
+<compressed id=bn9625.rpi_segs.txt.960622.120.4>Steven Herod was dying of heart failure , which had caused his stomach to swell .</compressed>
+<original id=bn9625.rpi_segs.txt.960622.120.5>Herod says his HMO considered his condition too complicated and too expensive to handle .</original>
+<compressed id=bn9625.rpi_segs.txt.960622.120.5>his HMO considered his condition too complicated and too expensive .</compressed>
+<original id=bn9625.rpi_segs.txt.960622.120.6>They told you it was not-</original>
+<compressed id=bn9625.rpi_segs.txt.960622.120.6>They told you it was not-</compressed>
+<original id=bn9625.rpi_segs.txt.960622.120.7>-They told me it was not treatable , and they just- you know , they basically did n't want to have anything to do with me , I 'll tell you the truth .</original>
+<compressed id=bn9625.rpi_segs.txt.960622.120.7>-They told me it was not treatable , and they basically did n't want to have anything to do with me .</compressed>
+<original id=bn9625.rpi_segs.txt.960622.120.8>What they did n't tell him was that if he got some very experienced surgeon , who had- you know , who could do this fancy kind of surgery , that that was a possibility .</original>
+<compressed id=bn9625.rpi_segs.txt.960622.120.8>they did n't tell him that if he got some experienced surgeon , who could do this kind of surgery , that that was a possibility .</compressed>
+<original id=bn9625.rpi_segs.txt.960622.120.9>Deerfield , who was on duty when Herod arrived in the hospital emergency room , went to bat for him , and with the help of a congressional aide , found the money to pay for his life-saving operation .</original>
+<compressed id=bn9625.rpi_segs.txt.960622.120.9>Deerfield , on duty when Herod arrived in the emergency room , went to bat for him and with the help of a congressional aide , found the money to pay for his operation .</compressed>
+<original id=bn9625.rpi_segs.txt.960622.120.10>She says she 's one of the few doctors around willing to lock horns with the managed care establishment , because she has cut all ties to it.</original>
+<compressed id=bn9625.rpi_segs.txt.960622.120.10>she 's one of the few doctors willing to lock horns with the establishment , because she has cut all ties to it.</compressed>
+<original id=bn9625.rpi_segs.txt.960622.120.11>I had a year contract , and it was so bad that I would come home crying almost every night , telling my husband about this patient or that , or-</original>
+<compressed id=bn9625.rpi_segs.txt.960622.120.11>I would come home crying almost every night , telling my husband about this patient or that , or-</compressed>
+<original id=bn9625.rpi_segs.txt.960622.120.12>Deerfield quit in disgust over common managed care practices , such as paying bonuses to doctors for not referring patients to specialists , creating roadblocks that lead to delayed or denied care , and so-called `` gag rules , ' preventing doctors from telling patients about treatments not automatically covered by the HMO .</original>
+<compressed id=bn9625.rpi_segs.txt.960622.120.12>Deerfield quit over common practices , such as paying bonuses to doctors for not referring patients to specialists , creating roadblocks that lead to delayed or denied care , and rules preventing doctors from telling patients about treatments not covered by the HMO .</compressed>
+<original id=bn9625.rpi_segs.txt.960622.120.13>At a time when nearly nine out of ten doctors are under at least one managed care contract , Deerfield is becoming a rare breed among doctors .</original>
+<compressed id=bn9625.rpi_segs.txt.960622.120.13>At a time when nine out of ten doctors are under at least one managed care contract , Deerfield is becoming a rare breed .</compressed>
+<original id=bn9625.rpi_segs.txt.960622.120.14>And , in fact , people that are normally patient advocates are discouraged , either because of the gag law , or because of peer pressure .</original>
+<compressed id=bn9625.rpi_segs.txt.960622.120.14>patient advocates are discouraged , either because of the gag law , or peer pressure .</compressed>
+<original id=bn9625.rpi_segs.txt.960622.120.15>As more and more doctors sign up with managed care plans for economic survival , Deerfield says she 'll take her chances on the outside .</original>
+<compressed id=bn9625.rpi_segs.txt.960622.120.15>As more doctors sign up with managed care plans for economic survival , Deerfield 'll take her chances on the outside .</compressed>
+<original id=bn9625.rpi_segs.txt.960622.120.16>She says she 'd rather quit medicine entirely than practice on terms she cannot accept .</original>
+<compressed id=bn9625.rpi_segs.txt.960622.120.16>she 'd rather quit medicine than practice on terms she cannot accept .</compressed>
+<original id=bn9625.rpi_segs.txt.960622.120.17>Dan Rutz , CNN , Los Angeles .</original>
+<compressed id=bn9625.rpi_segs.txt.960622.120.17>Dan Rutz , CNN , Los Angeles .</compressed>
+</text>
+</doc>

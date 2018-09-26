@@ -1,0 +1,49 @@
+<doc id=bn9624.rpi_segs.txt.960617.331>
+<annotator>annotator1</annotator>
+<text>
+<original id=bn9624.rpi_segs.txt.960617.331.0>Federal agents , state lawmakers , and others tried all kinds of ways to keep the Freemen talking through their 81-day standoff .</original>
+<compressed id=bn9624.rpi_segs.txt.960617.331.0>Federal agents , state lawmakers , and others tried to keep the Freemen talking through their 81-day standoff .</compressed>
+<original id=bn9624.rpi_segs.txt.960617.331.1>The content of those talks was largely kept secret , but a Colorado legislator gave CNN 's Jim Hill an inside glimpse .</original>
+<compressed id=bn9624.rpi_segs.txt.960617.331.1>The content of those talks was kept secret , but a Colorado legislator gave Jim Hill an inside glimpse .</compressed>
+<original id=bn9624.rpi_segs.txt.960617.331.2>Weeks before the 16 Freemen walked off their Montana ranch and into custody , their anger and threats spilled over in often heated negotiations .</original>
+<compressed id=bn9624.rpi_segs.txt.960617.331.2>before the 16 Freemen walked off their Montana ranch and into custody , their anger and threats spilled over in negotiations .</compressed>
+<original id=bn9624.rpi_segs.txt.960617.331.3>You 're going to save my life by imprisoning me ?</original>
+<compressed id=bn9624.rpi_segs.txt.960617.331.3>You 're going to save my life by imprisoning me ?</compressed>
+<original id=bn9624.rpi_segs.txt.960617.331.4>Colorado State Senator Charles Duke recorded his mediation efforts .</original>
+<compressed id=bn9624.rpi_segs.txt.960617.331.4>Colorado State Senator Charles Duke recorded his efforts .</compressed>
+<original id=bn9624.rpi_segs.txt.960617.331.5>In a room with 12 armed Freemen , he said he listened as they called government officials citizen prostitutes who had no jurisdiction over them .</original>
+<compressed id=bn9624.rpi_segs.txt.960617.331.5>12 armed Freemen said government officials had no jurisdiction over them .</compressed>
+<original id=bn9624.rpi_segs.txt.960617.331.6>I did n't stand up for this country to have a bunch of [ expletive deleted ] prostitutes put the American people out of here on their ass.</original>
+<compressed id=bn9624.rpi_segs.txt.960617.331.6>I did n't stand up for this country to have the American people out here on their ass.</compressed>
+<original id=bn9624.rpi_segs.txt.960617.331.7>And they can take their [ expletive deleted ] warrants and shove them right up their [ expletive deleted ] where that 30.06 of mine is going to drill 'em .</original>
+<compressed id=bn9624.rpi_segs.txt.960617.331.7>they can take their warrants .</compressed>
+<original id=bn9624.rpi_segs.txt.960617.331.8>Russ Landers is really getting agitated and I 'm not sure but what at some minute he 's going to say , `` And you 're one of them , ' and whip out his gun and plug me- I do n't think he would do that , but , certainly , the possibility is there .</original>
+<compressed id=bn9624.rpi_segs.txt.960617.331.8>Russ Landers is getting agitated and I 'm not sure he 's going to whip out his gun and plug me- .</compressed>
+<original id=bn9624.rpi_segs.txt.960617.331.9>On May 21 , the negotiations broke off.</original>
+<compressed id=bn9624.rpi_segs.txt.960617.331.9>May 21 the negotiations broke off.</compressed>
+<original id=bn9624.rpi_segs.txt.960617.331.10>When Duke failed in his efforts to mediate a settlement , he placed the blame squarely on the Freemen , saying many of them were not political idealists , but simply criminals trying to avoid prosecution .</original>
+<compressed id=bn9624.rpi_segs.txt.960617.331.10>When Duke failed in his efforts to mediate , he placed the blame on the Freemen , saying many were criminals trying to avoid prosecution .</compressed>
+<original id=bn9624.rpi_segs.txt.960617.331.11>With the talks over , the Freemen resumed their armed patrols , but Freeman Edwin Clark reportedly became a key force inside the ranch .</original>
+<compressed id=bn9624.rpi_segs.txt.960617.331.11>the talks over , the Freemen resumed their patrols , but Freeman Edwin Clark became a key force inside the ranch .</compressed>
+<original id=bn9624.rpi_segs.txt.960617.331.12>Duke said he and the FBI had tried to convince Clark to be a leader and counter the fiery actions of other Freemen , but Clark , apparently , agonized .</original>
+<compressed id=bn9624.rpi_segs.txt.960617.331.12>the FBI tried to convince Clark to be a leader and counter the other Freemen , but Clark agonized .</compressed>
+<original id=bn9624.rpi_segs.txt.960617.331.13>He did n't want violence , but did n't want to turn people over to authorities , either .</original>
+<compressed id=bn9624.rpi_segs.txt.960617.331.13>He did n't want violence , but did n't want to turn people over to authorities , either .</compressed>
+<original id=bn9624.rpi_segs.txt.960617.331.14>The day the mediations failed , Clark told Duke over the phone he was near despair .</original>
+<compressed id=bn9624.rpi_segs.txt.960617.331.14>The day the mediations failed , Clark was near despair .</compressed>
+<original id=bn9624.rpi_segs.txt.960617.331.15>I 've got very little faith left in me , and when I finally give up is when things goes to hell in a handbasket .</original>
+<compressed id=bn9624.rpi_segs.txt.960617.331.15>I 've little faith in me , and when I give up things goes to hell .</compressed>
+<original id=bn9624.rpi_segs.txt.960617.331.16>It created a great deal of stress on him .</original>
+<compressed id=bn9624.rpi_segs.txt.960617.331.16>It created a great deal of stress .</compressed>
+<original id=bn9624.rpi_segs.txt.960617.331.17>He was n't comfortable with that role initially , and , in fact , it took a couple of weeks for him to finally assert himself .</original>
+<compressed id=bn9624.rpi_segs.txt.960617.331.17>He was n't comfortable and it took weeks to assert himself .</compressed>
+<original id=bn9624.rpi_segs.txt.960617.331.18>Duke believes the turning point came when the Ward family and their two young girls left the ranch on June 6 .</original>
+<compressed id=bn9624.rpi_segs.txt.960617.331.18>the turning point came when the Ward family left the ranch on June 6 .</compressed>
+<original id=bn9624.rpi_segs.txt.960617.331.19>Duke believes that success convinced Clark to press the others to surrender .</original>
+<compressed id=bn9624.rpi_segs.txt.960617.331.19>that convinced Clark to press the others to surrender .</compressed>
+<original id=bn9624.rpi_segs.txt.960617.331.20>On June 14 , they did .</original>
+<compressed id=bn9624.rpi_segs.txt.960617.331.20>June 14 they did .</compressed>
+<original id=bn9624.rpi_segs.txt.960617.331.21>Jim Hill , CNN , Monument , Colorado .</original>
+<compressed id=bn9624.rpi_segs.txt.960617.331.21>Jim Hill , Colorado .</compressed>
+</text>
+</doc>

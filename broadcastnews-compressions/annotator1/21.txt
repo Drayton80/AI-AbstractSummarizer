@@ -1,0 +1,47 @@
+<doc id=bn9623.rpi_segs.txt.960610.18>
+<annotator>annotator1</annotator>
+<text>
+<original id=bn9623.rpi_segs.txt.960610.18.0>Over the past 18 months , churches with predominantly African-American congregations have been going up in flames in the states of Texas , North Carolina , South Carolina , Tennessee , Louisiana , Alabama , Mississippi , Virginia , and Georgia .</original>
+<compressed id=bn9623.rpi_segs.txt.960610.18.0>Over the past 18 months , churches with predominantly African-American congregations have been going up in flames in Texas , North Carolina , South Carolina , Tennessee , Louisiana , Alabama , Mississippi , Virginia , and Georgia .</compressed>
+<original id=bn9623.rpi_segs.txt.960610.18.1>Clergymen met with Clinton administration officials today to talk about the federal response to these burnings .</original>
+<compressed id=bn9623.rpi_segs.txt.960610.18.1>Clergymen met with Clinton administration officials to talk about the federal response .</compressed>
+<original id=bn9623.rpi_segs.txt.960610.18.2>Against this backdrop , investigators are probing another suspicious overnight blaze at a black church in Greenville , Texas , while police say that they 've made an arrest in connection with the one that destroyed the old sanctuary of a black church in Charlotte , North Carolina .</original>
+<compressed id=bn9623.rpi_segs.txt.960610.18.2>investigators are probing another suspicious blaze at a black church in Texas , while police say that they 've made an arrest in connection with the one that destroyed the sanctuary of a black church in North Carolina .</compressed>
+<original id=bn9623.rpi_segs.txt.960610.18.3>CNN 's Al Hinman joins us now , live from Charlotte , and has details .</original>
+<compressed id=bn9623.rpi_segs.txt.960610.18.3>Al Hinman has details .</compressed>
+<original id=bn9623.rpi_segs.txt.960610.18.4>Al ?</original>
+<compressed id=bn9623.rpi_segs.txt.960610.18.4>Al ?</compressed>
+<original id=bn9623.rpi_segs.txt.960610.18.5>Reid , their pressure here in Charlotte has been very great as it is mounting all across the Southeast and across the country to make sure that arrests are made and made very quickly .</original>
+<compressed id=bn9623.rpi_segs.txt.960610.18.5>pressure is mounting all across the country to make sure arrests are made .</compressed>
+<original id=bn9623.rpi_segs.txt.960610.18.6>In Charlotte , from the very beginning , local city-county police officials , state and federal law enforcement agencies , all felt convinced they could solve this case very quickly and that 's exactly what they did .</original>
+<compressed id=bn9623.rpi_segs.txt.960610.18.6>In Charlotte , local city-county police officials , state and federal law enforcement agencies , all felt convinced they could solve this case very quickly and they did .</compressed>
+<original id=bn9623.rpi_segs.txt.960610.18.7>A comprehensive investigation resulted in a juvenile being charged with setting the fire .</original>
+<compressed id=bn9623.rpi_segs.txt.960610.18.7>A investigation resulted in a juvenile being charged with setting the fire .</compressed>
+<original id=bn9623.rpi_segs.txt.960610.18.8>At this point there is no information to indicate that any other person is involved in this crime or that this incident is connected to any national or local conspiracy .</original>
+<compressed id=bn9623.rpi_segs.txt.960610.18.8>there is no information to indicate that this incident is connected to any national or local conspiracy .</compressed>
+<original id=bn9623.rpi_segs.txt.960610.18.9>There is also no evidence that this incident was racially motivated .</original>
+<compressed id=bn9623.rpi_segs.txt.960610.18.9>There is also no evidence that this was racially motivated .</compressed>
+<original id=bn9623.rpi_segs.txt.960610.18.10>This juvenile has been served with a petition for violation of burning churches and certain other buildings , and the suspect is currently being detained in a juvenile detention facility .</original>
+<compressed id=bn9623.rpi_segs.txt.960610.18.10>This juvenile has been served with a petition for violation of burning churches and is currently being detained in a juvenile detention facility .</compressed>
+<original id=bn9623.rpi_segs.txt.960610.18.11>Two Charlotte-Mecklenberg police officers obtained some information through their sources , or whatever , to help make the initial investigation go in the direction of the suspect that was arrested late last night .</original>
+<compressed id=bn9623.rpi_segs.txt.960610.18.11>Two Charlotte-Mecklenberg police officers obtained information through their sources , to make the initial investigation go in the direction of the suspect .</compressed>
+<original id=bn9623.rpi_segs.txt.960610.18.12>Additional information was supplied by some citizens who called in , provided that information , and that information they- the officials say , helped lead to the very quick arrest here in Charlotte .</original>
+<compressed id=bn9623.rpi_segs.txt.960610.18.12>Additional information was supplied by citizens who called in and that helped lead to the quick arrest .</compressed>
+<original id=bn9623.rpi_segs.txt.960610.18.13>Again , this incident is- has- is being said that there is no apparent racial motivation .</original>
+<compressed id=bn9623.rpi_segs.txt.960610.18.13>this incident has- no apparent racial motivation .</compressed>
+<original id=bn9623.rpi_segs.txt.960610.18.14>There may be other causes involved , but that is not being discussed at this point .</original>
+<compressed id=bn9623.rpi_segs.txt.960610.18.14>There may be other causes not being discussed .</compressed>
+<original id=bn9623.rpi_segs.txt.960610.18.15>A 13-year-old girl is in custody now , a white female .</original>
+<compressed id=bn9623.rpi_segs.txt.960610.18.15>A 13-year-old is in custody , a white female .</compressed>
+<original id=bn9623.rpi_segs.txt.960610.18.16>She has been charged with arson , setting the fire that torched the 93-year-old Matthews-Merkland [ sp ] old sanctuary that had not been in use for a number of years .</original>
+<compressed id=bn9623.rpi_segs.txt.960610.18.16>She has been charged with setting the fire that torched the 93-year-old Matthews-Merkland sanctuary that had not been in use for years .</compressed>
+<original id=bn9623.rpi_segs.txt.960610.18.17>It has been a real loss in this community and at this point now , members of this congregation and others in the city are working to heal the emotional wounds and move on forward and show that they too can march together , black and white .</original>
+<compressed id=bn9623.rpi_segs.txt.960610.18.17>this congregation and the city are working to heal the emotional wounds and show that they can march together , black and white .</compressed>
+<original id=bn9623.rpi_segs.txt.960610.18.18>Reid ?</original>
+<compressed id=bn9623.rpi_segs.txt.960610.18.18>Reid ?</compressed>
+<original id=bn9623.rpi_segs.txt.960610.18.19>All right .</original>
+<compressed id=bn9623.rpi_segs.txt.960610.18.19>right .</compressed>
+<original id=bn9623.rpi_segs.txt.960610.18.20>Thank you , Al Hinman live in Charlotte .</original>
+<compressed id=bn9623.rpi_segs.txt.960610.18.20>Al Hinman in Charlotte .</compressed>
+</text>
+</doc>

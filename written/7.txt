@@ -1,0 +1,42 @@
+<doc id=A3U.1>
+<text>
+<original id=A3U.1.0>The Man with the bulbous nose and large gold pinky ring was determined to have his photograph taken with Congressman Jim Florio .</original>
+<compressed id=A3U.1.0>The Man with the bulbous nose and pinky ring was determined to have his photograph taken with Congressman Jim Florio .</compressed>
+<original id=A3U.1.1>Elbowing his way through the crowd at the `` colonial streetfair '' inside the Loews Glenpointe Hotel , he said that having paid $ 500 to get in , he was n't about to leave without being photographed with the next governor of New Jersey .</original>
+<compressed id=A3U.1.1>at the `` colonial streetfair '' inside the Loews Glenpointe Hotel , he said that having paid $ 500 to get in , he was n't about to leave without being photographed with the next governor of New Jersey .</compressed>
+<original id=A3U.1.2>Candidate Florio and his blonde wife , Lucinda , had no choice but to pose with the property developer from the Jersey waterfront before moving on past three mediocre belly-dancers , a man ( on stilts ) dressed up as Abraham Lincoln and an actor dressed up as Rip Van Winkle .</original>
+<compressed id=A3U.1.2>Florio and his wife had to pose with the property developer before moving on .</compressed>
+<original id=A3U.1.3>The Florios worked the room with ease and self-confidence and by the time they had reached the podium an aide to the candidate was saying that almost a million dollars had already been raised for the Democratic campaign .</original>
+<compressed id=A3U.1.3>The Florios worked the room with ease and by the time they reached the podium a million dollars had been raised for the Democratic campaign .</compressed>
+<original id=A3U.1.4>On the platform , Mr Florio asked the party faithful not to become too complacent .</original>
+<compressed id=A3U.1.4>Florio asked the party faithful not to become complacent .</compressed>
+<original id=A3U.1.5>`` To quote the famous American philosopher Yogi Berra ( of baseball fame ) , '' he said , `` It ai n't over till it 's over. '' With less than a month left before the 7 November election and opinion polls showing that he leads his Republican opponent , Congressman Jim Courter , by between 14 and 23 points , the race for governor of New Jersey is attracting intense national interest .</original>
+<compressed id=A3U.1.5>With a month left before the November election and opinion polls showing he leads his opponent , Jim Courter , by between 14 and 23 points , the race for governor of New Jersey is attracting national interest .</compressed>
+<original id=A3U.1.6>Traditionally a Democratic state , New Jersey has been under broad Republican control since Ronald Reagan defeated Jimmy Carter in 1980 and Governor Thomas Kean narrowly defeated Mr Florio in 1981 .</original>
+<compressed id=A3U.1.6>Traditionally Democratic , New Jersey has been under Republican control since Reagan defeated Carter in 1980 and Thomas Kean defeated Mr Florio in 1981 .</compressed>
+<original id=A3U.1.7>Thanks to an economic boom which started in the Reagan era , New Jersey has started to shed its hackneyed image as the home of toxic dumps and second-class citizens .</original>
+<compressed id=A3U.1.7>Thanks to an economic boom which started in the Reagan era , New Jersey has started to shed its image of toxic dumps and second-class citizens .</compressed>
+<original id=A3U.1.8>Once looked upon as a valley of humility between two mountains of conceit --- New York City and Philadelphia --- the Garden State now has a much sharper image to present to the world .</original>
+<compressed id=A3U.1.8>Once a valley of humility between two mountains of conceit --- New York and Philadelphia --- the State now has a sharper image .</compressed>
+<original id=A3U.1.9>This year , with the Democrats poised to win the state , the national leadership is looking to see whether the same tactics can be used to turn back the tide on the Republicans nationwide .</original>
+<compressed id=A3U.1.9>with the Democrats poised to win , the national leadership is looking to see whether the same tactics can turn back the tide nationwide .</compressed>
+<original id=A3U.1.10>Mr Florio 's formula has been to embrace those Republican policies which brought economic growth to the state during the Reagan years , while sharply attacking the Republicans ' conservative stand on social and environmental issues .</original>
+<compressed id=A3U.1.10>Florio 's formula has been to embrace Republican policies which brought economic growth , while attacking the conservative stand on social and environmental issues .</compressed>
+<original id=A3U.1.11>He contends that economic prosperity has given the voters the opportunity to choose on issues like abortion and the environment .</original>
+<compressed id=A3U.1.11>He contends prosperity has given the opportunity to choose on abortion and the environment .</compressed>
+<original id=A3U.1.12>To a large extent , the election has been fought on the airwaves , with both candidates delivering television advertisements attacking each other .</original>
+<compressed id=A3U.1.12>the election has been fought with both candidates delivering television advertisements attacking each other .</compressed>
+<original id=A3U.1.13>Because New Jersey does not have its own television station , or even a state newspaper , the candidates have bought expensive air time on the New York City-based stations and in Mr Florio 's case , they seem to be working .</original>
+<compressed id=A3U.1.13>Because New Jersey does not have its own television station , the candidates have bought air time on the New York stations and in Florio 's case , they seem to be working .</compressed>
+<original id=A3U.1.14>The Republicans placed an advertisement making a link between Mr Florio and the Mafia , which the Democrats have countered with ads referring to Mr Courter as a liar and showing his nose getting longer --- Pinocchio-style - as he speaks .</original>
+<compressed id=A3U.1.14>The Republicans placed an advertisement making a link between Florio and the Mafia , which the Democrats countered referring to Courter as a liar and showing his nose getting longer as he speaks .</compressed>
+<original id=A3U.1.15>The Republican advertisement shows Angelo Errichett , the Mayor of Camden --- which is in Mr Florio 's district --- being dragged off to jail after his conviction for corruption .</original>
+<compressed id=A3U.1.15>The Republican advertisement shows Angelo Errichett , Mayor of Camden --- in Florio 's district --- being dragged off to jail .</compressed>
+<original id=A3U.1.16>`` Joisey '' is still the butt of jokes made by New York sophisticates , but its political leaders , like the outgoing Governor Kean , now have national stature and have taken the lead in forming social policy for the rest of America on welfare reform , school financing , public housing and care of the environment .</original>
+<compressed id=A3U.1.16>`` Joisey '' is still the butt of jokes , but its leaders like Kean have national stature forming social policy for the rest of America on welfare school financing , public housing and the environment .</compressed>
+<original id=A3U.1.17>Almost a million new jobs have come to the state since 1990 , many in pharmaceuticals and electronics , making up for the 1,000 jobs a month which have been lost in mature heavy industries .</original>
+<compressed id=A3U.1.17>Almost a million new jobs have come since 1990 , many in pharmaceuticals and electronics , making up for jobs lost in heavy industries .</compressed>
+<original id=A3U.1.18>The state has a population of 7.6 million , making it the most densely populated in the union .</original>
+<compressed id=A3U.1.18>The state has a population of 7.6 million , the most densely populated .</compressed>
+</text>
+</doc>

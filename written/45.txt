@@ -1,0 +1,38 @@
+<doc id=AA5.2>
+<text>
+<original id=AA5.2.0>The Environment Secretary , Mr Chris Patten , yesterday wrote to Mr Neil Kinnock , the Labour Party leader , demanding that he dissociate himself from proposals designed to stop the growth of second homes .</original>
+<compressed id=AA5.2.0>The Environment Secretary , Chris Patten , wrote to Neil Kinnock , the Labour leader , demanding he dissociate himself from proposals designed to stop second homes .</compressed>
+<original id=AA5.2.1>The move came as the Labour Party 's housing spokesman , Mr Clive Soley , yesterday complained to the Press Council over newspaper reports that his party was proposing to ban second homes .</original>
+<compressed id=AA5.2.1>The move came as Labour 's housing spokesman , Mr Clive Soley , complained over reports that his party was to ban second homes .</compressed>
+<original id=AA5.2.2>A Labour group reviewing planning law has proposed that local authorities be allowed to decide whether new second homes should need change of use planning consent .</original>
+<compressed id=AA5.2.2>A Labour group has proposed local authorities be allowed to decide whether new second homes should need change of use planning consent .</compressed>
+<original id=AA5.2.3>Existing homes would not be affected .</original>
+<compressed id=AA5.2.3>Existing homes would not be affected .</compressed>
+<original id=AA5.2.4>The aim is to give councils some control over the future growth of second homes .</original>
+<compressed id=AA5.2.4>The aim is to give councils control over the growth of homes .</compressed>
+<original id=AA5.2.5>Mr Patten described it yesterday as a `` spiteful and impractical and authoritarian plan '' .</original>
+<compressed id=AA5.2.5>Patten described it as a `` spiteful authoritarian plan '' .</compressed>
+<original id=AA5.2.6>But Mr Soley defended the policy in an interview with the Guardian : `` The problem is most acute in rural areas , such as the South-west , where there is a growing problem of ghost villages where 70 per cent of the houses are only occupied at weekends or during the summer , '' he said .</original>
+<compressed id=AA5.2.6>Soley defended the policy : `` The problem is acute in rural areas where 70 per cent of the houses are only occupied at weekends or the summer '' .</compressed>
+<original id=AA5.2.7>`` At the same time there is lack of accommodation for local people .</original>
+<compressed id=AA5.2.7>`` there is lack of accommodation for local people .</compressed>
+<original id=AA5.2.8>We have to offer the local authorities some way of restricting the growth of second homes , '' said Mr Soley .</original>
+<compressed id=AA5.2.8>We offer the local authorities some way of restricting the growth of second homes , '' said Soley .</compressed>
+<original id=AA5.2.9>He said the demand for such a policy came from within planning circles and from some Conservative-controlled councils in the South-west , Cumbria and North Wales .</original>
+<compressed id=AA5.2.9>the demand for a policy came from within planning circles and councils in the South-west , Cumbria and North Wales .</compressed>
+<original id=AA5.2.10>Under the Labour plans , property owners who wished to convert their house to second home status would need to secure planning permission first from the local council .</original>
+<compressed id=AA5.2.10>Under the plans , property owners who wished to convert to second home status would need permission first .</compressed>
+<original id=AA5.2.11>Similarly it would be stated in the estate agents ' particulars whether permission had been granted for a house which is up for sale to be sold to someone who wanted to use it as a second home .</original>
+<compressed id=AA5.2.11>it would be stated whether permission had been granted for a house which is up for sale as a second home .</compressed>
+<original id=AA5.2.12>At present such change of use consent is needed to convert a house into an office .</original>
+<compressed id=AA5.2.12>such change of use consent is needed to convert a house into an office .</compressed>
+<original id=AA5.2.13>`` It would not be applied to someone who uses the house as their family home but works away from home for most of the week , '' said Mr Soley .</original>
+<compressed id=AA5.2.13>`` It would not be applied to someone who uses the house as their family home but works away for most of the week , '' said Soley .</compressed>
+<original id=AA5.2.14>He added that in countries such as Italy the authorities charged double rates for the installation of such amenities as telephones , electricity and gas in second homes .</original>
+<compressed id=AA5.2.14>He added that Italy charged double for the installation of amenities in second homes .</compressed>
+<original id=AA5.2.15>Mr John Wilkinson ( C. Ruislip Northwood ) , who came sixth in the private members ' bills ballot , yesterday announced a measure to make it obligatory to apply for planning permission before a dwelling house is demolished .</original>
+<compressed id=AA5.2.15>John Wilkinson announced a measure to make it obligatory to apply for planning permission before a dwelling is demolished .</compressed>
+<original id=AA5.2.16>Mr Wilkinson , whose bill has a good chance of reaching the statute book , believes such a measure is necessary to curb growing surburban problem of overdevelopment through luxury blocks of flats being built by developers on plots previously occupied by a single house .</original>
+<compressed id=AA5.2.16>Mr Wilkinson , whose bill has a good chance , believes such a measure is necessary to curb overdevelopment .</compressed>
+</text>
+</doc>

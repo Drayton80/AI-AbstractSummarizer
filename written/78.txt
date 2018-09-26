@@ -1,0 +1,42 @@
+<doc id=latwp961024.0115>
+<text>
+<original id=latwp961024.0115.0>BALTIMORE - Dr. Hugh James Davis Jr. , who as a professor of gynecology and obstetrics at the Johns Hopkins Medical School developed the Dalkon Shield birth-control device , died Wednesday of pancreatic cancer at his Gibson Island home. .</original>
+<compressed id=latwp961024.0115.0>Dr. Hugh James Davis Jr. , who as a professor of gynecology and obstetrics at the Johns Hopkins Medical School developed the Dalkon Shield birth-control device , died of cancer at his home. .</compressed>
+<original id=latwp961024.0115.1>He was 69 .</original>
+<compressed id=latwp961024.0115.1>He was 69 .</compressed>
+<original id=latwp961024.0115.2>It was his combined lifelong interest in cervical cancer , birth control and finding a safe alternative to the problem-plagued birth control pill that motivated Davis to invent the Dalkon Shield in 1968 .</original>
+<compressed id=latwp961024.0115.2>his interest in cervical cancer and finding a safe alternative to the pill motivated Davis to invent the Dalkon Shield in 1968 .</compressed>
+<original id=latwp961024.0115.3>Sales of the Dalkon Shield , one of the most widely used IUD 's , were suspended by the Food and Drug Administration in June 1974 after 11 deaths and 209 cases of spontaneous abortion were reported .</original>
+<compressed id=latwp961024.0115.3>Sales of the Dalkon Shield were suspended by the Food and Drug Administration in June 1974 after 11 deaths and 209 cases of abortion were reported .</compressed>
+<original id=latwp961024.0115.4>In 1975 , A.H. Robbins , a Richmond , Va. , pharmaceutical company that purchased manufacturing rights for the Dalkon Shield from Davis for $ 750,000 , put 2.2 million of the intrauterine devices on the market before discontinuing production in 1975 .</original>
+<compressed id=latwp961024.0115.4>A.H. Robbins pharmaceutical company purchased manufacturing rights for the Dalkon Shield from Davis for $ 750,000 , put 2.2 million of the intrauterine devices on the market before discontinuing production .</compressed>
+<original id=latwp961024.0115.5>The IUD was finally taken off the market in 1984 .</original>
+<compressed id=latwp961024.0115.5>The IUD was taken off the market in 1984 .</compressed>
+<original id=latwp961024.0115.6>Nearly 200,000 lawsuits were brought by women who said they suffered injuries ranging from minor inflammation to infertility and in some cases , death .</original>
+<compressed id=latwp961024.0115.6>Nearly 200,000 lawsuits were brought by women who said they suffered injuries ranging from minor inflammation to death .</compressed>
+<original id=latwp961024.0115.7>Under a 1989 settlement , a trust fund of $ 2.475 billion was set up to pay damages to women claiming injury from the Robbins IUD .</original>
+<compressed id=latwp961024.0115.7>Under a settlement , a fund of $ 2.475 billion was set up to pay damages to women claiming injury from the Robbins IUD .</compressed>
+<original id=latwp961024.0115.8>Davis was born and raised in Mayaguez , Puerto Rico , the son of a government botanist .</original>
+<compressed id=latwp961024.0115.8>Davis was born and raised in Puerto Rico , the son of a botanist .</compressed>
+<original id=latwp961024.0115.9>He was a 1941 graduate of the Kent School in Connecticut , entered the University of Georgia when he was 14 .</original>
+<compressed id=latwp961024.0115.9>He was a graduate of the Kent School in Connecticut , entered the University of Georgia when 14 .</compressed>
+<original id=latwp961024.0115.10>He dropped out of college in 1943 and worked as a journalist for the Atlanta Constitution before joining the Army in 1944 where he served in the Pacific with the Army Corps of Engineers .</original>
+<compressed id=latwp961024.0115.10>He dropped out of college and worked as a journalist before joining the Army in 1944 where he served in the Pacific .</compressed>
+<original id=latwp961024.0115.11>After being discharged in 1946 , he built houses in Florida before returning to the University of Georgia where he earned his bachelor 's degree in chemistry and biology in 1949 .</original>
+<compressed id=latwp961024.0115.11>he built houses in Florida before returning to the University of Georgia where he earned his bachelor 's degree in 1949 .</compressed>
+<original id=latwp961024.0115.12>He was a 1953 graduate of the Johns Hopkins Medical School and after completing his residency in gynecology and surgery , traveled to Denmark where he joined the staff of the National Cancer Center there .</original>
+<compressed id=latwp961024.0115.12>He was a 1953 graduate of Johns Hopkins Medical School and after completing his residency in gynecology and surgery , traveled to Denmark where he joined the staff of the National Cancer Center .</compressed>
+<original id=latwp961024.0115.13>He returned to Hopkins where he was associate professor of gynecology and obstetrics until retiring in 1982 .</original>
+<compressed id=latwp961024.0115.13>He returned to Hopkins where he was associate professor of gynecology until retiring .</compressed>
+<original id=latwp961024.0115.14>A pioneer in laparoscopy , he held over 30 patents for medical instruments used in abdominal surgery such as tubal ligations .</original>
+<compressed id=latwp961024.0115.14>he held over 30 patents for medical instruments used in surgery .</compressed>
+<original id=latwp961024.0115.15>He developed a do-it-yourself kit for the detection of cervical cancer , where a woman could take samples at home and mailed them to a center where they were analyzed .</original>
+<compressed id=latwp961024.0115.15>He developed a do-it-yourself kit for cervical cancer , where a woman could take samples and mailed them to a center where they were analyzed .</compressed>
+<original id=latwp961024.0115.16>He was also the author of `` Intrauterine Devices for Contraception '' that was published in 1971 .</original>
+<compressed id=latwp961024.0115.16>He was the author of `` Intrauterine Devices for Contraception '' published in 1971 .</compressed>
+<original id=latwp961024.0115.17>He is survived by his wife , Jytte ; a son , Bruce J. Davis , of Gibson Island , Md. ; a daughter , Rikke K. Davis , of McLean , Va. , and a sister , Elaine Golden of Panama City , Fla .</original>
+<compressed id=latwp961024.0115.17>He is survived by his wife ; a son ; a daughter , and a sister .</compressed>
+<original id=latwp961024.0115.18>Distributed by the Los Angeles Times-Washington Post News Service</original>
+<compressed id=latwp961024.0115.18>Distributed by Los Angeles Times-Washington Post News</compressed>
+</text>
+</doc>

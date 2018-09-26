@@ -1,0 +1,36 @@
+<doc id=A88.8>
+<text>
+<original id=A88.8.0>Ashake-up of the management and finances of British Rail is proposed by Labour 's transport spokesman , Mr John Prescott , in the wake of the report into the Clapham Junction rail crash .</original>
+<compressed id=A88.8.0>Ashake-up of British Rail is proposed by Labour 's transport spokesman , Mr John Prescott , in the wake of the report into the Clapham Junction crash .</compressed>
+<original id=A88.8.1>Labour would establish a new Railway Act , encourage a more dynamic style of management , increase government funding and make the railways more accountable through a consumer regulatory framework .</original>
+<compressed id=A88.8.1>Labour would establish a new Railway Act , encourage dynamic management , increase government funding and make the railways more accountable .</compressed>
+<original id=A88.8.2>`` It is clear from the Hidden Report that Br is in desperate need not just of a new financial climate but a new managerial approach as well , '' Mr Prescott said yesterday .</original>
+<compressed id=A88.8.2>`` Br is in need not just of a new financial climate but a new managerial approach , '' Mr Prescott said yesterday .</compressed>
+<original id=A88.8.3>Br management was `` incompetent and unimaginative , '' he said If the chairman , Sir Robert Reid , were not due to retire in April , he should be sacked .</original>
+<compressed id=A88.8.3>Br management was `` incompetent '' If the chairman , Sir Robert Reid , were not due to retire , he should be sacked .</compressed>
+<original id=A88.8.4>Mr Prescott also warned that simply pumping public money into the railways was not the sole answer .</original>
+<compressed id=A88.8.4>Mr Prescott warned that pumping money into the railways was not the answer .</compressed>
+<original id=A88.8.5>`` It would be naive to think that all a Labour government has to do is increase revenue support , encourage greater investment and Britain 's railway system would automatically catch up with the best in Europe , '' he said .</original>
+<compressed id=A88.8.5>`` It would be naive to think that all a government has to do is increase revenue , encourage investment and Britain 's railway system would catch up with Europe , '' he said .</compressed>
+<original id=A88.8.6>`` Labour will introduce a new Railway Act that will lay down in law the broad policy objectives that we expect Br to meet , '' he told the Centre for Local Economic Strategies in Sheffield .</original>
+<compressed id=A88.8.6>`` Labour will lay down the objectives that we expect Br to meet , '' he told the Centre for Local Economic Strategies .</compressed>
+<original id=A88.8.7>`` These will include tough quality of service targets to improve safety , reliability and passenger comfort. '' The financial framework and policy objectives would be set by a Labour government .</original>
+<compressed id=A88.8.7>`` These include service targets to improve safety , reliability and passenger comfort. '' The framework and objectives would be set by a Labour government .</compressed>
+<original id=A88.8.8>An independent national regulatory body would monitor Br 's performance , examine investment schemes , fare policies and management practices .</original>
+<compressed id=A88.8.8>An independent regulatory body would monitor Br 's performance , policies and practices .</compressed>
+<original id=A88.8.9>`` There will be a consumer watchdog to deal with the whole range of consumer rights and needs , '' he promised .</original>
+<compressed id=A88.8.9>`` There will be a consumer watchdog , '' he promised .</compressed>
+<original id=A88.8.10>Bus usage in leading English cities has fallen by a sixth since 1985/86 because of the Government 's deregulation of bus operations , says a study for the Association of Metropolitan Authorities .</original>
+<compressed id=A88.8.10>Bus usage in English cities has fallen by a sixth since the Government 's deregulation of bus operations .</compressed>
+<original id=A88.8.11>About 336 million fewer journeys are being taken in Greater Manchester , West Midlands , Merseyside , South Yorkshire , Tyne and Wear , West Yorkshire and Strathclyde .</original>
+<compressed id=A88.8.11>336 million fewer journeys are being taken .</compressed>
+<original id=A88.8.12>The study by the transport economist Mr Bill Tyson also shows that fares have risen , and the overall savings to the tax-payer have been a modest £23 million .</original>
+<compressed id=A88.8.12>The study by economist Mr Bill Tyson shows that fares have risen , and savings to the tax-payer have been a modest £23 million .</compressed>
+<original id=A88.8.13>Mr Jack Meredith , chairman of the Ama 's public transport committee , said that while bus patronage was declining prior to deregulation , the Tyson report showed that the fall in journeys was between 100 and 200 million more than would have been expected .</original>
+<compressed id=A88.8.13>Mr Jack Meredith , chairman of the transport committee , said that while bus patronage was declining prior to deregulation , the Tyson report showed the fall was 200 million more than expected .</compressed>
+<original id=A88.8.14>Mr Tyson says deregulation prompted fares to rise by 23 per cent in real terms in 1986/87 , followed by a 3.7 per cent real increase in 1987/88 .</original>
+<compressed id=A88.8.14>Mr Tyson says deregulation prompted fares to rise by 23 per cent in 1986/87 , followed by a 3.7 per cent increase in 1987/88 .</compressed>
+<original id=A88.8.15>Last year , fares rose slightly higher than inflation in most areas .</original>
+<compressed id=A88.8.15>fares rose higher than inflation .</compressed>
+</text>
+</doc>

@@ -1,0 +1,34 @@
+<doc id=AAL.37>
+<text>
+<original id=AAL.37.0>Mr Norman Tebbit 's decision to raise the stakes in the Conservatives ' Hong Kong immigration row with a brutal attack on the Cabinet 's policy last night convinced some MPs that he is preparing a bid for the party leadership when Mrs Thatcher retires .</original>
+<compressed id=AAL.37.0>Norman Tebbit 's brutal attack on Cabinet policy convinced MPs he is preparing a bid for the party leadership when Thatcher retires .</compressed>
+<original id=AAL.37.1>The former Cabinet minister refused to rule out the possibility in the wake of his scornful accusation that the Prime Minister 's shrewd political instincts had been led astray by the `` Irish logic '' of the Foreign Office , though he did say it was `` very unlikely '' .</original>
+<compressed id=AAL.37.1>The former minister refused to rule out the possibility in the wake of his accusation that the Prime Minister 's instincts had been led astray , though he did say it was `` unlikely '' .</compressed>
+<original id=AAL.37.2>In the absence of a clear candidate of the right next time , some MPs suspect that Mr Tebbit may be manoeuvring to become a serious outside runner rather than a king-maker .</original>
+<compressed id=AAL.37.2>In the absence of a candidate of the right , some suspect that Tebbit may be manoeuvring to become a serious runner .</compressed>
+<original id=AAL.37.3>Coming on top of Wednesday 's Commons confrontation with Mr Doulgas Hurd , the Foreign Secretary --- in front of Mrs Thatcher --- Mr Tebbit 's column in yesterday 's London Evening Standard dramatically departed from normally discreet Tory methods of party in-fighting .</original>
+<compressed id=AAL.37.3>Coming on top of Commons confrontation with Doulgas Hurd , Tebbit 's column in yesterday 's London Evening Standard departed from discreet Tory methods of in-fighting .</compressed>
+<original id=AAL.37.4>He described the Cabinet as split between `` bitterly opposed factions '' led by Mr Hurd on one side and his successor as Home Secretary , Mr David Waddington , on the other .</original>
+<compressed id=AAL.37.4>He described the Cabinet as split between `` factions '' led by Hurd and David Waddington .</compressed>
+<original id=AAL.37.5>He even named the Government Chief Whip , Mr Tim Renton , and the party chairman , Mr Kenneth Baker , as Waddington allies who `` saw the danger ( but ) failed to prevent such a folly '' which , Mr Tebbit argued , was in danger of handing back to an opportunist Labour Party the very `` key group of voters whose support is vital for a fourth election victory '' --- by implication Tory populists sensitive to what he called `` being swamped by people of different culture , history and religion '' .</original>
+<compressed id=AAL.37.5>He named the Whip , Tim Renton , and chairman , Kenneth Baker , as Waddington allies who `` saw but failed to prevent a folly '' which Tebbit argued , was in danger of handing Labour the `` voters whose support is vital for victory '' --- Tory populists sensitive to `` people of different culture , history and religion '' .</compressed>
+<original id=AAL.37.6>In another passage evocative of past attempts to play the race card , Mr Tebbit wrote that `` most people in Britain did not want to live in a multicultural , multiracial society , but it has been foisted on them '' .</original>
+<compressed id=AAL.37.6>Tebbit wrote that `` people in Britain did not want a multicultural , multiracial society , but it has been foisted on them '' .</compressed>
+<original id=AAL.37.7>Few Conservative MPs doubt the sincerity of Mr Tebbit 's gut hostility to the plan to give British passports to up to 225,000 Hong Kongers as an insurance policy designed to `` anchor '' them in the troubled colony .</original>
+<compressed id=AAL.37.7>Few doubt the sincerity of Tebbit 's hostility to give British passports to 225,000 Hong Kongers to `` anchor '' them in the colony .</compressed>
+<original id=AAL.37.8>But even some admirers were puzzled by the aggressively public way he has pursued it , the more so since he has been careful to acknowledge that there may not be enough rebels to defeat the Government 's legislation with --- `` a sad day for me '' --- Labour 's help .</original>
+<compressed id=AAL.37.8>some were puzzled by the public way he pursued it , since there may not be enough rebels to defeat the Government 's legislation .</compressed>
+<original id=AAL.37.9>Critics were appalled at the split .</original>
+<compressed id=AAL.37.9>Critics were appalled .</compressed>
+<original id=AAL.37.10>`` It 's his bid for the leadership , '' one prominent ex-minister on the right of the party said .</original>
+<compressed id=AAL.37.10>`` It 's his bid for leadership , '' one ex-minister said .</compressed>
+<original id=AAL.37.11>`` It 's the one thing he can outflank both Baker and Heseltine on. '' A party official said : `` It 's the Powellite coalition , anti-immigrant , anti-Europe. '' A Tory wet added : `` He feels that the right has not got a standard-bearer or a contender .</original>
+<compressed id=AAL.37.11>`` he can outflank Baker and Heseltine '' A party official said : `` It 's Powellite , anti-immigrant , anti-Europe. '' A Tory added : `` He feels the right has not got a contender .</compressed>
+<original id=AAL.37.12>He may begin as a standard-bearer and allow himself to be persuaded to go forward as a contender. '' Against such calculations were those MPs who believe the hard-right strategy would not work and that Mr Tebbit is too flawed , too shrewd and too devoted to his wife , Margaret --- crippled in the Ira 's Brighton bombing of 1984 --- to make a serious bid .</original>
+<compressed id=AAL.37.12>He may begin as a standard-bearer and go forward as a contender. '' Against such calculations were those who believe the strategy would not work and that Tebbit is too devoted to his wife --- crippled in the Ira 's Brighton bombing of 1984 --- to make a bid .</compressed>
+<original id=AAL.37.13>To run as a spoiler , simply to block Michael Heseltine 's ambition to become leader , is another option he has voiced .</original>
+<compressed id=AAL.37.13>To run simply to block Michael Heseltine is another option .</compressed>
+<original id=AAL.37.14>Immigration grenade , page 6</original>
+<compressed id=AAL.37.14>Immigration grenade</compressed>
+</text>
+</doc>

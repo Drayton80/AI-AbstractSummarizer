@@ -1,0 +1,40 @@
+<doc id=A2X.24>
+<text>
+<original id=A2X.24.0>In The dying hours of Tuesday 's Panamanian coup , rebel officers refused a `` face-to-face '' request from a Us military officer to hand over General Noriega for trial in America , the Us Defence Secretary , Dick Cheney , said yesterday .</original>
+<compressed id=A2X.24.0>In Tuesday 's Panamanian coup , rebel officers refused a request to hand over Noriega for trial in America , Dick Cheney said .</compressed>
+<original id=A2X.24.1>Shortly afterwards the rebels asked for Us troops to help them to defend the routes to the military headquarters they had seized .</original>
+<compressed id=A2X.24.1>afterwards the rebels asked for Us troops to help them .</compressed>
+<original id=A2X.24.2>The Us gave no answer to their request , said Mr Cheney .</original>
+<compressed id=A2X.24.2>The Us gave no answer , said Mr Cheney .</compressed>
+<original id=A2X.24.3>He said Washington decided against helping the rebels because they refused to hand over General Noriega and because the Us doubted their democratic good faith .</original>
+<compressed id=A2X.24.3>Washington decided against helping because they refused to hand over Noriega and the Us doubted their good faith .</compressed>
+<original id=A2X.24.4>The coup was not to restore democracy , he said , but a `` power struggle within the Panamanian Defence Force '' .</original>
+<compressed id=A2X.24.4>The coup was a `` power struggle within the Panamanian Defence Force '' .</compressed>
+<original id=A2X.24.5>Other Us government sources said both the rebels and the Us army Southern Command , based in Panama , had been startled by the swift recovery of the pro-Noriega forces on Tuesday .</original>
+<compressed id=A2X.24.5>both the rebels and the Us army in Panama , had been startled by the swift recovery of the pro-Noriega forces .</compressed>
+<original id=A2X.24.6>The `` loyal '' forces air-lifted a company of troops to an air-strip near the military headquarters held by the rebels .</original>
+<compressed id=A2X.24.6>The `` loyal '' forces air-lifted troops near the headquarters held by the rebels .</compressed>
+<original id=A2X.24.7>Their arrival swung on to General Noriega 's side a battalion which had previously declined to commit itself .</original>
+<compressed id=A2X.24.7>Their arrival swung on to Noriega 's side a battalion which had declined to commit itself .</compressed>
+<original id=A2X.24.8>Earlier , Mr Cheney appeared on television to rebut criticism of the Bush administration 's actions --- or inactions --- during the coup .</original>
+<compressed id=A2X.24.8>Cheney appeared on television to rebut criticism of the Bush administration 's actions .</compressed>
+<original id=A2X.24.9>He confirmed that General Noriega was briefly in the hands of the rebels but said the Us had no time to make use of this fact .</original>
+<compressed id=A2X.24.9>He confirmed Noriega was briefly in the hands of the rebels .</compressed>
+<original id=A2X.24.10>`` It was n't until late in the coup activities that it became clear that the coup plotters did , in fact , have him , '' Mr Cheney said .</original>
+<compressed id=A2X.24.10>`` It was late that it became clear the coup plotters did have him , '' Cheney said .</compressed>
+<original id=A2X.24.11>`` Shortly after that the coup collapsed. '' When approached `` face to face '' by a senior Us officer , two rebel officers said they wanted General Noriega to retire within Panama , rather than face drug trafficking charges in the Us. Although Washington was notified of the rebellion last weekend , Mr Cheney said there was `` considerable reason '' to be cautious .</original>
+<compressed id=A2X.24.11>`` Shortly after the coup collapsed. '' rebel officers said they wanted Noriega to retire within Panama , rather than face charges in the Us. Although Washington was notified of the rebellion , there was reason to be cautious .</compressed>
+<original id=A2X.24.12>Us doubts were redoubled by news that the coup was to be led by Major Giraldi , a close associate of the Panamanian military dictator .</original>
+<compressed id=A2X.24.12>the coup was led by Major Giraldi , associate of the Panamanian dictator .</compressed>
+<original id=A2X.24.13>`` There was the possibility that it was an effort to draw the Us into some kind of an embarrassing incident , '' Mr Cheney said .</original>
+<compressed id=A2X.24.13>`` There was the possibility it was an effort to draw the Us into an embarrassing incident , '' Mr Cheney said .</compressed>
+<original id=A2X.24.14>The incident has become deeply embarrassing for the Bush administration , precisely because of its caution .</original>
+<compressed id=A2X.24.14>The incident has become embarrassing for the administration , because of its caution .</compressed>
+<original id=A2X.24.15>Criticism of the White House by both Democrats and Republicans grew yesterday .</original>
+<compressed id=A2X.24.15>Criticism by Democrats and Republicans grew .</compressed>
+<original id=A2X.24.16>Comparisons were made with the Reagan administration 's more robust attitude during the Grenada invasion and Libya bombing raid in 1984 and 1986 .</original>
+<compressed id=A2X.24.16>Comparisons were made with Reagan 's attitude during the Grenada invasion and Libya raid .</compressed>
+<original id=A2X.24.17>Democratic Congressman Dave McCurdy said `` there is a resurgence of the wimp factor '' and Republican Congressman William Broomfield said : `` We blew it ... It 's a major setback for our foreign policy. '' Other politicians complained that the failed coup had exposed the unaccustomed weakness of Us intelligence and undercover activities in Latin America .</original>
+<compressed id=A2X.24.17>Democratic Congressman Dave McCurdy said `` there is a resurgence of the wimp factor '' and Republican Congressman William Broomfield said : `` We blew it '' politicians complained that the coup had exposed the weakness of Us intelligence in Latin America .</compressed>
+</text>
+</doc>

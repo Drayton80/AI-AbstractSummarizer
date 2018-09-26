@@ -1,0 +1,36 @@
+<doc id=A88.28>
+<text>
+<original id=A88.28.0>The Labour leadership is monitoring the imminent reselection procedure in Birkenhead , Merseyside , where Mr Frank Field , the independent-minded chairman of the Commons social services committee is under threat from a local leftwing trade union official .</original>
+<compressed id=A88.28.0>Labour leadership is monitoring the reselection procedure in Merseyside , where Frank Field , the chairman of the Commons social services committee is under threat from a local union official .</compressed>
+<original id=A88.28.1>Mr Field has said he will resign and cause a byelection if he is not reselected , a move which could divide the party nationally .</original>
+<compressed id=A88.28.1>Mr Field will resign and cause a byelection if not reselected , which could divide the party .</compressed>
+<original id=A88.28.2>In the Commons Mr Field is widely regarded as one of the most thoughtful and persuasive MPs. When he speaks on social issues MPs from all sides listen , but in Birkenhead , Labour left-wingers , including some former supporters , believe his free thinking has gone too far .</original>
+<compressed id=A88.28.2>In the Commons Mr Field is regarded as thoughtful and persuasive When he speaks on social issues , but in Birkenhead , some former supporters believe his free thinking has gone too far .</compressed>
+<original id=A88.28.3>Few party members challenge his diligence as an Mp , but they claim he has lost touch with the party and treats all critics as extremists .</original>
+<compressed id=A88.28.3>Few challenge his diligence as an Mp , but claim he has lost touch with the party and treats critics as extremists .</compressed>
+<original id=A88.28.4>Mr Field accepts there is tension between him and some Birkenhead activists about the role of an Mp. A supporter said yesterday : `` What they want is to have somebody they can control , '' but Mr Field found it impossible to operate on that basis .</original>
+<compressed id=A88.28.4>Mr Field accepts there is tension between him and some Birkenhead activists A supporter said : `` they want somebody they can control , '' but Mr Field found it impossible to operate on that basis .</compressed>
+<original id=A88.28.5>He has set himself the task of trying to discuss the agenda Labour needs to develop over the next two decades on issues such as training , education and poverty .</original>
+<compressed id=A88.28.5>He has set himself the task to discuss the agenda Labour needs over the next decades on training , education and poverty .</compressed>
+<original id=A88.28.6>The ideas have come thick and fast --- a basic tax at 12p in the pound with the abolition of all income tax allowances , a flexible school-leaving age between 14 and 18 so 14-year-olds would have the option of leaving for a job in which training is guaranteed , and the reintroduction of child tax allowances .</original>
+<compressed id=A88.28.6>The ideas have come thick and fast --- a tax at 12p in the pound with the abolition of income tax , a school-leaving age so 14-year-olds would have the option of leaving for a job in which training is guaranteed , and the reintroduction of child tax allowances .</compressed>
+<original id=A88.28.7>His chief challenger is Mr Paul Davies , a Transport and General Workers ' Union district official .</original>
+<compressed id=A88.28.7>His challenger is Paul Davies , a Transport Workers ' Union official .</compressed>
+<original id=A88.28.8>Mr Davies has worked hard to affiliate 15 Tgwu branches , and has written a pamphlet attacking Mr Field 's views on social policy .</original>
+<compressed id=A88.28.8>Mr Davies has worked to affiliate Tgwu branches and has a pamphlet attacking Mr Field 's social policy .</compressed>
+<original id=A88.28.9>The reselection result will be announced on December 8 .</original>
+<compressed id=A88.28.9>The result will be announced December 8 .</compressed>
+<original id=A88.28.10>Mr Field has acknowledged he might lose , but a good turn-out could save him .</original>
+<compressed id=A88.28.10>Mr Field acknowledged he might lose .</compressed>
+<original id=A88.28.11>If he is defeated and forces a byelection , the party would probably be obliged to expel him .</original>
+<compressed id=A88.28.11>If defeated , the party would expel him .</compressed>
+<original id=A88.28.12>Mr Field believes he would win easily , and once returned to the Commons would ask the parliamentary party to give him back the Labour whip .</original>
+<compressed id=A88.28.12>Field believes he would win , and once returned to the Commons would ask to give him back the Labour whip .</compressed>
+<original id=A88.28.13>If he does cause a byelection , he will face the charge that he is not prepared to play by the rules laid down by the party conference .</original>
+<compressed id=A88.28.13>If he does cause a byelection , he will face the charge that he is not prepared to play by the rules laid down by the party .</compressed>
+<original id=A88.28.14>`` No one wants a byelection , '' said Mr Peter Roberts , the former local party chairman and a supporter of Mr Field .</original>
+<compressed id=A88.28.14>`` No one wants a byelection , '' said Peter Roberts , a supporter of Mr Field .</compressed>
+<original id=A88.28.15>`` But if there is one the people of Birkenhead will support him. ''</original>
+<compressed id=A88.28.15>`` if there is one Birkenhead will support him. ''</compressed>
+</text>
+</doc>

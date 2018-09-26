@@ -1,0 +1,43 @@
+<doc id=bn9624.rpi_segs.txt.960619.624>
+<annotator>annotator3</annotator>
+<text>
+<original id=bn9624.rpi_segs.txt.960619.624.0>Once again , a breaking story here - an F-18 fighter has crashed and burned 25 miles northeast of St. Louis , Missouri - apparently , operated by McDonnell Douglas , the manufacturer of the aircraft .</original>
+<compressed id=bn9624.rpi_segs.txt.960619.624.0>an F-18 fighter has crashed 25 miles northeast of St. Louis - operated by McDonnell Douglas , the manufacturer .</compressed>
+<original id=bn9624.rpi_segs.txt.960619.624.1>With more on that , we turn to the Pentagon and our Jamie McIntyre .</original>
+<compressed id=bn9624.rpi_segs.txt.960619.624.1>With more on that , Jamie McIntyre .</compressed>
+<original id=bn9624.rpi_segs.txt.960619.624.2>Jamie , what do you have there ?</original>
+<compressed id=bn9624.rpi_segs.txt.960619.624.2>what do you have ?</compressed>
+<original id=bn9624.rpi_segs.txt.960619.624.3>Well , very little additional information to add at this point , Miles , although Pentagon sources tell us this was not a U.S. military plane - that apparently , it was an older F-18 that had once been used by the Navy , but was now being leased back to McDonnell Douglas , who was using it for its own purposes .</original>
+<compressed id=bn9624.rpi_segs.txt.960619.624.3>Pentagon sources tell us this was not a military plane - it was an F-18 once used by the Navy , but leased back to McDonnell Douglas .</compressed>
+<original id=bn9624.rpi_segs.txt.960619.624.4>Pentagon sources here tell us that the pilot of the plane , whose fate we still do n't know , was apparently a McDonnell Douglas test pilot , not a U.S. military pilot .</original>
+<compressed id=bn9624.rpi_segs.txt.960619.624.4>the pilot , whose fate we do n't know , was a McDonnell Douglas pilot , not U.S. military .</compressed>
+<original id=bn9624.rpi_segs.txt.960619.624.5>Other than that , sources here confirm that they 've heard the reports that the F-18 crashed in a residential area northeast of St. Louis , Missouri , in the town of Bethalto , Illinois , and that- of course , St. Louis is the headquarters of McDonnell Douglas , where the F-18 is manufactured .</original>
+<compressed id=bn9624.rpi_segs.txt.960619.624.5>sources confirm the reports that the F-18 crashed in a residential area northeast of St. Louis , in Bethalto , Illinois , St. Louis is the headquarters of McDonnell Douglas where the F-18 is manufactured .</compressed>
+<original id=bn9624.rpi_segs.txt.960619.624.6>McDonnell Douglas right now is working on a new model - a new , improved F-18 model .</original>
+<compressed id=bn9624.rpi_segs.txt.960619.624.6>McDonnell Douglas is working on a new F-18 .</compressed>
+<original id=bn9624.rpi_segs.txt.960619.624.7>This , however , was not one of those EF models - this was an older C model plane .</original>
+<compressed id=bn9624.rpi_segs.txt.960619.624.7>This was not EF - this was an older C model .</compressed>
+<original id=bn9624.rpi_segs.txt.960619.624.8>And we 're still waiting for details on whether the pilot escaped injury - was able to eject , and whether or not anyone was hurt on the ground .</original>
+<compressed id=bn9624.rpi_segs.txt.960619.624.8>we 're waiting for details on whether the pilot and whether anyone was hurt on the ground .</compressed>
+<original id=bn9624.rpi_segs.txt.960619.624.9>Miles ?</original>
+<compressed id=bn9624.rpi_segs.txt.960619.624.9>Miles ?</compressed>
+<original id=bn9624.rpi_segs.txt.960619.624.10>Jamie , apparently they were trying to test out some kind of retro-fitting to this older C model .</original>
+<compressed id=bn9624.rpi_segs.txt.960619.624.10>they were trying out some retro-fitting to this model .</compressed>
+<original id=bn9624.rpi_segs.txt.960619.624.11>Do we know anything about the nature of those tests ?</original>
+<compressed id=bn9624.rpi_segs.txt.960619.624.11>Do we know anything about those tests ?</compressed>
+<original id=bn9624.rpi_segs.txt.960619.624.12>No , I do n't at this point , Miles .</original>
+<compressed id=bn9624.rpi_segs.txt.960619.624.12>No .</compressed>
+<original id=bn9624.rpi_segs.txt.960619.624.13>We 've made some inquiries to McDonnell Douglas .</original>
+<compressed id=bn9624.rpi_segs.txt.960619.624.13>We 've made inquiries to McDonnell Douglas .</compressed>
+<original id=bn9624.rpi_segs.txt.960619.624.14>We called several times , and they have , at this point , not been willing to talk to us.</original>
+<compressed id=bn9624.rpi_segs.txt.960619.624.14>they have not been willing to talk to us.</compressed>
+<original id=bn9624.rpi_segs.txt.960619.624.15>All they 'll say is that they 'll have to get back to us.</original>
+<compressed id=bn9624.rpi_segs.txt.960619.624.15>they say they 'll get back to us.</compressed>
+<original id=bn9624.rpi_segs.txt.960619.624.16>All right .</original>
+<compressed id=bn9624.rpi_segs.txt.960619.624.16>All right .</compressed>
+<original id=bn9624.rpi_segs.txt.960619.624.17>CNN 's Jamie McIntyre at the Pentagon - thanks for the details on that .</original>
+<compressed id=bn9624.rpi_segs.txt.960619.624.17>Jamie McIntyre at the Pentagon - thanks .</compressed>
+<original id=bn9624.rpi_segs.txt.960619.624.18>And we , of course , will continue to keep you posted on this story .</original>
+<compressed id=bn9624.rpi_segs.txt.960619.624.18>we will keep you posted .</compressed>
+</text>
+</doc>

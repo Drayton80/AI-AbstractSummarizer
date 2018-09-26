@@ -1,0 +1,55 @@
+<doc id=bn9624.rpi_segs.txt.960612.1166>
+<annotator>annotator1</annotator>
+<text>
+<original id=bn9624.rpi_segs.txt.960612.1166.0>Bob Dole 's first complete day as private citizen and full-time presidential candidate may not be all he had hoped .</original>
+<compressed id=bn9624.rpi_segs.txt.960612.1166.0>Bob Dole 's first day as private citizen and full-time presidential candidate may not be all he had hoped .</compressed>
+<original id=bn9624.rpi_segs.txt.960612.1166.1>He says his Senate exit yesterday left him with a `` empty feeling , ' reinforced when he called his office today and no one was there .</original>
+<compressed id=bn9624.rpi_segs.txt.960612.1166.1>his Senate exit yesterday left him with a `` empty feeling , ' reinforced when he called his office today and no one was there .</compressed>
+<original id=bn9624.rpi_segs.txt.960612.1166.2>That apparently did n't distract Dole from the business at hand , courting voters in Ohio and projecting the attitude of both a regular guy and a winner .</original>
+<compressed id=bn9624.rpi_segs.txt.960612.1166.2>That did n't distract Dole from courting voters in Ohio and projecting the attitude of both a regular guy and a winner .</compressed>
+<original id=bn9624.rpi_segs.txt.960612.1166.3>Our Marc Watts is with the Dole camp .</original>
+<compressed id=bn9624.rpi_segs.txt.960612.1166.3>Marc Watts is with the Dole camp .</compressed>
+<original id=bn9624.rpi_segs.txt.960612.1166.4>The first order of business for Bob Dole - changing the official name of his campaign plane to Citizen 's Ship .</original>
+<compressed id=bn9624.rpi_segs.txt.960612.1166.4>first for Dole - changing the name of his campaign plane to Citizen 's Ship .</compressed>
+<original id=bn9624.rpi_segs.txt.960612.1166.5>Until yesterday , it was called The Leader 's Ship .</original>
+<compressed id=bn9624.rpi_segs.txt.960612.1166.5>it was called The Leader 's Ship .</compressed>
+<original id=bn9624.rpi_segs.txt.960612.1166.6>With that , the former Senate majority leader embarked on his first campaign trip as a private citizen .</original>
+<compressed id=bn9624.rpi_segs.txt.960612.1166.6>the former Senate majority leader embarked on his first campaign trip as a private citizen .</compressed>
+<original id=bn9624.rpi_segs.txt.960612.1166.7>First stop - Toledo , Ohio .</original>
+<compressed id=bn9624.rpi_segs.txt.960612.1166.7>First stop - Toledo , Ohio .</compressed>
+<original id=bn9624.rpi_segs.txt.960612.1166.8>George Strait 's song `` Heartland ' welcomed Dole at a luncheon for the Toledo Chamber of Commerce .</original>
+<compressed id=bn9624.rpi_segs.txt.960612.1166.8>George Strait 's song `` Heartland ' welcomed Dole at a luncheon for the Toledo Chamber of Commerce .</compressed>
+<original id=bn9624.rpi_segs.txt.960612.1166.9>America 's Heartland is the theme of the Dole campaign trip .</original>
+<compressed id=bn9624.rpi_segs.txt.960612.1166.9>America 's Heartland is the theme of the Dole campaign trip .</compressed>
+<original id=bn9624.rpi_segs.txt.960612.1166.10>Well , I 'm going around the country to see where they have the best unemployment benefits and I thought I 'd check it out in Ohio and then go on to Kansas .</original>
+<compressed id=bn9624.rpi_segs.txt.960612.1166.10>I 'm going around the country to see where they have the best unemployment benefits and I thought I 'd check out Ohio and then go to Kansas .</compressed>
+<original id=bn9624.rpi_segs.txt.960612.1166.11>His speech was an extension of his farewell remarks Tuesday before Congress , but today the tone was more partisan .</original>
+<compressed id=bn9624.rpi_segs.txt.960612.1166.11>His speech was an extension of his farewell remarks before Congress , but today the tone was more partisan .</compressed>
+<original id=bn9624.rpi_segs.txt.960612.1166.12>I 'm not going to run on a stolen agenda ; it 's going to be my agenda , it 's going to be Bob Dole 's agenda .</original>
+<compressed id=bn9624.rpi_segs.txt.960612.1166.12>I 'm going to run on my agenda .</compressed>
+<original id=bn9624.rpi_segs.txt.960612.1166.13>It 's not going to be the House agenda or the Senate agenda , it 's going to be my agenda for America and my agenda for the future .</original>
+<compressed id=bn9624.rpi_segs.txt.960612.1166.13>It 's going to be my agenda for America and for the future .</compressed>
+<original id=bn9624.rpi_segs.txt.960612.1166.14>And I do n't have any personal animus towards President Clinton .</original>
+<compressed id=bn9624.rpi_segs.txt.960612.1166.14>I do n't have any animus towards President Clinton .</compressed>
+<original id=bn9624.rpi_segs.txt.960612.1166.15>In fact , he called me yesterday to tell my goodbye , and I 'm going to call him November 5 .</original>
+<compressed id=bn9624.rpi_segs.txt.960612.1166.15>he called to tell my goodbye , and I 'm going to call him November 5 .</compressed>
+<original id=bn9624.rpi_segs.txt.960612.1166.16>Dole reflected on his years in Congress , promising supporters he 'll run for president with the same commitment he brought to the Senate .</original>
+<compressed id=bn9624.rpi_segs.txt.960612.1166.16>Dole reflected on his years in Congress , promising supporters the same commitment .</compressed>
+<original id=bn9624.rpi_segs.txt.960612.1166.17>Running for president is probably a pretty full-time job , and so I 'm going to have all the time I need now to focus and to get the job done , because the stakes could n't be greater .</original>
+<compressed id=bn9624.rpi_segs.txt.960612.1166.17>Running for president is a full-time job , and I have all the time I need to focus and to get the job done , because the stakes could n't be greater .</compressed>
+<original id=bn9624.rpi_segs.txt.960612.1166.18>Aides say this trip is a chance for Dole to showcase himself yet again as a regular person .</original>
+<compressed id=bn9624.rpi_segs.txt.960612.1166.18>this trip is a chance for Dole to showcase himself as a regular person .</compressed>
+<original id=bn9624.rpi_segs.txt.960612.1166.19>Later , he 'll travel to Kansas to return to his roots there , and aides promise he 'll be more open and engaging as the campaign continues .</original>
+<compressed id=bn9624.rpi_segs.txt.960612.1166.19>he 'll travel to Kansas to his roots , and he 'll be more open and engaging as the campaign continues .</compressed>
+<original id=bn9624.rpi_segs.txt.960612.1166.20>The former Senate majority leader will visit eight states in three days , and aides say he 'll return to Ohio several times before the November election because it 's an important swing state .</original>
+<compressed id=bn9624.rpi_segs.txt.960612.1166.20>The former Senate leader will visit eight states in three days , and he 'll return to Ohio several times before the election because it 's an important swing state .</compressed>
+<original id=bn9624.rpi_segs.txt.960612.1166.21>And I 'm determined to criss-cross America between now and November 5 and tell our story .</original>
+<compressed id=bn9624.rpi_segs.txt.960612.1166.21>I 'm determined to criss-cross America between now and November 5 .</compressed>
+<original id=bn9624.rpi_segs.txt.960612.1166.22>Not only is Ohio an important battleground , but it knows something about picking winners .</original>
+<compressed id=bn9624.rpi_segs.txt.960612.1166.22>Ohio knows something about picking winners .</compressed>
+<original id=bn9624.rpi_segs.txt.960612.1166.23>Only twice in the past 100 years has Ohio not selected the winner in a presidential race , and no Republican has ever won the White House without winning Ohio .</original>
+<compressed id=bn9624.rpi_segs.txt.960612.1166.23>Only twice in 100 years has Ohio not selected the winner in a presidential race , and no Republican has ever won the White House without winning Ohio .</compressed>
+<original id=bn9624.rpi_segs.txt.960612.1166.24>Marc Watts , CNN , with the Dole campaign in Toledo , Ohio .</original>
+<compressed id=bn9624.rpi_segs.txt.960612.1166.24>Marc Watts , Ohio .</compressed>
+</text>
+</doc>

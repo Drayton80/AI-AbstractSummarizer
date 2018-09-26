@@ -1,0 +1,38 @@
+<doc id=AJ6.26>
+<text>
+<original id=AJ6.26.0>People were urged yesterday to start taking showers instead of baths to avert disaster for the wildlife of rivers , lakes and wetlands as the country suffers its worst drought for 200 years .</original>
+<compressed id=AJ6.26.0>People were urged to start taking showers instead of baths to avert disaster for wildlife as the country suffers its worst drought for 200 years .</compressed>
+<original id=AJ6.26.1>The Royal Society for Nature Conservation called on the next government to give the National Rivers Authority powers to veto thirsty building and industrial developments , and to make more water available for rivers and wetlands .</original>
+<compressed id=AJ6.26.1>The Royal Society for Nature Conservation called on the government to give the National Rivers Authority powers to veto thirsty developments , and to make more water available for wetlands .</compressed>
+<original id=AJ6.26.2>Rain was falling in London , where Sir David Attenborough was launching Water for Wildlife , a two-year campaign by the society .</original>
+<compressed id=AJ6.26.2>in London , Sir David Attenborough was launching Water for Wildlife .</compressed>
+<original id=AJ6.26.3>The television naturalist said southern England recorded its lowest January rainfall for 154 years .</original>
+<compressed id=AJ6.26.3>The naturalist said southern England recorded its lowest January rainfall for 154 years .</compressed>
+<original id=AJ6.26.4>He added : `` Even if it rained between now and October more heavily than it has ever done in recorded time there would still be rivers , such as the Ver in Hertfordshire , that would not get enough water to enable them to flow properly .</original>
+<compressed id=AJ6.26.4>`` Even if it rained between now and October heavily there would still be rivers that would not get enough water .</compressed>
+<original id=AJ6.26.5>`` Rivers like the Wharfe in Yorkshire , the Darent in Kent , the Burn in Norfolk are drying up. Where there were once kingfishers , bullrushes and reeds , there is now dry , parched land. '' The source of the Kennet , one of Britain 's best trout streams , was now a sewage farm outfall because springs had dried up. The source of the Wylye , a famous Wiltshire trout stream , was a million gallons of water pumped from a nearby borehole .</original>
+<compressed id=AJ6.26.5>`` Rivers are drying up. Where there were once kingfishers , bullrushes and reeds , there is parched land. '' The source of the Kennet was now sewage outfall because springs had dried up. The source of the Wylye was water pumped from a borehole .</compressed>
+<original id=AJ6.26.6>`` Many of the things which bring joy to our hearts in the countryside have been destroyed , '' said Sir David .</original>
+<compressed id=AJ6.26.6>`` Many of the things which bring joy in the countryside have been destroyed , '' said Sir David .</compressed>
+<original id=AJ6.26.7>`` We are all guilty of carelessness and waste , damaging our rivers and wetland. '' According to the society , water voles , otters , redshank , snipe and lapwing and wetland plants such as marsh orchid and bog pimpernel had declined as a result of over-abstraction and drainage over many years .</original>
+<compressed id=AJ6.26.7>`` We are all guilty of carelessness , damaging our rivers and wetland. '' , water voles , otters , redshank , snipe and lapwing and wetland plants had declined as a result of over-abstraction and drainage .</compressed>
+<original id=AJ6.26.8>Each person in Britain uses an average 30 gallons of water a day and the society called for consumers to take conservation measures to save water : to turn off taps when brushing their teeth , to fix drips and leaks , to water the garden in the cool of the day and to collect rainwater for garden use .</original>
+<compressed id=AJ6.26.8>Each person in Britain uses an average 30 gallons of water a day and the society called for conservation measures : turn off taps when brushing teeth , fix leaks , water the garden in the cool of the day and collect rainwater for garden use .</compressed>
+<original id=AJ6.26.9>Isobel Drury , of the society , warned against plans to solve water shortages through a national grid or local water grids .</original>
+<compressed id=AJ6.26.9>Isobel Drury , warned against plans to solve shortages through national or local water grids .</compressed>
+<original id=AJ6.26.10>She said they could have worrying consequences for wildlife because the grids could entail the mixing of water from acidic catchments with water from alkaline chalk streams .</original>
+<compressed id=AJ6.26.10>She said they could have consequences for wildlife because the grids could entail the mixing of water from acidic catchments with alkaline chalk streams .</compressed>
+<original id=AJ6.26.11>Mr Gary Mantle , director of the Wiltshire Trust for Nature Conservation , one of the 47 country trusts involved in the society , said water rats were declining and the water weed had been `` badly hammered '' on the Wylye .</original>
+<compressed id=AJ6.26.11>Mr Gary Mantle , director of one of the 47 country trusts involved , said water rats were declining and the water weed had been `` badly hammered '' on the Wylye .</compressed>
+<original id=AJ6.26.12>However , it was not on the priority list of 20 rivers singled out for urgent action by the National Rivers Authority .</original>
+<compressed id=AJ6.26.12>it was not on the priority list of 20 rivers by the National Rivers Authority .</compressed>
+<original id=AJ6.26.13>`` It is sick but not dying , '' he said .</original>
+<compressed id=AJ6.26.13>`` It is sick but not dying , '' he said .</compressed>
+<original id=AJ6.26.14>The society wants development proposals , such as the building of 10,000 new houses in west Swindon close to drought-stricken rivers , to be refused if there is too little water available .</original>
+<compressed id=AJ6.26.14>The society wants development proposals refused if there is too little water available .</compressed>
+<original id=AJ6.26.15>Anglers are to challenge Yorkshire Water at a public hearing today over plans to abstract half the 10 million gallon flow of the river Hull , which they claim is already running dangerously low .</original>
+<compressed id=AJ6.26.15>Anglers are to challenge Yorkshire Water over plans to abstract half the 10 million gallon flow of the Hull , which is running low .</compressed>
+<original id=AJ6.26.16>Mr Allan Edwards , director of the Anglers Co-operative Association , would be opposing all applications to abstract more water from the chalk streams of southern Yorkshire , which are famous for their wild trout .</original>
+<compressed id=AJ6.26.16>the Anglers Co-operative Association would be opposing all applications to abstract water from the chalk streams of southern Yorkshire , which are famous for their trout .</compressed>
+</text>
+</doc>

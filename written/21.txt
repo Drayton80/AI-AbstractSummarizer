@@ -1,0 +1,40 @@
+<doc id=A8J.6>
+<text>
+<original id=A8J.6.0>Apossible framework for a pan-European organisation linking countries in Western and Eastern Europe was unveiled here yesterday as the West German Chancellor , Dr Helmut Kohl , formally ruled out any prospect of Bonn seeking German reunification outside the creation of a united Europe .</original>
+<compressed id=A8J.6.0>Apossible framework for a pan-European organisation linking Western and Eastern Europe was unveiled as the West German Chancellor , Dr Helmut Kohl , ruled out seeking German reunification outside the creation of a united Europe .</compressed>
+<original id=A8J.6.1>The new body --- to be set up by the 12 countries of the European Community and the six countries of the European Free Trade Association --- would be open to east European states who opt for democracy .</original>
+<compressed id=A8J.6.1>The body --- to be set up by the European Community and Free Trade Association --- would be open to east European states who opt for democracy .</compressed>
+<original id=A8J.6.2>The attempt to put flesh and blood on the skeleton structure of a possible united Europe emerged during an unprecedented day in the history of the European Parliament .</original>
+<compressed id=A8J.6.2>The attempt to structure a united Europe emerged during an unprecedented day in the European Parliament .</compressed>
+<original id=A8J.6.3>Reflecting both the sense of momentous events in Eastern Europe and the desire to strengthen the political role of the European Parliament , MEPs were unexpectedly addressed yesterday both by Chancellor Kohl and President Mitterrand , President of the European Council .</original>
+<compressed id=A8J.6.3>Reflecting the events in Eastern Europe and to strengthen the European Parliament , MEPs were addressed yesterday both by Chancellor Kohl and President Mitterrand .</compressed>
+<original id=A8J.6.4>The Commission 's thinking about a wider European organisation was set out yesterday by its vice-president , Mr Frans Andriessen , in a report about the proposed European economic space with Efta in which capital , people , trade , and services would move freely .</original>
+<compressed id=A8J.6.4>The thinking was set out by its vice-president , Mr Frans Andriessen , in a report about the proposed European economic space with Efta in which capital , people , trade , and services would move freely .</compressed>
+<original id=A8J.6.5>In the short run this new body is seen by the Commission as a useful means of delaying or diverting the application of countries such as Austria which want to belong to the inner core of the 12 European Community states .</original>
+<compressed id=A8J.6.5>this is a means of delaying the application of countries such as Austria which want to belong to the inner core of the 12 European Community states .</compressed>
+<original id=A8J.6.6>But Mr Andriessen conceded that the 18-country Ees would be presided over by a council of ministers `` shaping decisions by consensus '' .</original>
+<compressed id=A8J.6.6>Mr Andriessen conceded the Ees would be presided over by ministers `` shaping decisions by consensus '' .</compressed>
+<original id=A8J.6.7>Advocates of faster progress to European monetary union were encouraged yesterday by the unambiguous declaration made to the European Parliament by Chancellor Helmut Kohl yesterday that change in eastern Europe could not justify going slow on Ec integration .</original>
+<compressed id=A8J.6.7>Advocates of faster European monetary union were encouraged by the declaration by Chancellor Kohl that change in eastern Europe could not justify slow Ec integration .</compressed>
+<original id=A8J.6.8>Others speculated that the foundations were being laid for a pan-European unity which might stretch from the Urals to the Atlantic .</original>
+<compressed id=A8J.6.8>Others speculated the foundations were being laid for a pan-European unity which might stretch from the Urals to the Atlantic .</compressed>
+<original id=A8J.6.9>The Chancellor also took the opportunity to nuance his support for German reunification in ways which will reassure those fearful that precipitate moves to unification might unsettle the Soviet Union and threaten the improvement in East-West relations .</original>
+<compressed id=A8J.6.9>The Chancellor took the opportunity to nuance his support for German reunification which will reassure those fearful that unification might unsettle the Soviet Union and threaten East-West relations .</compressed>
+<original id=A8J.6.10>Unlike his Foreign Minister , Mr Hans-Dietrich Genscher , Dr Kohl had first reacted to the changes in East Germany by highlighting German reunification .</original>
+<compressed id=A8J.6.10>Unlike his Minister , Hans-Dietrich Genscher , Dr Kohl reacted to the changes in East Germany by highlighting reunification .</compressed>
+<original id=A8J.6.11>While underlining the right of the East Germans to opt for unity with their fellow Germans in the Federal Republic , Dr Kohl said this was a matter for their own free choice .</original>
+<compressed id=A8J.6.11>the right of the East Germans to opt for unity with the Federal Republic , Dr Kohl said was a matter for their own free choice .</compressed>
+<original id=A8J.6.12>`` The people of the Gdr do not need lectures on this subject from outsiders , '' commented Dr Kohl , adding that Mr Gorbachev 's survival was vital for the wider movement to democracy and reform in eastern Europe .</original>
+<compressed id=A8J.6.12>`` The people do not need lectures on this subject , '' commented Dr Kohl , adding that Mr Gorbachev was vital for the movement to democracy in eastern Europe .</compressed>
+<original id=A8J.6.13>He concluded that a `` free and united Germany '' was conceivable only in `` a free and united Europe. '' The Chancellor stated that the priority now was for East Germany to move to free and secret elections , a press freed from bureaucratic political control , free trade unions , and the right to form independent parties , he said .</original>
+<compressed id=A8J.6.13>a `` united Germany '' was conceivable only in `` a united Europe. '' The Chancellor stated that the priority was for East Germany to move to free elections , press , trade unions , and parties .</compressed>
+<original id=A8J.6.14>`` The recent declarations of the Gdr Prime Minister , Mr Hans Modrow , contain references which undeniably lead in this direction .</original>
+<compressed id=A8J.6.14>`` The declarations of the Gdr Prime Minister , Hans Modrow , contain references which lead in this direction .</compressed>
+<original id=A8J.6.15>All now depends on how these announcements are implemented. '' While making no secret of the Federal Republic 's readiness to provide massive aid for a democratic East Germany , the Chancellor emphasised that virtually all of eastern Europe , from Poland to Yugoslavia , would have a claim of the support and solidarity of Western Europe .</original>
+<compressed id=A8J.6.15>All depends on how these announcements are implemented. '' making no secret of the Federal Republic 's readiness to provide aid for a democratic East Germany , the Chancellor emphasised all of eastern Europe would have the support and solidarity of Western Europe .</compressed>
+<original id=A8J.6.16>For his part President Mitterrand reported on the steps taken in Paris last weekend by Ec heads of government to bolster the crisis ridden economies of Hungary and Poland .</original>
+<compressed id=A8J.6.16>President Mitterrand reported on the steps taken by Ec heads to bolster the economies of Hungary and Poland .</compressed>
+<original id=A8J.6.17>`` Yugoslavia must also not be forgotton since Yugoslavia was one of the first East European countries to show courage in making change , although its economy has not necessarily benefited from this , '' said President Mitterrand .</original>
+<compressed id=A8J.6.17>`` Yugoslavia was one of the first East European countries to show courage in making change , although its economy has not benefited from this , '' said President Mitterrand .</compressed>
+</text>
+</doc>

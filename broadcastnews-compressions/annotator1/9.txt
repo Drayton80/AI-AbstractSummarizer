@@ -1,0 +1,43 @@
+<doc id=bn9623.rpi.txt.960525.319>
+<annotator>annotator1</annotator>
+<text>
+<original id=bn9623.rpi.txt.960525.319.0>Investors on Wall Street this week were quick to pick up the latest fashion trend - Saks Holdings .</original>
+<compressed id=bn9623.rpi.txt.960525.319.0>Investors on Wall Street were quick to pick up the latest fashion trend - Saks Holdings .</compressed>
+<original id=bn9623.rpi.txt.960525.319.1>The parent company of Saks Fifth Avenue offering a 26 percent stake in the company .</original>
+<compressed id=bn9623.rpi.txt.960525.319.1>The parent company of Saks Fifth Avenue offering a 26 percent stake in the company .</compressed>
+<original id=bn9623.rpi.txt.960525.319.2>Investors rushed to buy the stock on its first day of trading , ending the week up $ 8 from its initial offering price of $ 25 a share .</original>
+<compressed id=bn9623.rpi.txt.960525.319.2>Investors rushed to buy the stock , ending the week up $ 8 from its initial offering price of $ 25 a share .</compressed>
+<original id=bn9623.rpi.txt.960525.319.3>Luxury is in.</original>
+<compressed id=bn9623.rpi.txt.960525.319.3>Luxury is in.</compressed>
+<original id=bn9623.rpi.txt.960525.319.4>While the retail sector 's recovery has been spotty , it seems the sky 's the limit for high-end stores .</original>
+<compressed id=bn9623.rpi.txt.960525.319.4>While the retail sector 's recovery has been spotty , the sky 's the limit for high-end stores .</compressed>
+<original id=bn9623.rpi.txt.960525.319.5>Wall Street is betting that Saks Fifth Avenue will continue the trend .</original>
+<compressed id=bn9623.rpi.txt.960525.319.5>Wall Street is betting that Saks will continue the trend .</compressed>
+<original id=bn9623.rpi.txt.960525.319.6>The retailer will raise roughly $ 400 million , enough to wipe out more than one-third of its debt .</original>
+<compressed id=bn9623.rpi.txt.960525.319.6>The retailer will raise $ 400 million to wipe out more than one-third of its debt .</compressed>
+<original id=bn9623.rpi.txt.960525.319.7>The wealthier consumers are benefiting from economic trends , and they 're spending money and we 've seen that in stores like Tiffany and Gucci that are public companies , where the results have consistently been much better than expected .</original>
+<compressed id=bn9623.rpi.txt.960525.319.7>The wealthier consumers are benefiting from economic trends , and they 're spending money in stores like Tiffany and Gucci that are public companies , where the results have consistently been better than expected .</compressed>
+<original id=bn9623.rpi.txt.960525.319.8>Tiffany recently split its stock after reporting a big jump in quarterly earnings , and Gucci stock soared Tuesday after reporting a 113 percent jump in revenue .</original>
+<compressed id=bn9623.rpi.txt.960525.319.8>Tiffany recently split its stock after a big jump in quarterly earnings , and Gucci stock soared after a 113 percent jump in revenue .</compressed>
+<original id=bn9623.rpi.txt.960525.319.9>Designer Donna Karan , sensing a more friendly environment towards high-end fashion , is readying another attempt at a public offering .</original>
+<compressed id=bn9623.rpi.txt.960525.319.9>Designer Donna Karan , sensing a friendly environment , is readying another attempt at a public offering .</compressed>
+<original id=bn9623.rpi.txt.960525.319.10>Now the hunt is on for the next hot retailer , and some privately held stores are wondering if they should answer Wall Street 's call .</original>
+<compressed id=bn9623.rpi.txt.960525.319.10>the hunt is on for the next hot retailer , and some stores are wondering if they should answer Wall Street 's call .</compressed>
+<original id=bn9623.rpi.txt.960525.319.11>We 've been sought after .</original>
+<compressed id=bn9623.rpi.txt.960525.319.11>We 've been sought after .</compressed>
+<original id=bn9623.rpi.txt.960525.319.12>We talk to them , we are educating ourselves , I guess they are educating themselves about us and when the right time comes maybe we make the move .</original>
+<compressed id=bn9623.rpi.txt.960525.319.12>We are educating ourselves , they are educating themselves about us and when the time comes maybe we make the move .</compressed>
+<original id=bn9623.rpi.txt.960525.319.13>Heads of private apparel companies say they worry about ceding control to share holders who may not agree with ideas about how to run the business , but with the market conditions so favorable , more and more are getting over their fear of going public .</original>
+<compressed id=bn9623.rpi.txt.960525.319.13>Heads of private apparel companies worry about ceding control to share holders who may not agree how to run the business , but with conditions so favorable , more are getting over their fear of going public .</compressed>
+<original id=bn9623.rpi.txt.960525.319.14>Kitty Pilgrim , CNN Financial News , New York .</original>
+<compressed id=bn9623.rpi.txt.960525.319.14>Kitty Pilgrim , CNN .</compressed>
+<original id=bn9623.rpi.txt.960525.319.15>I now declare the Disney Store right here in Manhattan officially open .</original>
+<compressed id=bn9623.rpi.txt.960525.319.15>I declare the Disney Store in Manhattan officially open .</compressed>
+<original id=bn9623.rpi.txt.960525.319.16>And Walt Disney opening its latest store to the public .</original>
+<compressed id=bn9623.rpi.txt.960525.319.16>Walt Disney opening its latest store .</compressed>
+<original id=bn9623.rpi.txt.960525.319.17>The three-story Disney Kingdom is located in the heart of Manhattan and just a block and a half away from Warner Brothers .</original>
+<compressed id=bn9623.rpi.txt.960525.319.17>The three-story Disney Kingdom is in the heart of Manhattan and just a block and a half from Warner Brothers .</compressed>
+<original id=bn9623.rpi.txt.960525.319.18>Disney paying top dollar , $ 400 a square foot , for the location , but says the publicity is worth the price .</original>
+<compressed id=bn9623.rpi.txt.960525.319.18>Disney paying $ 400 a square foot for the location , says the publicity is worth the price .</compressed>
+</text>
+</doc>

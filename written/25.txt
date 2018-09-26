@@ -1,0 +1,34 @@
+<doc id=A9E.33>
+<text>
+<original id=A9E.33.0>President Elias Hrawi has threatened to resign if he fails to topple General Michel Aoun , whom he accused of blocking his way to unite and bring peace to Lebanon .</original>
+<compressed id=A9E.33.0>President Elias Hrawi has threatened to resign if he fails to topple General Michel Aoun , whom he accused of blocking his way to bring peace to Lebanon .</compressed>
+<original id=A9E.33.1>`` I did not come to the presidency to become a president who will consolidate partition or to manage a crisis , '' he said yesterday .</original>
+<compressed id=A9E.33.1>`` I did not come to the presidency to consolidate partition , '' he said .</compressed>
+<original id=A9E.33.2>`` I have come to restore Lebanon 's unity and extend the sovereignty of the government over Lebanese territory .</original>
+<compressed id=A9E.33.2>`` I have come to restore Lebanon 's unity and extend the sovereignty of the government .</compressed>
+<original id=A9E.33.3>`` When my patience runs out with all the mediation and when I exhaust my capabilities I will issue a statement to all Lebanese and apologise .</original>
+<compressed id=A9E.33.3>`` When I exhaust my capabilities I will apologise .</compressed>
+<original id=A9E.33.4>I will tell them `` this is your actual situation '' , and leave. '' Mr Hrawi has not been able to move into the presidential palace in the Beirut suburb of Baabda because it is occupied by Gen Aoun .</original>
+<compressed id=A9E.33.4>I will tell them `` this situation '' , and leave. '' Mr Hrawi has not been able to move into the presidential palace because it is occupied by Gen Aoun .</compressed>
+<original id=A9E.33.5>He said foreign mediators had asked him not to use force to break Gen Aoun 's control of the enclave .</original>
+<compressed id=A9E.33.5>mediators asked him not to use force to break Aoun 's control .</compressed>
+<original id=A9E.33.6>He refused to set a time within which he would step down , saying he was giving diplomacy time to solve the crisis peacefully .</original>
+<compressed id=A9E.33.6>He refused to step down , giving time to solve the crisis peacefully .</compressed>
+<original id=A9E.33.7>It was essential to act quickly to avert the partition of Lebanon into religious cantons .</original>
+<compressed id=A9E.33.7>It was essential to act quickly to avert the partition of Lebanon into religious cantons .</compressed>
+<original id=A9E.33.8>`` The country is living on a volcano , in a field of mines , '' he said .</original>
+<compressed id=A9E.33.8>`` The country is living in a field of mines , '' he said .</compressed>
+<original id=A9E.33.9>`` I am against war and operations which disrupt peace and cause death and destruction , '' Mr Hrawi said .</original>
+<compressed id=A9E.33.9>`` I am against war , '' Hrawi said .</compressed>
+<original id=A9E.33.10>But he added that patience had limits and he might wait a few days or two weeks .</original>
+<compressed id=A9E.33.10>he added that patience had limits .</compressed>
+<original id=A9E.33.11>Syrian forces , Lebanese troops , and militiamen have been poised for a week for an attack to seize the palace .</original>
+<compressed id=A9E.33.11>Syrian forces , Lebanese troops , and militiamen have been poised to seize the palace .</compressed>
+<original id=A9E.33.12>Diplomatic sources said Syria had increased its troops in Lebanon from about 30,000 to 45,000 since Mr Hrawi 's election .</original>
+<compressed id=A9E.33.12>Syria had increased its troops in Lebanon to 45,000 since Hrawi 's election .</compressed>
+<original id=A9E.33.13>Mr Hrawi said no decision had been taken yet for a military showdown .</original>
+<compressed id=A9E.33.13>Mr Hrawi said no decision had been taken for a military showdown .</compressed>
+<original id=A9E.33.14>He accused Gen Aoun of using as `` sandbags '' the thousands of Christians who have gathered outside the palace to deter an attack .</original>
+<compressed id=A9E.33.14>He accused Aoun of using `` sandbags '' of Christians who have gathered to deter an attack .</compressed>
+</text>
+</doc>

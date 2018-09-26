@@ -1,0 +1,42 @@
+<doc id=A53.5>
+<text>
+<original id=A53.5.0>Now that President F W de Klerk has announced the release of eight of the nine most prominent political prisoners in South Africa , the question is when --- not if --- the ninth , Nelson Mandela , will be freed .</original>
+<compressed id=A53.5.0>Now President de Klerk has announced the release of eight political prisoners in South Africa , the question is when Nelson Mandela will be freed .</compressed>
+<original id=A53.5.1>And it is looking increasingly as if the date will be as much Mr Mandela 's own decision as the government 's .</original>
+<compressed id=A53.5.1>the date will be as much Mandela 's decision as the government 's .</compressed>
+<original id=A53.5.2>For the most remarkable thing to have emerged from Mr de Klerk 's decision is the degree to which Mr Mandela and the exiled African National Congress have become participants in government decision-making .</original>
+<compressed id=A53.5.2>the most remarkable is the degree to which Mr Mandela and the African National Congress have become participants in government decision-making .</compressed>
+<original id=A53.5.3>He has acquired an autonomy and influence staggering even by the standards of a country where anomalies are institutionalised .</original>
+<compressed id=A53.5.3>He has acquired an influence staggering even by the standards of a country where anomalies are institutionalised .</compressed>
+<original id=A53.5.4>Indications of Mr Mandela 's growing political stature in the eyes of the government have been accumulating for some time .</original>
+<compressed id=A53.5.4>Indications of Mandela 's growing political stature have been accumulating for some time .</compressed>
+<original id=A53.5.5>One paragraph in Mr de Klerk 's statement on Tuesday announcing the release of Mr Mandela 's old associate Walter Sisulu provided the final piece of the jigsaw .</original>
+<compressed id=A53.5.5>de Klerk 's statement announcing the release of Walter Sisulu provided the final piece of the jigsaw .</compressed>
+<original id=A53.5.6>`` It is necessary to state , '' Mr de Klerk said , `` that Mr Nelson Mandela is fully appraised of these proposed releases .</original>
+<compressed id=A53.5.6>de Klerk said , `` Mr Nelson Mandela is fully appraised of these proposed releases .</compressed>
+<original id=A53.5.7>In fact , discussions were held with him and he considered yet again that his release is not now on the agenda. '' Mr de Klerk , so eager to placate Margaret Thatcher and international opinion generally , was saying , between the lines : `` Look , I know you 're asking for Mandela 's release .</original>
+<compressed id=A53.5.7>he considered that his release is not now on the agenda. '' Mr de Klerk , was saying between the lines : `` you 're asking for Mandela 's release .</compressed>
+<original id=A53.5.8>But what can I do ?</original>
+<compressed id=A53.5.8>what can I do ?</compressed>
+<original id=A53.5.9>He does n't want to go out yet. '' Even if that is not the whole truth , --- clearly , the government has a crucial say -Mr de Klerk has gone on record as recognising that Mr Mandela has leverage in government decisions .</original>
+<compressed id=A53.5.9>He does n't want to go out yet. '' de Klerk has gone on record as recognising Mandela has leverage in government decisions .</compressed>
+<original id=A53.5.10>The deference the government is showing him points to the recognition , finally , that Mr Mandela is the symbolic leader of the disenfranchised black majority , and that he is , accordingly , a key player .</original>
+<compressed id=A53.5.10>The deference points to the recognition that Mandela is the symbolic leader of the black majority .</compressed>
+<original id=A53.5.11>By extension , so is the Anc , whose influence successive South African governments have attempted , frantically and quite without success , to wish away .</original>
+<compressed id=A53.5.11>so is the Anc , whose influence South African governments have attempted to wish away .</compressed>
+<original id=A53.5.12>Mr Mandela , thus , has already begun on his own the negotiating process that Mr de Klerk 's government claims to seek with black leaders .</original>
+<compressed id=A53.5.12>Mandela has begun on his own the negotiating process de Klerk 's government claims to seek with black leaders .</compressed>
+<original id=A53.5.13>Maybe without fully recognising it , the government has , in fact , started talking to the Anc --- for if there is one thing Mr Mandela has made clear throughout his long incarceration , it is his unwavering allegiance to the movement , whose foremost leader he remains .</original>
+<compressed id=A53.5.13>the government has , in fact , started talking to the Anc --- one thing Mandela has made clear is his allegiance to the movement .</compressed>
+<original id=A53.5.14>Mr Mandela 's hand was discernible in the Anc negotiating proposal put out in August ; in the successful campaign of mass protest before the 6 September white election ; and in a silent scheme by some of the leaders of the black `` homelands '' to flat-foot Mr de Klerk by publicly declaring that the country cannot be partitioned along racial and tribal lines .</original>
+<compressed id=A53.5.14>Mandela 's hand was discernible in the Anc proposal in August ; in the protest before the white election ; in a scheme by some leaders of black `` homelands '' to flat-foot de Klerk by declaring that the country cannot be partitioned along racial and tribal lines .</compressed>
+<original id=A53.5.15>The conclusion is irresistible that Mr Mandela is exploiting the government 's growing dependence on him to extend his influence to the many black organisations whose adoptive leader he is. Where there is possibly a meeting of minds between him and the government is in the desire not to release him into a political vacuum .</original>
+<compressed id=A53.5.15>Mandela is exploiting the government 's dependence on him to extend his influence to black organisations there is a meeting of minds between him and the government in the desire not to release him into a political vacuum .</compressed>
+<original id=A53.5.16>In the eyes of both , it would make sense not to have him roaming the country generating huge gatherings with a politically futile , and possibly violently anarchic , outcome .</original>
+<compressed id=A53.5.16>it would make sense not to have him roaming the country generating gatherings with possibly anarchic outcome .</compressed>
+<original id=A53.5.17>Mr Mandela needs a ready-made negotiating structure in which he can play the decisive role that his authority requires .</original>
+<compressed id=A53.5.17>Mandela needs a negotiating structure in which he can play the decisive role .</compressed>
+<original id=A53.5.18>Someone close to Mr Mandela described him yesterday as a chess player five moves ahead of anyone else in the game .</original>
+<compressed id=A53.5.18>Someone described him as a chess player five moves ahead of anyone else .</compressed>
+</text>
+</doc>

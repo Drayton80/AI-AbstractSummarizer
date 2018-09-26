@@ -1,0 +1,35 @@
+<doc id=bn9623.rpi.txt.960523.261>
+<annotator>annotator2</annotator>
+<text>
+<original id=bn9623.rpi.txt.960523.261.0>In California today , what the government is calling the largest seizure of smuggled automatic weapons in American history .</original>
+<compressed id=bn9623.rpi.txt.960523.261.0>In California today , the largest seizure of smuggled automatic weapons in American history .</compressed>
+<original id=bn9623.rpi.txt.960523.261.1>And seven people are now under arrest , including two Chinese nationals with ties to the Chinese military .</original>
+<compressed id=bn9623.rpi.txt.960523.261.1>seven people are under arrest , including two Chinese with ties to the Chinese military .</compressed>
+<original id=bn9623.rpi.txt.960523.261.2>ABC 's Brian Ross is in San Francisco .</original>
+<compressed id=bn9623.rpi.txt.960523.261.2>Brian Ross is in San Francisco .</compressed>
+<original id=bn9623.rpi.txt.960523.261.3>U.S. customs agents had been tracking huge shipments of Chinese weapons into this country for years , which is what led undercover agents to set up the illegal shipment this March of some 2,000 AK-47's , shown here being unpacked after they were seized in Oakland ; guns the undercover agents had claimed were destined for American street gangs .</original>
+<compressed id=bn9623.rpi.txt.960523.261.3>U.S. customs agents had been tracking huge shipments of Chinese weapons into this country , which is what led undercover agents to set up the illegal shipment of 2,000 AK-47's , guns the undercover agents had claimed were destined for American street gangs .</compressed>
+<original id=bn9623.rpi.txt.960523.261.4>They also negotiated even more sophisticated weapons - Stinger-type missiles and little small hand grenades with a comment that if you throw these into a crowd , they can kill many , many people .</original>
+<compressed id=bn9623.rpi.txt.960523.261.4>They also negotiated more sophisticated weapons with a comment that if you throw these into a crowd , they can kill many people .</compressed>
+<original id=bn9623.rpi.txt.960523.261.5>In addition to the seven Chinese business people who were charged today , at least seven others are being sought , including some top officials in China .</original>
+<compressed id=bn9623.rpi.txt.960523.261.5>In addition to the seven Chinese business people charged today , at least seven others are being sought .</compressed>
+<original id=bn9623.rpi.txt.960523.261.6>The Chinese government is into this thing all the way up to their eyeballs .</original>
+<compressed id=bn9623.rpi.txt.960523.261.6>The Chinese government is into this thing up to their eyeballs .</compressed>
+<original id=bn9623.rpi.txt.960523.261.7>The case leads directly back to two prominent arms companies tied directly to the Chinese Peoples Liberation Army .</original>
+<compressed id=bn9623.rpi.txt.960523.261.7>The case leads back to two prominent arms companies tied to the Chinese Peoples Liberation Army .</compressed>
+<original id=bn9623.rpi.txt.960523.261.8>One called Poly Technologies , which is headed by the son-in-law of Chinese leader Deng Xiaoping .</original>
+<compressed id=bn9623.rpi.txt.960523.261.8>One called Poly Technologies , headed by the son-in-law of Chinese leader Deng Xiaoping .</compressed>
+<original id=bn9623.rpi.txt.960523.261.9>And the other , Norinco , which manufactured the AK-47's seized in the government sting .</original>
+<compressed id=bn9623.rpi.txt.960523.261.9>the other , Norinco , which manufactured the AK-47's seized in the government sting .</compressed>
+<original id=bn9623.rpi.txt.960523.261.10>In fact , authorities told ABC News that undercover agents were preparing to lure two high-ranking Chinese officials here to San Francisco when the sting had to be ended prematurely for fear it had been compromised .</original>
+<compressed id=bn9623.rpi.txt.960523.261.10>undercover agents were preparing to lure two high-ranking Chinese officials to San Francisco when the sting had to be ended prematurely .</compressed>
+<original id=bn9623.rpi.txt.960523.261.11>Brian Ross , ABC News , San Francisco .</original>
+<compressed id=bn9623.rpi.txt.960523.261.11>Brian Ross , ABC News , San Francisco .</compressed>
+<original id=bn9623.rpi.txt.960523.261.12>In Serbia today , President Slobodan Milosevic has pledged to the United States that within one week Bosnian Serb leader Radovan Karadzic will be effectively removed from power .</original>
+<compressed id=bn9623.rpi.txt.960523.261.12>In Serbia today , President Slobodan Milosevic has pledged to the United States that within one week Bosnian Serb leader Radovan Karadzic will be removed from power .</compressed>
+<original id=bn9623.rpi.txt.960523.261.13>Mr. Karadzic , has been indicted by the War Crimes Tribunal in Holland .</original>
+<compressed id=bn9623.rpi.txt.960523.261.13>Karadzic has been indicted by the War Crimes Tribunal in Holland .</compressed>
+<original id=bn9623.rpi.txt.960523.261.14>Back in a moment .</original>
+<compressed id=bn9623.rpi.txt.960523.261.14>Back in a moment .</compressed>
+</text>
+</doc>

@@ -1,0 +1,38 @@
+<doc id=AHX.23>
+<text>
+<original id=AHX.23.0>Boys Gerald Sterling , 13 , the Conservative candidate , had to cut short his speech because he had a music lesson .</original>
+<compressed id=AHX.23.0>Boys Gerald Sterling , 13 , the Conservative candidate , had to cut his speech because he had a lesson .</compressed>
+<original id=AHX.23.1>Alex Orton-Green , 15 , of the Funky Junky Party , wore his long hair in a pigtail , and Robert Hutchinson , 15 , representing the Football Supporters-Normal Persons Party , was standing for everyone who thinks rugby is boring .</original>
+<compressed id=AHX.23.1>Alex Orton-Green , 15 , of the Funky Junky Party , wore his hair in a pigtail , and Robert Hutchinson , 15 , representing the Football Persons Party , was standing for everyone who thinks rugby boring .</compressed>
+<original id=AHX.23.2>The Big Election Debate took place in the Goddard Library of the boys '' school of Haberdashers ' Aske 's Hatcham College in New Cross , south London , which is a City Technology College .</original>
+<compressed id=AHX.23.2>The Election took place in the boys school of Aske 's Hatcham College in London , a City Technology College .</compressed>
+<original id=AHX.23.3>Polling day is on Wednesday .</original>
+<compressed id=AHX.23.3>Polling day is Wednesday .</compressed>
+<original id=AHX.23.4>The mock election has been organised by Mr Ian Gerrard , a history master , chairman of the Literary and Debating Society and returning officer , who confessed that it had been a bit of a `` sleazy '' campaign .</original>
+<compressed id=AHX.23.4>The mock election has been organised by Ian Gerrard , chairman of the Debating Society , who confessed it had been a a `` sleazy '' campaign .</compressed>
+<original id=AHX.23.5>Gerald Sterling neatly summed up the Conservative case : `` Voting Labour means high taxes , high taxes mean less to spend , less to spend means fewer things bought , fewer things bought means fewer things produced , and fewer things produced means less work for everyone. '' His exit left the floor open for the political twins , Matthew Jackson , 13 , for the Socialist Workers , and his brother Thomas , for the Lib Dems .</original>
+<compressed id=AHX.23.5>Gerald Sterling summed up the Conservative case : `` Voting Labour means taxes , less to spend means fewer things bought , and fewer things produced means less work '' His exit left the floor open for twins , Matthew Jackson , 13 , for the Socialist Workers , and brother Thomas , for the Lib Dems .</compressed>
+<original id=AHX.23.6>Matthew 's style was snappy : `` John Major was the Chancellor who got us into recession and he is the Prime Minister who is n't going to get us out ... '' His brother 's party was no better , in his opinion .</original>
+<compressed id=AHX.23.6>Matthew 's style was snappy : `` John Major got us into recession and he is n't going to get us out '' His brother 's party was no better , .</compressed>
+<original id=AHX.23.7>`` The Liberal Democrats have changed their policies eight times in seven years , '' he said .</original>
+<compressed id=AHX.23.7>`` The Liberal Democrats have changed policies eight times in seven years , '' he said .</compressed>
+<original id=AHX.23.8>Thomas Jackson accused his brother of being a Communist .</original>
+<compressed id=AHX.23.8>Thomas Jackson accused his brother of being a Communist .</compressed>
+<original id=AHX.23.9>But he bravely touched on the issue of CTCs , which he said his party would scrap .</original>
+<compressed id=AHX.23.9>he touched on CTCs , which he said his party would scrap .</compressed>
+<original id=AHX.23.10>Sam Stopps , 14 , for Labour , was serious and intense , but caused giggles when he raised the subject of crime .</original>
+<compressed id=AHX.23.10>Sam Stopps , 14 , for Labour , was serious but caused giggles when he raised the subject of crime .</compressed>
+<original id=AHX.23.11>`` To improve crime , we will put more money into the police , '' he pronounced .</original>
+<compressed id=AHX.23.11>`` To improve crime , we will put money into the police , '' he pronounced .</compressed>
+<original id=AHX.23.12>Magnus Fehn , 13 , was representing his own creation , the New Democracy Party , which plans to fleece the rich and tax the Queen .</original>
+<compressed id=AHX.23.12>Magnus Fehn , 13 , was representing his own New Democracy Party , which plans to fleece the rich and tax the Queen .</compressed>
+<original id=AHX.23.13>Both policies got a big hand .</original>
+<compressed id=AHX.23.13>Both policies got a big hand .</compressed>
+<original id=AHX.23.14>Alex Orton-Green wanted to go further .</original>
+<compressed id=AHX.23.14>Alex Orton-Green wanted to go further .</compressed>
+<original id=AHX.23.15>The monarchy should be abolished and the land of the aristocracy confiscated to pay for putting England back on its feet .</original>
+<compressed id=AHX.23.15>The monarchy should be abolished and the land confiscated to pay for putting England on its feet .</compressed>
+<original id=AHX.23.16>The most senior candidate , Adam Matthews , 16 , of the Socialist Labour Party , said his party would abolish the Queen , generals and public schools , put the Royal Family out to work as wardens in nature parks , and prosecute Arsenal under the Trade Descriptions Act for calling themselves a football team .</original>
+<compressed id=AHX.23.16>candidate Adam Matthews , 16 , of the Socialist Labour Party , said his party would abolish the Queen , put the Royal Family to work in nature parks , and prosecute Arsenal under the Trade Descriptions Act for calling themselves a football team .</compressed>
+</text>
+</doc>

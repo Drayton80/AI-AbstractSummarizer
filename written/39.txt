@@ -1,0 +1,42 @@
+<doc id=A88.25>
+<text>
+<original id=A88.25.0>The Prime Minister 's senior advisers will meet this weekend to try to rescue the Government 's student top-up loans scheme , as the clearing banks --- which would run it on the Treasury 's behalf --- stiffen their opposition .</original>
+<compressed id=A88.25.0>The Prime Minister 's advisers will meet to rescue the Government 's student top-up loans scheme , as the banks --- which run it on the Treasury 's behalf --- stiffen their opposition .</compressed>
+<original id=A88.25.1>With only 10 days to finalise the proposals before they must be announced in the Queen 's Speech , Mrs Thatcher 's policy unit , chaired by her senior adviser , Professor Brian Griffiths , is also understood to be considering plans to make sharply increased tuition fees , rather than the block grant , the main means of distributing public money to higher education .</original>
+<compressed id=A88.25.1>With days to finalise proposals before they must be announced in the Queen 's Speech , Mrs Thatcher 's policy unit , chaired by adviser , Professor Brian Griffiths , is considering plans to make sharply increased tuition fees , the means of distributing public money to higher education .</compressed>
+<original id=A88.25.2>The fees would be paid direct to institutions on students ' behalf by local education authorities .</original>
+<compressed id=A88.25.2>The fees would be paid to institutions on students ' behalf by authorities .</compressed>
+<original id=A88.25.3>However , the Treasury is known to be resisting this plan , because without a strict cash limit its control over public spending and manpower planning would be weakened .</original>
+<compressed id=A88.25.3>the Treasury is resisting because without a cash limit its control would be weakened .</compressed>
+<original id=A88.25.4>This weekend 's meeting is the latest in a series of conferences over the past two weeks during which ministers , their advisers , vice-chancellors , polytechnic directors and senior officials have been thrashing out strategies for expanding the higher education system .</original>
+<compressed id=A88.25.4>This meeting is in a series of conferences over the past weeks during which ministers , advisers , vice-chancellors , directors and officials have been thrashing out strategies for expanding higher education .</compressed>
+<original id=A88.25.5>Banking and Tory party sources say that ministerial proposals to charge students a proportion of their tuition fees and other more radical ideas have been abandoned in the face of tough Treasury opposition , the perceived weakening of Mrs Thatcher 's position following Mr Nigel Lawson 's resignation , and her declared intention not to serve a full fourth term if re-elected .</original>
+<compressed id=A88.25.5>sources say that ministerial proposals to charge students tuition fees have been abandoned in the face of Treasury opposition , the weakening of Thatcher 's position following Nigel Lawson 's resignation , and her intention not to serve a full term if re-elected .</compressed>
+<original id=A88.25.6>However , bigger special access funds to encourage poorer students , and a scholarship scheme for bright youngsters have not been ruled out .</original>
+<compressed id=A88.25.6>bigger special access funds and a scholarship scheme have not been ruled out .</compressed>
+<original id=A88.25.7>The clearing banks , which are deeply sceptical about the commercial value to them of the loans scheme , have used the changed political climate to demand a higher price for their participation .</original>
+<compressed id=A88.25.7>The banks , sceptical about the value to them of the loans , have used the political climate to demand a higher price for their participation .</compressed>
+<original id=A88.25.8>This is thought to include demanding a substantial fee for each transaction , indemnities against any change of government or government policy , and for the Government --- not the banks --- to be unequivocally identified as responsible for its introduction .</original>
+<compressed id=A88.25.8>This is thought to include a fee for each transaction , indemnities against change of government policy , and for the Government to be unequivocally identified as responsible for its introduction .</compressed>
+<original id=A88.25.9>Labour has said it will scrap the system .</original>
+<compressed id=A88.25.9>Labour will scrap the system .</compressed>
+<original id=A88.25.10>Legislation on the scheme is due to be unveiled in the Queen 's Speech on November 21 .</original>
+<compressed id=A88.25.10>the scheme is to be unveiled in the Queen 's Speech .</compressed>
+<original id=A88.25.11>The scheme , to be introduced next autumn , would give every student an interest-free loan of up to £420 a year , repayable over 10 or more years .</original>
+<compressed id=A88.25.11>The scheme would give every student an interest-free loan of £420 a year , repayable over 10 years .</compressed>
+<original id=A88.25.12>The policy unit will also discuss an alternative London School of Economics private sector scheme under which the financial institutions , rather than the Treasury , would lend students money , with repayments collected through National Insurance contributions .</original>
+<compressed id=A88.25.12>The policy unit will discuss an alternative London School of Economics scheme under which the financial institutions would lend students money , with repayments collected through National Insurance contributions .</compressed>
+<original id=A88.25.13>This proposal has gathered significant support in recent weeks from higher education chiefs and Tory think-tanks such as the Centre for Policy Studies .</original>
+<compressed id=A88.25.13>This proposal has gathered support from education chiefs and Tory think-tanks .</compressed>
+<original id=A88.25.14>Conservative sources believe the Government 's scheme will survive any backbench revolt in the Commons , but run into severe problems in the Lords .</original>
+<compressed id=A88.25.14>sources believe the Government 's scheme will survive backbench revolt in the Commons , but run into problems in the Lords .</compressed>
+<original id=A88.25.15>However , they do not expect any radical revision to emerge in the run-up to legislation .</original>
+<compressed id=A88.25.15>they do not expect radical revision in the run-up to legislation .</compressed>
+<original id=A88.25.16>But one insider said yesterday that the banks could deal the scheme a mortal blow if they continued to up the price .</original>
+<compressed id=A88.25.16>one insider said the banks could deal the scheme a mortal blow if they up the price .</compressed>
+<original id=A88.25.17>`` There 's a real chance that if the banks really push the price high , public spending becomes such that it would allow Mr John MacGregor , the education secretary , to reopen the whole argument. '' In addition , vice-chancellors and students groups have warned the banks they would move their accounts to non-participating institutions .</original>
+<compressed id=A88.25.17>`` if the banks push the price high , public spending would allow Mr John MacGregor , the education secretary , to reopen the whole argument. '' vice-chancellors and students groups have warned banks they would move their accounts to non-participating institutions .</compressed>
+<original id=A88.25.18>Dr Nick Barr , senior lecturer in economics at the Lse and co-author of the alternative scheme , said : `` It 's very fragile , and there could be a repeat of the New Zealand situation where the banks simply changed their minds , refused to take part , and scuppered the scheme there. ''</original>
+<compressed id=A88.25.18>Dr Nick Barr , lecturer in economics at Lse and co-author of the alternative scheme , said : `` It 's fragile , and there could be a repeat of the New Zealand situation where the banks refused to take part and scuppered the scheme ''</compressed>
+</text>
+</doc>

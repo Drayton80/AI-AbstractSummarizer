@@ -1,0 +1,44 @@
+<doc id=A1G.27>
+<text>
+<original id=A1G.27.0>The People of Montenegro yesterday welcomed home the remains of Nicholas I , their first and last king , after 70 years ' exile in Italy , in belated fulfilment of his last will and testament .</original>
+<compressed id=A1G.27.0>Montenegro welcomed the remains of Nicholas I , their first and last king , after 70 years ' exile in Italy .</compressed>
+<original id=A1G.27.1>Thousands of Montenegrins , many in national costume , waited at the quayside in Bar for the Italian warship that would bring him home .</original>
+<compressed id=A1G.27.1>Montenegrins waited in Bar for the warship that would bring him home .</compressed>
+<original id=A1G.27.2>Then they formed a slow procession behind the coffin into the mountains to the old royal capital of Cetinje for his reburial in the monastery there .</original>
+<compressed id=A1G.27.2>they formed a procession to the old capital of Cetinje for his reburial .</compressed>
+<original id=A1G.27.3>What was surely the last ever Montenegrin `` royal event '' was masterminded by the republic 's new Communist leadership , which has abruptly stopped describing Nicholas as a class enemy , to ride the same wave of popular patriotism and royal fervour which swept Serbia in the recent celebrations of the 600th anniversary of the battle of Kosovo .</original>
+<compressed id=A1G.27.3>the event was masterminded by the Communist leadership to ride the wave of patriotism which swept Serbia in the 600th anniversary of the battle of Kosovo .</compressed>
+<original id=A1G.27.4>The latest biography now calls him `` an outstanding statesman , warrior and man of letters '' .</original>
+<compressed id=A1G.27.4>The latest biography calls him `` an outstanding statesman , warrior and man of letters '' .</compressed>
+<original id=A1G.27.5>`` If I die abroad in exile , let my body rest in a temporary grave until my mortal remains be transferred to our dear homeland , '' said the Montenegrin President , Branko Kostic , reading the royal will and testament to the crowds in Cetinje Square , who carried flags and portraits of Nicholas and his queen , Milena .</original>
+<compressed id=A1G.27.5>`` If I die in exile , let my body rest in a temporary grave until transferred to our homeland , '' said Branko Kostic , reading the royal will .</compressed>
+<original id=A1G.27.6>`` Today the people of Montenegro fulfill the wish of their first and last king guided by innate love and respect for their history , '' he went on. `` Our tourist organisations are counting on big profits , '' said Srdan Darmanovic , a member of the Montenegrin Central Committee .</original>
+<compressed id=A1G.27.6>`` the people of Montenegro fulfill the wish of their king '' he went on. `` tourist organisations are counting on big profits , '' said a member of the Montenegrin Central Committee .</compressed>
+<original id=A1G.27.7>`` This will be good for the Montenegrin economy too. '' Montenegro 's young and go-ahead leadership , which came to power this year amid furious popular dissatisfaction with the `` old men in grey suits '' , sponsored the gathering of Nicholas 's surviving relatives --- the first `` royal reunion '' organised by a Communist government .</original>
+<compressed id=A1G.27.7>`` This will be good for the economy '' Montenegro 's young leadership , which came to power amid dissatisfaction with the `` old men in grey suits '' , sponsored the gathering of Nicholas 's relatives .</compressed>
+<original id=A1G.27.8>`` A letter dropped through the post from the President of the Socialist Republic of Montenegro , inviting me to the funeral , '' said John Kennedy , a Conservative Party member who lives in Barking and is a distant relative of Nicholas .</original>
+<compressed id=A1G.27.8>`` A letter dropped through the post inviting me to the funeral , '' said John Kennedy , a Conservative Party member and distant relative of Nicholas .</compressed>
+<original id=A1G.27.9>Montenegro 's sudden rehabilitation of Nicholas 's memory is a popular move .</original>
+<compressed id=A1G.27.9>Montenegro 's rehabilitation of Nicholas is popular .</compressed>
+<original id=A1G.27.10>`` He liberated us from the Turks and fought for our independence , '' said a small boy who waited at the quayside amid a jostling crowd of former monarchs , visiting Serbian bishops and television crews .</original>
+<compressed id=A1G.27.10>`` He liberated us from the Turks '' said a boy who waited amid former monarchs , Serbian bishops and television crews .</compressed>
+<original id=A1G.27.11>Marko Radoman , 103 , and a veteran of both Balkan wars , was given a place at the front as one of the few with personal memories of Nicholas 's reign .</original>
+<compressed id=A1G.27.11>Marko Radoman , a veteran of both Balkan wars , was given a place at the front .</compressed>
+<original id=A1G.27.12>For a man whom Rebecca West , a contemporary Balkan observer , called `` repulsive '' and `` treacherous '' for deserting his Serbian son-in-law , King Alexander , in the First World War , it is a sepia-tinted view of history .</original>
+<compressed id=A1G.27.12>For a man Rebecca West called `` repulsive '' for deserting his son-in-law , King Alexander , in the First World War , it is a sepia-tinted view of history .</compressed>
+<original id=A1G.27.13>Nicholas was known as `` the uncle of Europe '' for his success in marrying his beautiful but penniless daughters into the grander royal houses of Russia , Serbia and Italy .</original>
+<compressed id=A1G.27.13>Nicholas was known as `` the uncle of Europe '' marrying his daughters into the royal houses of Russia , Serbia and Italy .</compressed>
+<original id=A1G.27.14>This furthered his long-term ambition to rule a large `` south Slav '' kingdom when the Ottoman Empire finally collapsed .</original>
+<compressed id=A1G.27.14>This furthered his ambition to rule a `` south Slav '' kingdom .</compressed>
+<original id=A1G.27.15>One daughter , a grand duchess of Russia , even gained a footnote in history by introducing an unknown monk , Rasputin , to the Russian Tsarina Alexandra .</original>
+<compressed id=A1G.27.15>One daughter gained a footnote in history by introducing Rasputin to Tsarina Alexandra .</compressed>
+<original id=A1G.27.16>In his minute , inaccessible capital , which today has only 15,000 inhabitants , Nicholas erected a miniature European court and an exquisitely furnished Victorian palace .</original>
+<compressed id=A1G.27.16>In his capital , which today has 15,000 inhabitants , Nicholas erected a miniature court and an Victorian palace .</compressed>
+<original id=A1G.27.17>He even persuaded 12 European powers to turn cottages into full embassies .</original>
+<compressed id=A1G.27.17>He persuaded 12 European powers to turn cottages into embassies .</compressed>
+<original id=A1G.27.18>It was a fair achievement in a town which an earlier observer described as `` 44 hovels '' .</original>
+<compressed id=A1G.27.18>It was in a town an earlier observer described as `` 44 hovels '' .</compressed>
+<original id=A1G.27.19>But Nicholas 's grand design collapsed in 1918 when his Serbian son-in-law , Alexander , deposed him and incorporated Montenegro into Yugoslavia .</original>
+<compressed id=A1G.27.19>Nicholas 's design collapsed in 1918 when his Serbian son-in-law incorporated Montenegro into Yugoslavia .</compressed>
+</text>
+</doc>

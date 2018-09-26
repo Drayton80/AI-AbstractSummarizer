@@ -1,0 +1,40 @@
+<doc id=A3W.9>
+<text>
+<original id=A3W.9.0>Going to the theatre , concerts and art galleries remains largely the privilege of the well-off and well-educated , and of more women than men , research shows .</original>
+<compressed id=A3W.9.0>Going to the theatre , concerts and galleries remains the privilege of the well-off and well-educated , and of more women than men .</compressed>
+<original id=A3W.9.1>A year-long survey of the habits of 24,000 adults in England , Wales and Scotland has found that people with an annual household income of £20,000 or more have considerably higher levels of attendance than those in lower income groups .</original>
+<compressed id=A3W.9.1>A survey of 24,000 adults in England , Wales and Scotland has found that people with an household income of £20,000 or more have higher levels of attendance .</compressed>
+<original id=A3W.9.2>It was very high for people who took their full-time education beyond the age of 18 , and higher among women than men for all art forms except jazz and art galleries .</original>
+<compressed id=A3W.9.2>It was very high for people who took full-time education beyond 18 , and higher among women for all except jazz and galleries .</compressed>
+<original id=A3W.9.3>The information , collected for the Arts Council by the British Market Research Bureau , shows that in an average period of four weeks during 1988-89 , 6 per cent of the adult population went to the theatre , 4 per cent to an art gallery , 2 per cent to classical music and 1 per cent to jazz .</original>
+<compressed id=A3W.9.3>The information shows that in an average four weeks during 1988-89 , 6 per cent went to the theatre , 4 to an gallery , 2 to classical music and 1 per cent to jazz .</compressed>
+<original id=A3W.9.4>Over a three-month period , opera attracted 1 per cent of the population but ballet and contemporary dance fewer than 1 per cent .</original>
+<compressed id=A3W.9.4>Over a three-month period , opera attracted 1 per cent but ballet and contemporary dance fewer .</compressed>
+<original id=A3W.9.5>Of the 24,058 people interviewed , 37.7 per cent of women attended arts events and 33.1 per cent of men .</original>
+<compressed id=A3W.9.5>37.7 per cent of women attended arts events and 33.1 per cent of men .</compressed>
+<original id=A3W.9.6>Above the £20,000 income threshold , more than half of those interviewed go to arts events .</original>
+<compressed id=A3W.9.6>Above the £20,000 threshold , more than half go to arts events .</compressed>
+<original id=A3W.9.7>Fewer than 30 per cent of those earning up to £8,000 go , and fewer than 40 per cent of those earning up to £15,000 .</original>
+<compressed id=A3W.9.7>Fewer than 30 per cent of those earning up to £8,000 go , and fewer than 40 per cent of those earning up to £15,000 .</compressed>
+<original id=A3W.9.8>Nearly 55 per cent of people who have been in higher education had been to the theatre in the survey period , but fewer than 19 per cent of those who left school at 16 .</original>
+<compressed id=A3W.9.8>55 per cent of people who have been in higher education had been to the theatre in the survey period , but 19 per cent of those who left school at 16 .</compressed>
+<original id=A3W.9.9>For art galleries the figures are 50 per cent and 16 per cent , for classical music 32 per cent and 8 per cent .</original>
+<compressed id=A3W.9.9>For art galleries the figures are 50 and 16 per cent , for classical music 32 and 8 per cent .</compressed>
+<original id=A3W.9.10>Arts Council officers are understood to be considering changing the practice of handing out separate information about the arts to the different political party conferences .</original>
+<compressed id=A3W.9.10>Arts Council officers are considering changing the practice of handing out information to political party conferences .</compressed>
+<original id=A3W.9.11>As reported in some editions of The Independent last week , the Arts Council leaflet aimed at this week 's Conservative Party conference differs starkly from the one handed out to Labour delegates in Brighton last week .</original>
+<compressed id=A3W.9.11>the Arts Council leaflet at this week 's Conservative Party conference differs from the one handed out to Labour .</compressed>
+<original id=A3W.9.12>The leaflet earmarked for the Tories will stress the earning potential of the arts , its management and marketing skills , and the usefulness of sponsorship .</original>
+<compressed id=A3W.9.12>The leaflet for the Tories will stress the earning potential of the arts , management and marketing skills , and the usefulness of sponsorship .</compressed>
+<original id=A3W.9.13>The leaflet given to Labour activists mentions none of these things , concentrating on how many ordinary people go to arts events .</original>
+<compressed id=A3W.9.13>The leaflet given to Labour mentions how many ordinary people go to arts events .</compressed>
+<original id=A3W.9.14>In a memorable set of class assumptions , the Labour leaflet looks at how many people go to opera , jazz and West End theatres , while in the message to Tories only opera remains .</original>
+<compressed id=A3W.9.14>the Labour leaflet looks at how many people go to opera , jazz and West End theatres , while in the message to Tories only opera remains .</compressed>
+<original id=A3W.9.15>Neil Kinnock appears to have failed to convince the Arts Council that his party now has a wide constituency covering large sections of the middle classes , and might have business contacts .</original>
+<compressed id=A3W.9.15>Neil Kinnock appears to have failed to convince the Arts Council that his party has a wide constituency , and might have business contacts .</compressed>
+<original id=A3W.9.16>The Labour leaflet compared the numbers going to the Royal Shakespeare Company with attendances at Wembley Stadium , Aida with the Ideal Home Exhibition , and ballet , somewhat incongruously , with Rugby Union .</original>
+<compressed id=A3W.9.16>The Labour leaflet compared numbers going to the Royal Shakespeare Company with attendances at Wembley Stadium , Aida with the Ideal Home Exhibition , and ballet with Rugby Union .</compressed>
+<original id=A3W.9.17>And , without a hint of irony , under the heading `` All kinds of people enjoy the arts '' , it says that 3.1 million News of the World readers go to the theatre , and 1,157,000 Sun readers attend art galleries or exhibitions .</original>
+<compressed id=A3W.9.17>it says that 3.1 million News of the World readers go to the theatre , and 1,157,000 Sun readers attend exhibitions .</compressed>
+</text>
+</doc>

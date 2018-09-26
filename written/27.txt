@@ -1,0 +1,44 @@
+<doc id=A9V.3>
+<text>
+<original id=A9V.3.0>The man responsible for uncovering South Africa 's hit-squad scandal , the condemned security branch policeman Almond Nofomela , is being brought to court tomorrow by the authorities who are seemingly intent on hurrying him on to his postponed appointment with the hangman .</original>
+<compressed id=A9V.3.0>The man responsible for uncovering South Africa 's hit-squad scandal , policeman Almond Nofomela , is being brought to court by the authorities who are intent on his appointment with the hangman .</compressed>
+<original id=A9V.3.1>Mr Nofomela is to appear in a Natal magistrate 's court to be charged with the murder of the Durban civil rights lawyer , Griffiths Mxenge .</original>
+<compressed id=A9V.3.1>Mr Nofomela is to be charged with the murder of Durban civil rights lawyer , Griffiths Mxenge .</compressed>
+<original id=A9V.3.2>It was Mr Nofomela 's confession to the killing --- the day before he was due to be executed for the murder of a white farmer --- which led to the disclosures that the force has been running professional death squads .</original>
+<compressed id=A9V.3.2>Mr Nofomela 's confession to the killing --- the day before he was to be executed for the murder of a white farmer --- led to the disclosures that the force has been running death squads .</compressed>
+<original id=A9V.3.3>The civil rights organisation , Lawyers for Human Rights , was yesterday hastily making arrangements to find a defence team for Mr Nofomela .</original>
+<compressed id=A9V.3.3>The civil rights organisation , Lawyers for Human Rights , was making arrangements to find a defence team for Mr Nofomela .</compressed>
+<original id=A9V.3.4>A director , Mr Ahmed Motala , said they had been informed by the Attorney General 's office `` that no request for a postponement will be entertained '' .</original>
+<compressed id=A9V.3.4>director Ahmed Motala , said they had been informed by the Attorney General 's office `` no request for a postponement will be entertained '' .</compressed>
+<original id=A9V.3.5>So far as is known , nobody else has been arrested or charged in connection with the murder of Mr Mxenge The State President , Mr F. W. de Klerk , last week refused to order a judicial commission of inquiry into the death-squad allegations on the ground that it would be faster to use the `` tried and respected prosecution mechanisms of the state '' .</original>
+<compressed id=A9V.3.5>nobody has been charged with the murder of Mr Mxenge The State President , Mr F. W. de Klerk , refused to order a commission of inquiry into the death-squad allegations on the ground that it would be faster to use the `` prosecution mechanisms of the state '' .</compressed>
+<original id=A9V.3.6>He said it was crucial that the matter be settled quickly so that the police could `` continue unhindered with the important tasks that lie ahead '' .</original>
+<compressed id=A9V.3.6>He said it was crucial that the matter be settled so the police could `` continue with the tasks ahead '' .</compressed>
+<original id=A9V.3.7>An opposition Mp , Mr Jan Van Eck , yesterday accused the police of complicity in the latest fighting to break out at the Cape Town squatter camp , Crossroads .</original>
+<compressed id=A9V.3.7>Mp Mr Jan Van Eck , accused the police of complicity in the latest fighting at the Cape Town squatter camp .</compressed>
+<original id=A9V.3.8>Mr Van Eck said that he had recorded documentary evidence that police --- some in plain clothes --- had been shooting supporters of local headmen who had broken away from the committee running Crossroads , alleging fraud and corruption .</original>
+<compressed id=A9V.3.8>Mr Van Eck said he had evidence that police had been shooting supporters of headmen who had broken away from the committee running Crossroads , alleging corruption .</compressed>
+<original id=A9V.3.9>Five people have died in the violence , which broke out on Sunday night .</original>
+<compressed id=A9V.3.9>Five people have died in the violence which broke out Sunday .</compressed>
+<original id=A9V.3.10>In townships outside Durban another three deaths were reported yesterday in continued fighting between supporters of the Zulu leader , Chief Mangosuthu Buthelezi , and the United Democratic Front --- bringing the weekend death toll to 21 .</original>
+<compressed id=A9V.3.10>outside Durban three deaths were reported yesterday in fighting between supporters of the Zulu leader Buthelezi , and the United Democratic Front --- bringing the toll to 21 .</compressed>
+<original id=A9V.3.11>The violence appears to been started by an offensive against the Udf by Zulu warlords which began in the early hours of Saturday morning .</original>
+<compressed id=A9V.3.11>The violence started by an offensive by Zulu warlords early Saturday .</compressed>
+<original id=A9V.3.12>In Johannesburg two men died in overnight bomb explosions at the city 's main railway station .</original>
+<compressed id=A9V.3.12>In Johannesburg two men died in bomb explosions at the city 's railway station .</compressed>
+<original id=A9V.3.13>Police said they believed the men --- Yusuf Akhalwaya , aged 23 , a fourth-year student at the University of the Witwatersrand , and Prakash Napier , aged 24 , a part-time student --- were carrying landmines which exploded prematurely .</original>
+<compressed id=A9V.3.13>Police believed the men --- Yusuf Akhalwaya , a student , and Prakash Napier , a student --- were carrying landmines which exploded .</compressed>
+<original id=A9V.3.14>A Soviet-made pistol was found at the scene of the explosion and a large arms cache --- including 17 mines , assault rifles and hand grenades --- was later discovered at the home of the two men .</original>
+<compressed id=A9V.3.14>A pistol was found at the scene and a large arms cache was discovered at the home of the men .</compressed>
+<original id=A9V.3.15>Another bomb blast was reported on a railway line outside Cape Town .</original>
+<compressed id=A9V.3.15>Another bomb blast was reported on a railway outside Cape Town .</compressed>
+<original id=A9V.3.16>The explosions may have been linked with a particularly violent six-week strike by railway workers in which seven people have died .</original>
+<compressed id=A9V.3.16>The explosions have been linked with a violent strike by railway workers in which seven people have died .</compressed>
+<original id=A9V.3.17>Much of the violence has been blamed on mysterious `` vigilantes '' who have attacked township commuters refusing to pay their fares in solidarity with the strikers .</original>
+<compressed id=A9V.3.17>Much of the violence has been blamed on `` vigilantes '' who attacked commuters refusing solidarity with the strikers .</compressed>
+<original id=A9V.3.18>President De Klerk will visit Maputo on Friday for talks with the Mozambican President , Mr Joaquim Chissano , the national news agency , Aim , said yesterday .</original>
+<compressed id=A9V.3.18>President De Klerk will visit Maputo for talks with the Mozambican President , Mr Joaquim Chissano .</compressed>
+<original id=A9V.3.19>No details of the agenda were immediately available .</original>
+<compressed id=A9V.3.19>No details were available .</compressed>
+</text>
+</doc>

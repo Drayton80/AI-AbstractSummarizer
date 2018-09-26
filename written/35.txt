@@ -1,0 +1,44 @@
+<doc id=A59.27>
+<text>
+<original id=A59.27.0>A Policeman was yesterday jailed for seven years for raping an 18-year-old woman in his marked patrol car while he was on duty and in uniform .</original>
+<compressed id=A59.27.0>A Policeman was jailed for seven years for raping an 18-year-old woman while on duty .</compressed>
+<original id=A59.27.1>Sentencing Constable Peter Anderson , 41 , Mr Justice Jowitt told him he had done `` great damage to the trust in police '' .</original>
+<compressed id=A59.27.1>Sentencing Constable Peter Anderson , 41 , Mr Justice Jowitt told him he had done `` great damage to police '' .</compressed>
+<original id=A59.27.2>Anderson , married with two children , attacked the woman in a deserted allotment , after agreeing to give her and a boyfriend a lift home from a discotheque .</original>
+<compressed id=A59.27.2>Anderson attacked the woman in a allotment , after agreeing to give her and a boyfriend a lift home from a discotheque .</compressed>
+<original id=A59.27.3>He first dropped the man off and then drove to the allotment .</original>
+<compressed id=A59.27.3>He dropped the man off and drove to the allotment .</compressed>
+<original id=A59.27.4>He threatened her by forcing his truncheon under her chin and then raped her .</original>
+<compressed id=A59.27.4>He threatened her and raped her .</compressed>
+<original id=A59.27.5>She said he only refrained from inserting his truncheon into her , after she begged him not to .</original>
+<compressed id=A59.27.5>he refrained from inserting his truncheon into her , after she begged him not to .</compressed>
+<original id=A59.27.6>Afterwards he told her not to report the incident because he could have her `` nicked '' for soliciting .</original>
+<compressed id=A59.27.6>he told her he could have her `` nicked '' for soliciting .</compressed>
+<original id=A59.27.7>She did not report it because she did not think she would be believed .</original>
+<compressed id=A59.27.7>She did not report it .</compressed>
+<original id=A59.27.8>Police investigated after an anonymous report .</original>
+<compressed id=A59.27.8>Police investigated after an anonymous report .</compressed>
+<original id=A59.27.9>The victim , now 20 , said she had drunk nine or 10 Pernods with blackcurrant and was merry , but knew what she was doing and saying .</original>
+<compressed id=A59.27.9>The victim had drunk and was merry , but knew what she was doing .</compressed>
+<original id=A59.27.10>She said she tried to push him off , but he was too forceful .</original>
+<compressed id=A59.27.10>she tried to push him off .</compressed>
+<original id=A59.27.11>Mr Justice Jowitt told Anderson : `` I accept that you were not on the prowl looking for a victim and that it was by chance that this young lady got into your car .</original>
+<compressed id=A59.27.11>Mr Justice Jowitt told Anderson : `` I accept you were not looking for a victim and it was by chance this young lady got into your car .</compressed>
+<original id=A59.27.12>I accept that there was no great degree of violence used by you .</original>
+<compressed id=A59.27.12>there was no great degree of violence used .</compressed>
+<original id=A59.27.13>`` But you took her against her will in your car to the place where this rape happened , and one of the very disturbing and serious features of this case is the way you abused your position as a police officer in uniform on duty. '' The judge added : `` This girl plainly trusted herself in your company , as she was entitled to .</original>
+<compressed id=A59.27.13>`` But you took her against her will to where this rape happened , and you abused your position This girl trusted your company .</compressed>
+<original id=A59.27.14>The public expect that they can treat the police with confidence .</original>
+<compressed id=A59.27.14>The public expect they can treat police with confidence .</compressed>
+<original id=A59.27.15>You did great damage to that trust in the police when you behaved in this way. '' Anderson , who had pleaded not guilty and claimed the woman had handed him `` sex on a plate '' , was convicted by a 10-2 majority of raping the woman on 4 April , last year .</original>
+<compressed id=A59.27.15>You did great damage to that trust '' Anderson , who had pleaded not guilty , was convicted by a 10-2 majority on 4 April , last year .</compressed>
+<original id=A59.27.16>He claimed she had instigated the intercourse by first , and without invitation , performing oral sex on him .</original>
+<compressed id=A59.27.16>He claimed she had instigated the intercourse by performing oral sex on him .</compressed>
+<original id=A59.27.17>He said he had only offered to use the truncheon as a sex aid but desisted when she shook her head .</original>
+<compressed id=A59.27.17>he had offered to use the truncheon as a sex aid but desisted when she shook her head .</compressed>
+<original id=A59.27.18>Jean Southworth , Qc , in mitigation , said : `` This was not a case of him taking away the virginity of this young woman .</original>
+<compressed id=A59.27.18>Jean Southworth , Qc said : `` This was not a case of taking away the virginity of this woman .</compressed>
+<original id=A59.27.19>`` He has lost his pension rights and the personal affection of those dear to him and also , when a police officer goes to prison , he often carries an extra load for his misdoings. ''</original>
+<compressed id=A59.27.19>`` He has lost his pension rights and the affection of those dear to him ''</compressed>
+</text>
+</doc>

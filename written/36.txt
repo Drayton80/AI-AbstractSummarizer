@@ -1,0 +1,40 @@
+<doc id=A59.30>
+<text>
+<original id=A59.30.0>Kent Police began re-interviewing 1,500 people in Deal yesterday in an unusual move to develop leads on last month 's bombing of the Royal Marines ' barracks in the town .</original>
+<compressed id=A59.30.0>Kent Police began re-interviewing 1,500 people in Deal to develop leads on last month 's bombing of the Royal Marines ' barracks .</compressed>
+<original id=A59.30.1>Hundreds arrived to be registered at a special inquiry centre in St Saviour 's church , which will be open from 10am to 10pm until tomorrow night .</original>
+<compressed id=A59.30.1>Hundreds registered at a inquiry centre , which will be open from 10am to 10pm .</compressed>
+<original id=A59.30.2>A video showing the alleged Ira safe house at 17 Campbell Road , asked people viewing it to try to remember whether they had seen , inadvertedly had drinks with , or queued at shops with members of the Ira unit .</original>
+<compressed id=A59.30.2>A video showing the alleged Ira safe house at 17 Campbell Road , asked people to try to remember whether they had seen members of the Ira unit .</compressed>
+<original id=A59.30.3>Police believe the unit wandered openly in the Deal area and may have visited local pubs .</original>
+<compressed id=A59.30.3>Police believe the unit wandered in the area .</compressed>
+<original id=A59.30.4>Drawings of three suspects , two men and a woman , are posted in the church .</original>
+<compressed id=A59.30.4>Drawings of three suspects , two men and a woman , are posted .</compressed>
+<original id=A59.30.5>Lists of questions ask about possible suspicious sightings of people and vehicles around the barracks and taxi rides to and from the area to pubs or Dover docks .</original>
+<compressed id=A59.30.5>Lists of questions ask about suspicious sightings around the barracks and taxi rides to pubs or Dover docks .</compressed>
+<original id=A59.30.6>Det Chief Insp Nick Biddiss said : `` People may still know things they have forgotten to mention and we hope this exercise will jog their memories. '' Officers sat in booths in a side chapel for people wanting to give confidential interviews .</original>
+<compressed id=A59.30.6>Det Chief Insp Nick Biddiss said : `` People may know things and we hope this will jog their memories. '' Officers sat in booths for confidential interviews .</compressed>
+<original id=A59.30.7>Police hope to identify men seen several times in the Campbell Road area in the six days between 16 September , when the Ira unit apparently left the safe house , and the bombing .</original>
+<compressed id=A59.30.7>Police hope to identify men seen in Campbell Road between 16 September and the bombing .</compressed>
+<original id=A59.30.8>The officers know that time is against them as new descriptions from members of the public may be distorted by sight of the published artist 's impressions .</original>
+<compressed id=A59.30.8>officers know descriptions from the public may be distorted by the published artist 's impressions .</compressed>
+<original id=A59.30.9>They are interested in at least a dozen taxi journeys reported between Dover and the Campbell Road area in the month before the bombing .</original>
+<compressed id=A59.30.9>They are interested in a dozen taxi journeys between Dover and Campbell Road in the month before the bombing .</compressed>
+<original id=A59.30.10>The officers are also anxious to hear from people who noticed any suspicious strangers seeking rented accommodation in the Deal area during the last 18 months .</original>
+<compressed id=A59.30.10>The officers are anxious to hear from people who noticed suspicious strangers seeking rented accommodation during the last 18 months .</compressed>
+<original id=A59.30.11>Their latest lead is a white transit van reportedly seen near the barracks in the week before the bombing .</original>
+<compressed id=A59.30.11>Their latest lead is a white van seen near the barracks the week before the bombing .</compressed>
+<original id=A59.30.12>This could provide a clue as to the bombers ' whereabouts between 16 September and the bombing , which killed 10 bandsmen .</original>
+<compressed id=A59.30.12>This could provide a clue as to the bombing , which killed 10 .</compressed>
+<original id=A59.30.13>A light brown Mk Ii Cortina is believed to have broken down when used by the Ira unit and a black E registration Nissan Micra was seen near the barracks the night before the bombing .</original>
+<compressed id=A59.30.13>A brown Mk Ii Cortina is believed to have broken down when used and a black E registration Nissan Micra was seen near the barracks .</compressed>
+<original id=A59.30.14>Among those expected to be re-interviewed are Kathy Brown , 47 , who usually cleans the Campbell Road house , which was let as a holiday home .</original>
+<compressed id=A59.30.14>Among those expected to be re-interviewed are Kathy Brown who cleans the Campbell Road house .</compressed>
+<original id=A59.30.15>She said yesterday that the three-bedroom property was capable of sleeping five people comfortably .</original>
+<compressed id=A59.30.15>She said the property was capable of sleeping five .</compressed>
+<original id=A59.30.16>Mrs Brown last cleaned the house at the end of July and was away when the Ira suspects used it. Another resident , Williamine Dyson , 65 , who looked after spare keys for the holiday home , said yesterday she saw a man lingering near the base at the end of August and then walking up Campbell Road .</original>
+<compressed id=A59.30.16>Mrs Brown cleaned the house at the end of July and was away when the suspects used it. Williamine Dyson saw a man lingering near the base at the end of August and then walking up Campbell Road .</compressed>
+<original id=A59.30.17>She added that she never saw the suspected occupants of the house .</original>
+<compressed id=A59.30.17>She added she never saw the suspected occupants .</compressed>
+</text>
+</doc>

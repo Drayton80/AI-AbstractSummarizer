@@ -1,0 +1,44 @@
+<doc id=A3G.26>
+<text>
+<original id=A3G.26.0>Conservationists are concerned about the decline in the Scottish population of capercaillie , a bird of the old pine woods and the largest member of the grouse family .</original>
+<compressed id=A3G.26.0>Conservationists are concerned about the decline of capercaillie , the largest member of the grouse family .</compressed>
+<original id=A3G.26.1>The capercaillie , one of Britain 's most spectacular game birds , is prized by European trophy hunters .</original>
+<compressed id=A3G.26.1>The capercaillie , one of Britain 's most spectacular birds , is prized by hunters .</compressed>
+<original id=A3G.26.2>But as it has retreated towards its heartland in the Tay , Dee and Spey valleys , most sporting estates have imposed a voluntary moratorium on shooting .</original>
+<compressed id=A3G.26.2>as it has retreated most sporting estates have imposed a moratorium on shooting .</compressed>
+<original id=A3G.26.3>Roy Dennis , North of Scotland officer for the Royal Society for the Protection of Birds , said there could be as few as 2,000 left in the highlands , an 80 per cent decline in the past 15 years .</original>
+<compressed id=A3G.26.3>Roy Dennis , North of Scotland officer for the Royal Society for the Protection of Birds , said there could be an 80 per cent decline in the past 15 years .</compressed>
+<original id=A3G.26.4>`` I would n't say it was the last ditch for the capercaillie .</original>
+<compressed id=A3G.26.4>`` I would n't say it was the last for the capercaillie .</compressed>
+<original id=A3G.26.5>But it is concerning. '' Poor breeding in wet , cold springs ; clear-felling of Scots pine forests ; the proliferation of dense sitka spruce plantations ; and over-shooting have all been suggested as contributing to the capercaillie 's retreat .</original>
+<compressed id=A3G.26.5>'' Poor breeding ; clear-felling of forests ; the proliferation of spruce plantations ; and over-shooting have all been suggested as contributing to the capercaillie 's retreat .</compressed>
+<original id=A3G.26.6>Robert Moss , the leading British expert on capercaillie , believes that habitat destruction and modern forestry practices played an important role .</original>
+<compressed id=A3G.26.6>Moss , the leading expert on capercaillie , believes habitat destruction and forestry practices played an important role .</compressed>
+<original id=A3G.26.7>`` The future of the capercaillie will depend on how good a habitat we provide for them in our new forests , '' he said .</original>
+<compressed id=A3G.26.7>`` The future of the capercaillie will depend on habitat '' .</compressed>
+<original id=A3G.26.8>The bird 's retreat has led the Forestry Commission to modify three of its forests to make them more welcoming to capercaillie .</original>
+<compressed id=A3G.26.8>The retreat has led the Forestry Commission to modify three forests to make them more welcoming to capercaillie .</compressed>
+<original id=A3G.26.9>This has involved thinning trees , opening up glades around mature Scots pines and planting juniper and blackberries .</original>
+<compressed id=A3G.26.9>This involved thinning trees , opening glades around Scots pines and planting juniper and blackberries .</compressed>
+<original id=A3G.26.10>The experiment was prompted by a survey of the commission 's forests in northern Scotland .</original>
+<compressed id=A3G.26.10>The experiment was prompted by a survey of the forests in northern Scotland .</compressed>
+<original id=A3G.26.11>Assisted by the Rspb , the commission circulated questionnaires among its rangers in Highland and Grampian regions .</original>
+<compressed id=A3G.26.11>Assisted by the Rspb , the commission circulated questionnaires among its rangers .</compressed>
+<original id=A3G.26.12>The results showed that capercaillie had vanished from 12 of the 56 forests which had held them for 20 years , and numbers had declined in nearly all the other forests .</original>
+<compressed id=A3G.26.12>The results showed that capercaillie had vanished from 12 of the 56 forests , and had declined in all the other forests .</compressed>
+<original id=A3G.26.13>The commission has sponsored the Institute of Terrestrial Ecology ( Ite ) at Banchory , near Aberdeen , to examine how modern forests can be made capercaillie-friendly .</original>
+<compressed id=A3G.26.13>The commission has sponsored the Institute of Terrestrial Ecology near Aberdeen , to examine how forests can be made capercaillie-friendly .</compressed>
+<original id=A3G.26.14>Capercaillie in Scotland have already come back from near extinction once .</original>
+<compressed id=A3G.26.14>Capercaillie have come back from near extinction once .</compressed>
+<original id=A3G.26.15>They died out in the eighteenth century as a result of deforestation and hunting .</original>
+<compressed id=A3G.26.15>They died out in the eighteenth century as a result of deforestation and hunting .</compressed>
+<original id=A3G.26.16>The species was successfully re-established in Perthshire with birds from Sweden in the 1830s .</original>
+<compressed id=A3G.26.16>The species was re-established with birds from Sweden in the 1830s .</compressed>
+<original id=A3G.26.17>By the turn of this century they were plentiful in Scotland , eventually becoming so numerous that commercial foresters regarded them as vermin because of their liking for pine buds and needles ( a trait which , according to gourmets , makes them taste strongly of turpentine ) .</original>
+<compressed id=A3G.26.17>they were plentiful in Scotland , eventually regarded them as vermin because of their liking for pine buds which makes them taste of turpentine .</compressed>
+<original id=A3G.26.18>Their last population peak was 1974 .</original>
+<compressed id=A3G.26.18>Their population peak was 1974 .</compressed>
+<original id=A3G.26.19>Since then there has been a long decline .</original>
+<compressed id=A3G.26.19>there has been a decline .</compressed>
+</text>
+</doc>

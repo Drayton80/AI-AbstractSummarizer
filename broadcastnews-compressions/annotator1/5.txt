@@ -1,0 +1,53 @@
+<doc id=bn9622.rpi_segs.txt.960601.552>
+<annotator>annotator1</annotator>
+<text>
+<original id=bn9622.rpi_segs.txt.960601.552.0>What could be more frustrating than wasting time stuck in traffic ?</original>
+<compressed id=bn9622.rpi_segs.txt.960601.552.0>What could be more frustrating than wasting time in traffic ?</compressed>
+<original id=bn9622.rpi_segs.txt.960601.552.1>But imagine a future where you could read a book while a computer takes the wheel .</original>
+<compressed id=bn9622.rpi_segs.txt.960601.552.1>imagine you read while a computer takes the wheel .</compressed>
+<original id=bn9622.rpi_segs.txt.960601.552.2>As Dick Wilson explains , the era of automated driving could be just down the road .</original>
+<compressed id=bn9622.rpi_segs.txt.960601.552.2>the era of automated driving could be down the road .</compressed>
+<original id=bn9622.rpi_segs.txt.960601.552.3>Pull up alongside a vehicle of the not-so-distant future and take a good look inside Researchers call them Smart Cars and they could give the phrase `` back seat driver ' a whole new meaning .</original>
+<compressed id=bn9622.rpi_segs.txt.960601.552.3>Smart Cars give `` back seat driver ' a new meaning .</compressed>
+<original id=bn9622.rpi_segs.txt.960601.552.4>That 's the goal , actually , of the automated highway system- is to allow a commuter on his morning commute to sit back and , you know , catch up on work , make phone calls .</original>
+<compressed id=bn9622.rpi_segs.txt.960601.552.4>the goal of the automated highway system- is to allow a commuter to sit back and make phone calls .</compressed>
+<original id=bn9622.rpi_segs.txt.960601.552.5>Scientists at Carnegie Mellon University have been building prototypes of automated , driver-less vehicles for the last 10 years .</original>
+<compressed id=bn9622.rpi_segs.txt.960601.552.5>Scientists have been building driver-less vehicles for years .</compressed>
+<original id=bn9622.rpi_segs.txt.960601.552.6>Five years ago , the vehicle dubbed Nav Lab [ sp ] Two was a bulky Humvee , loaded down with cumbersome computers and camera systems .</original>
+<compressed id=bn9622.rpi_segs.txt.960601.552.6>Five years ago , the vehicle Nav Lab Two was bulky with computers and camera systems .</compressed>
+<original id=bn9622.rpi_segs.txt.960601.552.7>The gear enabled the computer program to see the road .</original>
+<compressed id=bn9622.rpi_segs.txt.960601.552.7>The gear enabled the computer to see the road .</compressed>
+<original id=bn9622.rpi_segs.txt.960601.552.8>Today , Nav Lab Five is a streamlined package that fits into a sedan , and its systems can help if there 's someone at the wheel , as well .</original>
+<compressed id=bn9622.rpi_segs.txt.960601.552.8>Today , Nav Lab Five fits into a sedan , and can help if there 's someone at the wheel .</compressed>
+<original id=bn9622.rpi_segs.txt.960601.552.9>These vehicles here are designed both for automated steering like the Humvees , but also to monitor human drivers ' performance , to warn them if they 're going to get in an accident .</original>
+<compressed id=bn9622.rpi_segs.txt.960601.552.9>These vehicles are designed for automated steering , also to monitor drivers ' performance .</compressed>
+<original id=bn9622.rpi_segs.txt.960601.552.10>So , if I start to drift to the inside , it 'll trigger an alarm as soon as my wheel- one of the tires gets outside the lane boundary .</original>
+<compressed id=bn9622.rpi_segs.txt.960601.552.10>if I drift , it 'll trigger an alarm as the tires gets outside the lane .</compressed>
+<original id=bn9622.rpi_segs.txt.960601.552.11>The system relies on a small video camera inside the car to see what 's going on outside .</original>
+<compressed id=bn9622.rpi_segs.txt.960601.552.11>The system relies on a video camera .</compressed>
+<original id=bn9622.rpi_segs.txt.960601.552.12>It looks for lane markers on the highway to help keep the car and the driver on the road .</original>
+<compressed id=bn9622.rpi_segs.txt.960601.552.12>It looks for lane markers to keep the car on the road .</compressed>
+<original id=bn9622.rpi_segs.txt.960601.552.13>The camera 's mounted just below the rear view mirror , and it looks at a trapezoidal shape 20 meters ahead of the vehicle .</original>
+<compressed id=bn9622.rpi_segs.txt.960601.552.13>mounted below the rear view mirror , it looks ahead .</compressed>
+<original id=bn9622.rpi_segs.txt.960601.552.14>The image is analyzed by a portable , computer workstation mounted inside the car , powered by the cigarette lighter .</original>
+<compressed id=bn9622.rpi_segs.txt.960601.552.14>The image is analyzed by a computer powered by the cigarette lighter .</compressed>
+<original id=bn9622.rpi_segs.txt.960601.552.15>In a test last summer , a Nav Lab van traveled from Washington to San Diego .</original>
+<compressed id=bn9622.rpi_segs.txt.960601.552.15>a Nav Lab van traveled from Washington to San Diego .</compressed>
+<original id=bn9622.rpi_segs.txt.960601.552.16>More than 90 percent of the trip was driven and controlled by the computer , just about everything but the breaks .</original>
+<compressed id=bn9622.rpi_segs.txt.960601.552.16>90 percent of the trip was controlled by the computer , everything but the breaks .</compressed>
+<original id=bn9622.rpi_segs.txt.960601.552.17>But there were some bumps in the road .</original>
+<compressed id=bn9622.rpi_segs.txt.960601.552.17>there were bumps in the road .</compressed>
+<original id=bn9622.rpi_segs.txt.960601.552.18>It has trouble in situations that human drivers sometimes have trouble in also .</original>
+<compressed id=bn9622.rpi_segs.txt.960601.552.18>It has trouble in situations that drivers have trouble in .</compressed>
+<original id=bn9622.rpi_segs.txt.960601.552.19>The one- one of the most difficult situations is a rainy night with on-coming headlights sort of blinding you because of the reflections off the roadway .</original>
+<compressed id=bn9622.rpi_segs.txt.960601.552.19>one of the difficult situations is a rainy night with on-coming headlights .</compressed>
+<original id=bn9622.rpi_segs.txt.960601.552.20>Researchers expect it will be another 10 years or so before they get all the bugs worked out of an automated driving system , but the accident warning program could be added to existing vehicles within two years , initially to trucks which researchers say have a high accident rate .</original>
+<compressed id=bn9622.rpi_segs.txt.960601.552.20>it will be 10 years before automated driving , but the accident warning program could be added to existing trucks .</compressed>
+<original id=bn9622.rpi_segs.txt.960601.552.21>One in four heavy trucks are involved in this kind of accident within their operational lifetime , so it would be a monetary win for trucking companies if we could sell it for $ 2,000 .</original>
+<compressed id=bn9622.rpi_segs.txt.960601.552.21>One in four trucks are in this kind of accident , so it would be a win for trucking companies for $ 2,000</compressed>
+<original id=bn9622.rpi_segs.txt.960601.552.22>The goal is to make the highways a little safer by keeping an extra eye on the road and one day two hands off the wheel .</original>
+<compressed id=bn9622.rpi_segs.txt.960601.552.22>make the highways safer by keeping an eye on the road and hands off the wheel .</compressed>
+<original id=bn9622.rpi_segs.txt.960601.552.23>Dick Wilson , CNN , Pittsburgh , Pennsylvania .</original>
+<compressed id=bn9622.rpi_segs.txt.960601.552.23>Dick Wilson , Pennsylvania .</compressed>
+</text>
+</doc>

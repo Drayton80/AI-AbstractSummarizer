@@ -1,0 +1,40 @@
+<doc id=latwp950904.0039>
+<text>
+<original id=latwp950904.0039.0>NEW YORK - William Kunstler , the lawyer whose passionate defense of radical causes and political pariahs catapulted him to fame and controversy within the American legal system , died Monday at the age of 76 at the Columbia-Presbyterian Medical Center in Manhattan .</original>
+<compressed id=latwp950904.0039.0>William Kunstler , the lawyer whose defense of radical causes and pariahs catapulted him to fame , died Monday at 76 in Manhattan .</compressed>
+<original id=latwp950904.0039.1>His death from cardiac arrest was tearfully announced by his law partner , Ron Kuby .</original>
+<compressed id=latwp950904.0039.1>His death was announced .</compressed>
+<original id=latwp950904.0039.2>Kunstler had been hospitalized since Aug. 28 and had received a pacemaker in hopes of stabilizing his heart .</original>
+<compressed id=latwp950904.0039.2>Kunstler had been hospitalized since Aug. 28 and had received a pacemaker .</compressed>
+<original id=latwp950904.0039.3>In a recent interview , Kunstler , whose clients over a long and often stormy career ranged from the Chicago Seven to Martin Luther King Jr. to comedian Lenny Bruce , discussed how he wished to die .</original>
+<compressed id=latwp950904.0039.3>Kunstler , whose clients ranged from the Chicago Seven to Martin Luther King Jr. to Lenny Bruce , discussed how he wished to die .</compressed>
+<original id=latwp950904.0039.4>He said he hoped to be delivering an impassioned summation to a jury when he passed away , slipping from the lectern to the courtroom floor .</original>
+<compressed id=latwp950904.0039.4>He hoped to be delivering an impassioned summation to a jury when he passed away , slipping to the courtroom floor .</compressed>
+<original id=latwp950904.0039.5>`` I do n't want to lead a life of quiet desperation , '' he said of his life and legal practice .</original>
+<compressed id=latwp950904.0039.5>`` I do n't want to lead a life of quiet desperation , '' he said .</compressed>
+<original id=latwp950904.0039.6>`` Bill was America 's authentic radical lawyer , '' said Norman Siegel , director of the American Civil Liberties Union in New York , who knew him as a friend and attorney .</original>
+<compressed id=latwp950904.0039.6>`` Bill was America 's radical lawyer , '' said Norman Siegel , who knew him .</compressed>
+<original id=latwp950904.0039.7>Throughout most of his career , the deep-spoken lawyer battled the system with theatrical flair .</original>
+<compressed id=latwp950904.0039.7>Throughout his career , the lawyer battled with flair .</compressed>
+<original id=latwp950904.0039.8>`` I enjoy the spotlight as most humans do , '' he explained , `` but it 's not my whole raison d'etre .</original>
+<compressed id=latwp950904.0039.8>`` I enjoy the spotlight , but it 's not my raison d'etre .</compressed>
+<original id=latwp950904.0039.9>My purpose is to keep the state from becoming all-domineering , all powerful. '' He scored some notable successes .</original>
+<compressed id=latwp950904.0039.9>My purpose is to keep the state from becoming all powerful. '' He scored some successes .</compressed>
+<original id=latwp950904.0039.10>He defended the Chicago Seven anti-war activists against charges of conspiring to incite riots at the Democratic National Convention in 1968 .</original>
+<compressed id=latwp950904.0039.10>He defended the Chicago Seven against charges to incite riots at the Democratic National Convention in 1968 .</compressed>
+<original id=latwp950904.0039.11>Jurors acquitted the seven defendants of conspiracy charges .</original>
+<compressed id=latwp950904.0039.11>Jurors acquitted the defendants .</compressed>
+<original id=latwp950904.0039.12>Five were found guilty of incitement .</original>
+<compressed id=latwp950904.0039.12>Five were guilty of incitement .</compressed>
+<original id=latwp950904.0039.13>Kunstler persuaded a jury in 1991 to acquit El Sayyid A. Nosair on charges of killing Rabbi Meir Kahane , the founder of the militant Jewish Defense League , even though Nosair , holding a gun , was seen fleeing the Manhattan hotel where Kahane was assassinated .</original>
+<compressed id=latwp950904.0039.13>Kunstler persuaded a jury to acquit El Sayyid A. Nosair of killing Rabbi Meir Kahane , the founder of the Jewish Defense League , even though Nosair , holding a gun , was seen fleeing the hotel where Kahane was assassinated .</compressed>
+<original id=latwp950904.0039.14>Nosair was convicted on lesser charges of weapon possession and assaulting the U.S. postal inspector who captured him .</original>
+<compressed id=latwp950904.0039.14>Nosair was convicted of weapon possession and assaulting the U.S. postal inspector who captured him .</compressed>
+<original id=latwp950904.0039.15>`` I do n't think I ever felt as detested as when I joined the defense team of El Sayyid Nosair , '' Kunstler wrote in his 1994 autobiography , `` My Life as a Radical Lawyer. '' `` Because I am Jewish , the criticism against me for defending Nosair was particularly vehement. '' In another unpopular case , Kunstler helped defend Colin Ferguson , a Jamaican immigrant who killed six and wounded 19 others on a Long Island Rail Road commuter train .</original>
+<compressed id=latwp950904.0039.15>`` I do n't think I ever felt as detested as when I joined the defense of El Sayyid Nosair , '' Kunstler wrote , `` My Life as a Radical Lawyer. '' `` Because I am Jewish , the criticism was vehement. '' In another unpopular case , Kunstler helped defend Colin Ferguson , a Jamaican who killed six and wounded 19 on a Long Island Rail Road train .</compressed>
+<original id=latwp950904.0039.16>Kunstler had tried to argue that Ferguson suffered from `` black rage '' that made him not responsible for his actions .</original>
+<compressed id=latwp950904.0039.16>Kunstler had tried to argue that Ferguson suffered from `` rage '' that made him not responsible for his actions .</compressed>
+<original id=latwp950904.0039.17>He opened his successful defense of Larry Davis , who was accused of trying to kill nine New York City police officers , by declaring the case really was about `` how the police treat young Third World people in the depressed communities of our city. '' Before a judge barred him from continuing the case because he was a potential witness , Kunstler recently defended Egyptian cleric Sheik Omar Abdel Rahman , who is being tried on charges of leading a conspiracy to blow up the United Nations , two commuter tunnels and the Manhattan headquarters of the FBI .</original>
+<compressed id=latwp950904.0039.17>He opened his successful defense of Larry Davis , who was accused of trying to kill nine police officers , by declaring the case about `` how the police treat Third World people in depressed communities '' Before a judge barred him from the case because he was a potential witness , Kunstler recently defended Egyptian cleric Sheik Omar Abdel Rahman , who is being tried on charges of conspiracy to blow up the United Nations , two tunnels and the Manhattan FBI .</compressed>
+</text>
+</doc>

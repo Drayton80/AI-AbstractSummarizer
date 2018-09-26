@@ -1,0 +1,38 @@
+<doc id=A1G.11>
+<text>
+<original id=A1G.11.0>It Is difficult to know who is the more isolated : the 62 members of the Lebanese Parliament or the 73 members of the Lebanese press corps .</original>
+<compressed id=A1G.11.0>who is more isolated : the Lebanese Parliament or the the Lebanese press corps .</compressed>
+<original id=A1G.11.1>Lebanon 's MPs --- 31 of them Muslims , 31 of them Christians --- have left the militia leaders behind in Beirut to keep the peace .</original>
+<compressed id=A1G.11.1>Lebanon 's MPs --- 31 Muslims , 31 Christians --- have left the militia in Beirut to keep the peace .</compressed>
+<original id=A1G.11.2>The MPs are here to scrape the rust off the derelict machinery of government , to recreate the corroded institution that will have to elect a president and produce a government which can impose its rule on Lebanon --- and on the militia leaders .</original>
+<compressed id=A1G.11.2>The MPs here have to elect a president and produce a government which can impose its rule on Lebanon and the militia leaders .</compressed>
+<original id=A1G.11.3>Hence the isolation .</original>
+<compressed id=A1G.11.3>Hence the isolation .</compressed>
+<original id=A1G.11.4>Closeted in the conference palace at Taif --- itself built by a Lebanese-born millionaire --- the MPs found themselves unable to exercise their normal function of playing to the gallery .</original>
+<compressed id=A1G.11.4>in the conference palace at Taif the MPs found themselves unable to exercise playing to the gallery .</compressed>
+<original id=A1G.11.5>Lebanese parliamentary sessions have to be open to the public .</original>
+<compressed id=A1G.11.5>parliamentary sessions have to be open to the public .</compressed>
+<original id=A1G.11.6>They also , by law , have to be held in Beirut .</original>
+<compressed id=A1G.11.6>They have to be held in Beirut .</compressed>
+<original id=A1G.11.7>So this was therefore called `` an informal meeting of Lebanese parliamentarians '' --- which effectively closed the doors of their marble debating chamber to the press .</original>
+<compressed id=A1G.11.7>this was called `` an informal meeting '' --- which closed the doors to the press .</compressed>
+<original id=A1G.11.8>In equal isolation at the Intercontinental Hotel , 16 miles away , Lebanese journalists found themselves restricted to the parliament 's two opening statements and a diet of gentle assurances from Prince Saud al-Feisel , the Saudi Foreign Minister , that optimism was the order of the day , but while he had heard of some disputes in the parliamentary chamber , he had every reason to believe the Lebanese would accept the Arab League peace plan .</original>
+<compressed id=A1G.11.8>Lebanese journalists found themselves restricted to the parliament 's two opening statements and assurances from Prince Saud al-Feisel that he had every reason to believe the Lebanese would accept the Arab League peace plan .</compressed>
+<original id=A1G.11.9>Christian MPs close to General Michel Aoun wanted to talk first about a Syrian withdrawal , in according with the general 's instructions .</original>
+<compressed id=A1G.11.9>Christian MPs close to General Michel Aoun wanted to talk first about a Syrian withdrawal .</compressed>
+<original id=A1G.11.10>And it is perfectly clear that the old representatives of Lebanese democracy are under considerable pressure to talk about reform and not withdrawal .</original>
+<compressed id=A1G.11.10>the old representatives of Lebanese democracy are under pressure to talk about reform and not withdrawal .</compressed>
+<original id=A1G.11.11>Saeb Salam made this perfectly evident .</original>
+<compressed id=A1G.11.11>Saeb Salam made this evident .</compressed>
+<original id=A1G.11.12>Mr Salam , 84 , a Sunni Muslim , is the most impressive of Lebanon 's dying breed of elder statesmen , but his words could have been those of a much younger man .</original>
+<compressed id=A1G.11.12>Mr Salam , 84 , a Sunni Muslim , is the most impressive of Lebanon 's elder statesmen .</compressed>
+<original id=A1G.11.13>`` It is not appropriate to insist upon an immediate Syrian withdrawal , '' he said .</original>
+<compressed id=A1G.11.13>`` It is not appropriate to insist upon an immediate Syrian withdrawal , '' he said .</compressed>
+<original id=A1G.11.14>`` We must admit that a Syrian withdrawal could provoke many dangers for which no one would want to take responsibility .</original>
+<compressed id=A1G.11.14>`` a Syrian withdrawal could provoke dangers .</compressed>
+<original id=A1G.11.15>This is true , regardless of the opinion that some people have of Syria , and of their unhappiness at Syria 's presence in Lebanon .</original>
+<compressed id=A1G.11.15>This is true , regardless of the opinion people have of Syria 's presence in Lebanon .</compressed>
+<original id=A1G.11.16>Among the dangers that this could bring about would be the emergence of small concessional states governed by the militias. '' All this was shorthand for a simple warning : that if the Syrians pull out of west Beirut , the militias would go to war again in its streets , and there would be nothing the Christians could do about it.</original>
+<compressed id=A1G.11.16>this could bring about small states governed by militias. '' this was shorthand for : if the Syrians pull out of west Beirut , the militias would go to war again</compressed>
+</text>
+</doc>

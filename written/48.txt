@@ -1,0 +1,34 @@
+<doc id=AAC.10>
+<text>
+<original id=AAC.10.0>The Ford Motor Company faces an all-out strike next month following the 4-1 ballot rejection yesterday of a two-year pay deal by its 32,000 hourly paid workers .</original>
+<compressed id=AAC.10.0>Ford faces an all-out strike next month following the rejection of a pay deal by its 32,000 hourly workers .</compressed>
+<original id=AAC.10.1>They will be pressing for a settlement of more than 10 per cent in what will be the most severe test of the Government 's inflation policy .</original>
+<compressed id=AAC.10.1>They will be pressing for more than 10 per cent in what will be the test of the Government 's inflation policy .</compressed>
+<original id=AAC.10.2>The two-year deal amounted to 9.5 per cent for the first year and inflation plus 2.5 per cent for the second .</original>
+<compressed id=AAC.10.2>The deal amounted to 9.5 per cent for the first and inflation plus 2.5 per cent for the second .</compressed>
+<original id=AAC.10.3>Improvements in certain allowances were made , described as divisive by the unions , but the company has refused to compromise on a reduction in the shorter working week .</original>
+<compressed id=AAC.10.3>Improvements were made , but the company has refused to compromise on a reduction in the shorter working week .</compressed>
+<original id=AAC.10.4>Ford dismissed an immediate meeting with the unions but did not rule out talks after Christmas .</original>
+<compressed id=AAC.10.4>Ford dismissed meeting the unions but did not rule out talks after Christmas .</compressed>
+<original id=AAC.10.5>It said that a strike would be damaging to the company and to its staff .</original>
+<compressed id=AAC.10.5>It said a strike would be damaging to the company and its staff .</compressed>
+<original id=AAC.10.6>Production closed down at Ford last night for the Christmas period .</original>
+<compressed id=AAC.10.6>Production closed at Ford for Christmas .</compressed>
+<original id=AAC.10.7>Plants will open again on January 2 .</original>
+<compressed id=AAC.10.7>Plants open January 2 .</compressed>
+<original id=AAC.10.8>Staff voted 20,343 in favour of action , with 4,727 against .</original>
+<compressed id=AAC.10.8>Staff voted 20,343 in favour , 4,727 against .</compressed>
+<original id=AAC.10.9>The electricians are holding a postal ballot with the results announced after Christmas .</original>
+<compressed id=AAC.10.9>The electricians are holding a postal ballot with results after Christmas .</compressed>
+<original id=AAC.10.10>The unions said that they were looking for the second week in January to begin an all-out stoppage .</original>
+<compressed id=AAC.10.10>The unions said they were looking for January to begin stoppage .</compressed>
+<original id=AAC.10.11>Mr Jimmy Airlie , secretary of the Ford union side , said : `` We expected to get a favourable majority .</original>
+<compressed id=AAC.10.11>Jimmy Airlie , secretary of the Ford union , said : `` We expected a favourable majority .</compressed>
+<original id=AAC.10.12>This exceeded even our expectations. '' Mr Jack Adams , chairman of the union side , said that action would have to take place within a 28-day period from yesterday 's anouncement or it would be ruled out of order .</original>
+<compressed id=AAC.10.12>This exceeded expectations. '' Jack Adams , chairman of the union , said action would take place within a 28-day period from anouncement .</compressed>
+<original id=AAC.10.13>He thought the big strike vote was partly due to Ford 's record profits last year of £673 millions .</original>
+<compressed id=AAC.10.13>He thought the strike vote was due to Ford 's record profits of £673 millions .</compressed>
+<original id=AAC.10.14>The company is likely to be affected by a series of unofficial stoppages before any official action begins , as it was in the lead up to negotiations when Ford 's final offer was rejected last month .</original>
+<compressed id=AAC.10.14>The company is likely to be affected by unofficial stoppages before official action begins .</compressed>
+</text>
+</doc>

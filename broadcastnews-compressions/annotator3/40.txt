@@ -1,0 +1,49 @@
+<doc id=bn9624.rpi_segs.txt.960617.585>
+<annotator>annotator3</annotator>
+<text>
+<original id=bn9624.rpi_segs.txt.960617.585.0>The Clinton administration has announced it is going to expand funding for an experimental program called the Brownfield Project [ sp ] , designed to spur investment in abandoned industrial sites .</original>
+<compressed id=bn9624.rpi_segs.txt.960617.585.0>The Clinton administration is going to expand funding for the Brownfield Project , designed to spur investment in abandoned industrial sites .</compressed>
+<original id=bn9624.rpi_segs.txt.960617.585.1>Commentator John Chambers applauds the move .</original>
+<compressed id=bn9624.rpi_segs.txt.960617.585.1>John Chambers applauds the move .</compressed>
+<original id=bn9624.rpi_segs.txt.960617.585.2>For 15 years , I have practiced environmental law in Washington , D.C.</original>
+<compressed id=bn9624.rpi_segs.txt.960617.585.2>For 15 years , I have practiced environmental law</compressed>
+<original id=bn9624.rpi_segs.txt.960617.585.3>My practice has taken me from the halls of Congress to the maze of offices at EPA 's headquarters and into the federal courts that ultimately decide the validity of EPA 's interpretation of its congressional mandates .</original>
+<compressed id=bn9624.rpi_segs.txt.960617.585.3>My practice has taken me from the Congress to EPA and into the federal courts that decide the validity of EPA 's interpretation of its congressional mandates .</compressed>
+<original id=bn9624.rpi_segs.txt.960617.585.4>In carrying out its role as primary protector of the environment , EPA dances to Congress ' tune .</original>
+<compressed id=bn9624.rpi_segs.txt.960617.585.4>as primary protector of the environment , EPA dances to Congress ' tune .</compressed>
+<original id=bn9624.rpi_segs.txt.960617.585.5>Against this background , it is somewhat surprising that EPA would , on its own initiative , undertake a major new program as part of its brownfields action agenda .</original>
+<compressed id=bn9624.rpi_segs.txt.960617.585.5>it is surprising that EPA would , on its own initiative , undertake a major program as part of its brownfields agenda .</compressed>
+<original id=bn9624.rpi_segs.txt.960617.585.6>`` Brownfields ' is a term used to refer to abandoned industrial sites that are no longer in productive use due to environmental problems .</original>
+<compressed id=bn9624.rpi_segs.txt.960617.585.6>`` Brownfields ' is used to refer to abandoned industrial sites no longer in use due to environmental problems .</compressed>
+<original id=bn9624.rpi_segs.txt.960617.585.7>They typically take the form of abandoned warehouses , factories or vacant , trash-strewn lots .</original>
+<compressed id=bn9624.rpi_segs.txt.960617.585.7>They take the form of warehouses , factories or vacant lots .</compressed>
+<original id=bn9624.rpi_segs.txt.960617.585.8>Those of us who live or work in cities pass by them daily .</original>
+<compressed id=bn9624.rpi_segs.txt.960617.585.8>Those in cities pass by them daily .</compressed>
+<original id=bn9624.rpi_segs.txt.960617.585.9>The Government Accounting Office estimates that there are more than 450,000 brownfield sites located across the country .</original>
+<compressed id=bn9624.rpi_segs.txt.960617.585.9>The Government Accounting Office estimates there are 450,000 brownfield sites .</compressed>
+<original id=bn9624.rpi_segs.txt.960617.585.10>Many of these sites are located in inner city communities where the population is primarily composed of poor and working class minority groups .</original>
+<compressed id=bn9624.rpi_segs.txt.960617.585.10>Many sites are in inner city communities where the population is primarily poor and working class minority groups .</compressed>
+<original id=bn9624.rpi_segs.txt.960617.585.11>The idea is to develop solutions to the problems of urban blight caused in part by environmental policies that discouraged private investment in areas that had been hurt by contaminants from old industrial operations .</original>
+<compressed id=bn9624.rpi_segs.txt.960617.585.11>The idea is to develop solutions to the problems caused in part by policies that discouraged investment in areas hurt by contaminants from industrial operations .</compressed>
+<original id=bn9624.rpi_segs.txt.960617.585.12>In addition to providing seed money for selected pilots , EPA set about the task of revising and clarifying its environmental clean-up and liability guidance to encourage buyers , lenders and developers to become involved in brownfield redevelopment projects .</original>
+<compressed id=bn9624.rpi_segs.txt.960617.585.12>In addition to providing seed money for pilots , EPA set about revising its environmental clean-up and liability guidance to encourage buyers , lenders and developers to become involved .</compressed>
+<original id=bn9624.rpi_segs.txt.960617.585.13>It also spearheaded changes to the regulations implementing the Community Reinvestment Act to encourage greater participation by financial institutions .</original>
+<compressed id=bn9624.rpi_segs.txt.960617.585.13>It spearheaded changes to the regulations implementing the Community Reinvestment Act to encourage participation .</compressed>
+<original id=bn9624.rpi_segs.txt.960617.585.14>The Clinton administration recently unveiled a new means to encourage brownfields redevelopment in the form of a tax incentive proposal .</original>
+<compressed id=bn9624.rpi_segs.txt.960617.585.14>The administration unveiled a new tax incentive proposal .</compressed>
+<original id=bn9624.rpi_segs.txt.960617.585.15>My 15 years of practice as an environmental lawyer has taught me many things .</original>
+<compressed id=bn9624.rpi_segs.txt.960617.585.15>15 years as an environmental lawyer has taught me many things .</compressed>
+<original id=bn9624.rpi_segs.txt.960617.585.16>I realize that our collective lack of appreciation for the environment in the past has caused many of the problems we have today .</original>
+<compressed id=bn9624.rpi_segs.txt.960617.585.16>our lack of appreciation for the environment has caused problems .</compressed>
+<original id=bn9624.rpi_segs.txt.960617.585.17>I also recognize that excessive regulation , especially in the area of environmental clean-ups can , and has , impeded progress that might otherwise have been undertaken voluntarily .</original>
+<compressed id=bn9624.rpi_segs.txt.960617.585.17>excessive regulation in environmental clean-ups has impeded progress .</compressed>
+<original id=bn9624.rpi_segs.txt.960617.585.18>EPA 's brownfields action agenda represents an accommodation of interest in a way that creates incentives to do the right thing , not only for the environment , but for people hurt by the economic conditions that continue to prevail in many of the nation 's poor communities .</original>
+<compressed id=bn9624.rpi_segs.txt.960617.585.18>EPA 's brownfields agenda creates incentives to do the right thing , not only for the environment , but for people hurt by the economic conditions in many poor communities .</compressed>
+<original id=bn9624.rpi_segs.txt.960617.585.19>It is time for Congress to get into the act by providing sources of funding for an integrated approach to solving the growing problem of urban blight .</original>
+<compressed id=bn9624.rpi_segs.txt.960617.585.19>It is time for Congress to get providing funding for solving the problem of urban blight .</compressed>
+<original id=bn9624.rpi_segs.txt.960617.585.20>If federal legislation is passed to help the administration carry out its brownfields redevelopment initiatives , it will be one of those rare occasions when Congress has elected to dance to EPA 's tune .</original>
+<compressed id=bn9624.rpi_segs.txt.960617.585.20>If federal legislation is passed to help brownfields redevelopment , it will be one of those occasions when Congress has elected to dance to EPA 's tune .</compressed>
+<original id=bn9624.rpi_segs.txt.960617.585.21>John Chambers , an environmental lawyer in Washington , D.C.</original>
+<compressed id=bn9624.rpi_segs.txt.960617.585.21>John Chambers , Washington , D.C.</compressed>
+</text>
+</doc>

@@ -1,0 +1,51 @@
+<doc id=bn9624.rpi_segs.txt.960621.362>
+<annotator>annotator1</annotator>
+<text>
+<original id=bn9624.rpi_segs.txt.960621.362.0>And we have late word at this hour that Dr. Jack Kevorkian has , apparently , attended the 31st suicide .</original>
+<compressed id=bn9624.rpi_segs.txt.960621.362.0>Dr. Jack Kevorkian has , apparently , attended the 31st suicide .</compressed>
+<original id=bn9624.rpi_segs.txt.960621.362.1>And joining us by the telephone now is Geoffrey Fieger , Dr. Kevorkian 's attorney .</original>
+<compressed id=bn9624.rpi_segs.txt.960621.362.1>joining us by telephone is Geoffrey Fieger , Dr. Kevorkian 's attorney .</compressed>
+<original id=bn9624.rpi_segs.txt.960621.362.2>Mr. Fieger , are you with us ?</original>
+<compressed id=bn9624.rpi_segs.txt.960621.362.2>Mr. Fieger ?</compressed>
+<original id=bn9624.rpi_segs.txt.960621.362.3>Yes , I am.</original>
+<compressed id=bn9624.rpi_segs.txt.960621.362.3>Yes</compressed>
+<original id=bn9624.rpi_segs.txt.960621.362.4>Thank you for joining us.</original>
+<compressed id=bn9624.rpi_segs.txt.960621.362.4>Thank you</compressed>
+<original id=bn9624.rpi_segs.txt.960621.362.5>Sure .</original>
+<compressed id=bn9624.rpi_segs.txt.960621.362.5>Sure .</compressed>
+<original id=bn9624.rpi_segs.txt.960621.362.6>First of all , can you confirm that Dr. Kevorkian was present at this suicide ?</original>
+<compressed id=bn9624.rpi_segs.txt.960621.362.6>can you confirm Dr. Kevorkian was present at this suicide ?</compressed>
+<original id=bn9624.rpi_segs.txt.960621.362.7>Yes .</original>
+<compressed id=bn9624.rpi_segs.txt.960621.362.7>Yes .</compressed>
+<original id=bn9624.rpi_segs.txt.960621.362.8>Dr. Kevorkian and other members , including other physicians , were present , and assisted Betty Lou Hamilton [ sp ] of Columbus , Ohio , tonight end her years of suffering from a horrible disease that was destroying her spinal cord .</original>
+<compressed id=bn9624.rpi_segs.txt.960621.362.8>Dr. Kevorkian and other physicians assisted Betty Lou Hamilton of Columbus , Ohio , end her suffering from a disease destroying her spinal cord .</compressed>
+<original id=bn9624.rpi_segs.txt.960621.362.9>Can you tell us a little bit more about Ms. Hamilton ?</original>
+<compressed id=bn9624.rpi_segs.txt.960621.362.9>Can you tell us a more about Ms. Hamilton ?</compressed>
+<original id=bn9624.rpi_segs.txt.960621.362.10>Who was she ?</original>
+<compressed id=bn9624.rpi_segs.txt.960621.362.10>Who was she ?</compressed>
+<original id=bn9624.rpi_segs.txt.960621.362.11>She was 67-year-old woman who had suffered for years from a disease known as springo mayalia [ sp ] , which destroys the spinal cord .</original>
+<compressed id=bn9624.rpi_segs.txt.960621.362.11>She was 67-year-old woman who suffered for years from springo mayalia , which destroys the spinal cord .</compressed>
+<original id=bn9624.rpi_segs.txt.960621.362.12>She described it as having hundreds or thousands of ice picks tearing into her body .</original>
+<compressed id=bn9624.rpi_segs.txt.960621.362.12>She described it as having thousands of ice picks tearing into her body .</compressed>
+<original id=bn9624.rpi_segs.txt.960621.362.13>She was treated for years at the Ohio State University pain clinic .</original>
+<compressed id=bn9624.rpi_segs.txt.960621.362.13>She was treated at the Ohio State University pain clinic .</compressed>
+<original id=bn9624.rpi_segs.txt.960621.362.14>It is an incurable disease , and she has been counseling with Dr. Kevorkian for about six months .</original>
+<compressed id=bn9624.rpi_segs.txt.960621.362.14>It is incurable , and she has been counseling with Dr. Kevorkian for six months .</compressed>
+<original id=bn9624.rpi_segs.txt.960621.362.15>Mr. Fieger , can you tell us how long Ms. Hamilton had been in contact with Dr. Kevorkian ?</original>
+<compressed id=bn9624.rpi_segs.txt.960621.362.15>Mr. Fieger , how long Ms. Hamilton had been in contact with Dr. Kevorkian ?</compressed>
+<original id=bn9624.rpi_segs.txt.960621.362.16>About six months .</original>
+<compressed id=bn9624.rpi_segs.txt.960621.362.16>six months .</compressed>
+<original id=bn9624.rpi_segs.txt.960621.362.17>OK.</original>
+<compressed id=bn9624.rpi_segs.txt.960621.362.17>OK.</compressed>
+<original id=bn9624.rpi_segs.txt.960621.362.18>And where was the body found ?</original>
+<compressed id=bn9624.rpi_segs.txt.960621.362.18>where was the body found ?</compressed>
+<original id=bn9624.rpi_segs.txt.960621.362.19>It was n't found anywhere .</original>
+<compressed id=bn9624.rpi_segs.txt.960621.362.19>It was n't .</compressed>
+<original id=bn9624.rpi_segs.txt.960621.362.20>It was brought by her best friend to the Pontiac Osteopathic Hospital in Detroit- excuse me , in Pontiac , Michigan , where doctors confirmed the death and treated the family with a lot of dignity and respect and compassion .</original>
+<compressed id=bn9624.rpi_segs.txt.960621.362.20>It was brought by her friend to the Pontiac Osteopathic Hospital in Pontiac , Michigan , where doctors confirmed the death and treated the family with respect and compassion .</compressed>
+<original id=bn9624.rpi_segs.txt.960621.362.21>All right , Mr. Fieger , thank you so much for joining us.</original>
+<compressed id=bn9624.rpi_segs.txt.960621.362.21>Mr. Fieger , thank you</compressed>
+<original id=bn9624.rpi_segs.txt.960621.362.22>We 've been speaking with Geoffrey Fieger , who is Dr. Jack Kevorkian 's attorney .</original>
+<compressed id=bn9624.rpi_segs.txt.960621.362.22>We 've been speaking with Geoffrey Fieger , Dr. Jack Kevorkian 's attorney .</compressed>
+</text>
+</doc>

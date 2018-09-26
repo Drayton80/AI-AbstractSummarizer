@@ -1,0 +1,49 @@
+<doc id=bn9624.rpi_segs.txt.960614.483>
+<annotator>annotator1</annotator>
+<text>
+<original id=bn9624.rpi_segs.txt.960614.483.0>Our political analyst , Bill Schneider , is in the Washington studio .</original>
+<compressed id=bn9624.rpi_segs.txt.960614.483.0>political analyst , Bill Schneider , is in Washington .</compressed>
+<original id=bn9624.rpi_segs.txt.960614.483.1>Bill , aside from the legal concerns that the administration might have , as a political matter , what kind of problem is this for the administration ?</original>
+<compressed id=bn9624.rpi_segs.txt.960614.483.1>aside from the legal concerns , as a political matter , what problem is this for the administration ?</compressed>
+<original id=bn9624.rpi_segs.txt.960614.483.2>Well , remember that this Whitewater committee is dominated by Republicans .</original>
+<compressed id=bn9624.rpi_segs.txt.960614.483.2>this Whitewater committee is dominated by Republicans .</compressed>
+<original id=bn9624.rpi_segs.txt.960614.483.3>It 's a partisan committee .</original>
+<compressed id=bn9624.rpi_segs.txt.960614.483.3>It 's partisan .</compressed>
+<original id=bn9624.rpi_segs.txt.960614.483.4>And the report that Bob [ Franken ] was describing is being prepared by the Republican majority in this committee .</original>
+<compressed id=bn9624.rpi_segs.txt.960614.483.4>the report is being prepared by the Republican majority in this committee .</compressed>
+<original id=bn9624.rpi_segs.txt.960614.483.5>I think the voters will easily recognize that this is a partisan document .</original>
+<compressed id=bn9624.rpi_segs.txt.960614.483.5>the voters will recognize this is a partisan document .</compressed>
+<original id=bn9624.rpi_segs.txt.960614.483.6>Far more serious , for instance , were the convictions of several associates of the Clintons ' - James and Susan McDougal , the governor of Arkansas , Jim Guy Tucker - which was done , not by a partisan committee but by a jury of citizens in Arkansas who were not partisan .</original>
+<compressed id=bn9624.rpi_segs.txt.960614.483.6>Far more serious were the convictions of associates of the Clintons ' - James and Susan McDougal , the governor of Arkansas , Jim Guy Tucker - by a jury of citizens in Arkansas .</compressed>
+<original id=bn9624.rpi_segs.txt.960614.483.7>I think that would create more damage .</original>
+<compressed id=bn9624.rpi_segs.txt.960614.483.7>that would create more damage .</compressed>
+<original id=bn9624.rpi_segs.txt.960614.483.8>What this does , however , is focus the public 's attention on mysterious , unexplained behavior by the White House .</original>
+<compressed id=bn9624.rpi_segs.txt.960614.483.8>this does focus the public on mysterious behavior by the White House .</compressed>
+<original id=bn9624.rpi_segs.txt.960614.483.9>No smoking gun here , but a lot of questions being raised .</original>
+<compressed id=bn9624.rpi_segs.txt.960614.483.9>No smoking gun , but questions being raised .</compressed>
+<original id=bn9624.rpi_segs.txt.960614.483.10>Right now , most Americans have concluded the White House must be hiding something .</original>
+<compressed id=bn9624.rpi_segs.txt.960614.483.10>most Americans concluded the White House must be hiding something .</compressed>
+<original id=bn9624.rpi_segs.txt.960614.483.11>The disappearance of the Rose Law Firm billing records , the strange handling of the Foster documents after Mr. Foster 's suicide , the FBI records that were taken by the White House for no obvious reason , the questionable contacts between the White House and the Treasury Department .</original>
+<compressed id=bn9624.rpi_segs.txt.960614.483.11>The disappearance of the Rose Law Firm billing records , the handling of the Foster documents , the FBI records taken by the White House , the contacts between the White House and the Treasury .</compressed>
+<original id=bn9624.rpi_segs.txt.960614.483.12>All those things suggest to most voters that the White House is hiding something .</original>
+<compressed id=bn9624.rpi_segs.txt.960614.483.12>those suggest that the White House is hiding something .</compressed>
+<original id=bn9624.rpi_segs.txt.960614.483.13>What are the political considerations for the Republicans on this committee , if any , in writing this report ?</original>
+<compressed id=bn9624.rpi_segs.txt.960614.483.13>What are the political considerations for the Republicans writing this report ?</compressed>
+<original id=bn9624.rpi_segs.txt.960614.483.14>They 've got- They 've got to be very careful about how they handle the first lady in this report .</original>
+<compressed id=bn9624.rpi_segs.txt.960614.483.14>They 've got to be careful how they handle the first lady .</compressed>
+<original id=bn9624.rpi_segs.txt.960614.483.15>I think that 's the debate they 're having right now .</original>
+<compressed id=bn9624.rpi_segs.txt.960614.483.15>that 's the debate they 're having now .</compressed>
+<original id=bn9624.rpi_segs.txt.960614.483.16>Whether they name her in some way or hold her culpable- if they do , then it ratchets up the whole investigation to a much higher level because then the majority on the committee , the Republicans , are taking on the first lady directly , and that becomes a far , far more serious matter .</original>
+<compressed id=bn9624.rpi_segs.txt.960614.483.16>Whether they hold her culpable- then it ratchets up the whole investigation to a much higher level because then the Republicans taking on the first lady becomes a more serious matter .</compressed>
+<original id=bn9624.rpi_segs.txt.960614.483.17>It makes it both more serious and more political .</original>
+<compressed id=bn9624.rpi_segs.txt.960614.483.17>It makes it more serious and more political .</compressed>
+<original id=bn9624.rpi_segs.txt.960614.483.18>OK.</original>
+<compressed id=bn9624.rpi_segs.txt.960614.483.18>OK.</compressed>
+<original id=bn9624.rpi_segs.txt.960614.483.19>Bill Schneider in Washington , Bob Franken in Washington .</original>
+<compressed id=bn9624.rpi_segs.txt.960614.483.19>Bill Schneider , Bob Franken in Washington .</compressed>
+<original id=bn9624.rpi_segs.txt.960614.483.20>It sounds like you both have a cold .</original>
+<compressed id=bn9624.rpi_segs.txt.960614.483.20>you both have a cold .</compressed>
+<original id=bn9624.rpi_segs.txt.960614.483.21>We hope you get better over the weekend .</original>
+<compressed id=bn9624.rpi_segs.txt.960614.483.21>get better over the weekend .</compressed>
+</text>
+</doc>

@@ -1,0 +1,45 @@
+<doc id=bn9622.rpi_segs.txt.960601.728>
+<annotator>annotator3</annotator>
+<text>
+<original id=bn9622.rpi_segs.txt.960601.728.0>Questions about the future of the Middle East peace process will soon be addressed by the one man who may have the answers .</original>
+<compressed id=bn9622.rpi_segs.txt.960601.728.0>Questions about the Middle East peace process will be addressed by the man who may have the answers .</compressed>
+<original id=bn9622.rpi_segs.txt.960601.728.1>Israel 's new prime minister elect , Benjamin Netanyahu , will outline his policies Sunday in a victory speech .</original>
+<compressed id=bn9622.rpi_segs.txt.960601.728.1>'s Benjamin Netanyahu will outline his policies Sunday .</compressed>
+<original id=bn9622.rpi_segs.txt.960601.728.2>He spent the Jewish Sabbath quietly with family and friends .</original>
+<compressed id=bn9622.rpi_segs.txt.960601.728.2>He spent the Sabbath with family and friends .</compressed>
+<original id=bn9622.rpi_segs.txt.960601.728.3>As CNN 's Jill Dougherty reports , the White House is already trying to calm Netanyahu 's critics .</original>
+<compressed id=bn9622.rpi_segs.txt.960601.728.3>the White House is trying to calm Netanyahu 's critics .</compressed>
+<original id=bn9622.rpi_segs.txt.960601.728.4>Benjamin Netanyahu 's victory jarred many in the Arab world , but the Clinton administration has been in close touch with Arab leaders since , reassuring them the U.S. will continue its efforts at peace and urging them not to pre-judge the prime minister elect .</original>
+<compressed id=bn9622.rpi_segs.txt.960601.728.4>Benjamin Netanyahu 's victory jarred many , but the Clinton administration has been in touch with Arab leaders , reassuring them the U.S. will continue its efforts at peace and urging them not to pre-judge the prime minister .</compressed>
+<original id=bn9622.rpi_segs.txt.960601.728.5>Saturday President Clinton said , `` Give him time . '</original>
+<compressed id=bn9622.rpi_segs.txt.960601.728.5>President Clinton said , `` Give him time . '</compressed>
+<original id=bn9622.rpi_segs.txt.960601.728.6>I think we ought to give the new prime minister a chance to put his government together and develop a policy .</original>
+<compressed id=bn9622.rpi_segs.txt.960601.728.6>we ought to give the prime minister a chance to .</compressed>
+<original id=bn9622.rpi_segs.txt.960601.728.7>He says he wants to continue the process and I think that- I hope that the friends of peace in the Arab world will continue to be committed to that .</original>
+<compressed id=bn9622.rpi_segs.txt.960601.728.7>he wants to continue the process and I hope that the Arab world will continue to be committed to that .</compressed>
+<original id=bn9622.rpi_segs.txt.960601.728.8>Mr. Clinton cited comments by Netanyahu at the end of the election campaign and a phone conversation the two had Friday .</original>
+<compressed id=bn9622.rpi_segs.txt.960601.728.8>Clinton cited comments by Netanyahu and a phone conversation the two had .</compressed>
+<original id=bn9622.rpi_segs.txt.960601.728.9>The president also said he was encouraged by public comments from Jordan 's King Hussein whom Netanyahu telephoned shortly after his victory .</original>
+<compressed id=bn9622.rpi_segs.txt.960601.728.9>The president was encouraged by comments from Jordan 's King Hussein whom Netanyahu telephoned .</compressed>
+<original id=bn9622.rpi_segs.txt.960601.728.10>He assured me that he was going to do whatever he could to bring on the subject towards our objective , our common objective , of a comprehensive peace in this area .</original>
+<compressed id=bn9622.rpi_segs.txt.960601.728.10>He assured me he was going to do whatever he could towards our objective of peace in this area .</compressed>
+<original id=bn9622.rpi_segs.txt.960601.728.11>Netanyahu says he opposed return of the Golan Heights to Syria and creation of a Palestinian state .</original>
+<compressed id=bn9622.rpi_segs.txt.960601.728.11>Netanyahu opposed return of the Golan Heights to Syria and creation of a Palestinian state .</compressed>
+<original id=bn9622.rpi_segs.txt.960601.728.12>But one Mideast observer claims the incoming prime minister knows it 's in Israel 's interest to preserve the gains it has made from the peace process and to maintain a good relationship with its Arab neighbors .</original>
+<compressed id=bn9622.rpi_segs.txt.960601.728.12>the prime minister knows it 's in Israel 's interest to preserve the peace process and to maintain a good relationship with its neighbors .</compressed>
+<original id=bn9622.rpi_segs.txt.960601.728.13>I do n't think Netanyahu intends to kill the peace process .</original>
+<compressed id=bn9622.rpi_segs.txt.960601.728.13>I do n't think Netanyahu intends to kill the peace process .</compressed>
+<original id=bn9622.rpi_segs.txt.960601.728.14>I think he intends to bargain harder and maybe not make as many concessions as his predecessors .</original>
+<compressed id=bn9622.rpi_segs.txt.960601.728.14>he intends to bargain harder and not make as many concessions .</compressed>
+<original id=bn9622.rpi_segs.txt.960601.728.15>But the world will not come to an end.</original>
+<compressed id=bn9622.rpi_segs.txt.960601.728.15>the world will not come to an end.</compressed>
+<original id=bn9622.rpi_segs.txt.960601.728.16>The Clinton administration has a vested interest in downplaying any setback to the peace process .</original>
+<compressed id=bn9622.rpi_segs.txt.960601.728.16>The Clinton administration has a vested interest in downplaying any setback .</compressed>
+<original id=bn9622.rpi_segs.txt.960601.728.17>After all , President Clinton has pinned a major part of his international policy reputation on it.</original>
+<compressed id=bn9622.rpi_segs.txt.960601.728.17>President Clinton has pinned his international policy reputation on it.</compressed>
+<original id=bn9622.rpi_segs.txt.960601.728.18>And , looking ahead , another challenge looms in another part of the world , as Russian voters decide the fate of Boris Yeltsin just two weeks from now .</original>
+<compressed id=bn9622.rpi_segs.txt.960601.728.18>another challenge looms as Russian voters decide the fate of Boris Yeltsin two weeks from now .</compressed>
+<original id=bn9622.rpi_segs.txt.960601.728.19>Jill Dougherty , CNN , the White House .</original>
+<compressed id=bn9622.rpi_segs.txt.960601.728.19>Jill Dougherty , CNN .</compressed>
+</text>
+</doc>
