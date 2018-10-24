@@ -14,6 +14,23 @@ import numpy as np
 import pandas as pd
 import math
 
+from keras.preprocessing.text import Tokenizer
+from keras.preprocessing.sequence import pad_sequences
+from sklearn.model_selection import train_test_split
+
+from keras.preprocessing.text import text_to_word_sequence
+import re, os
+
+from keras.models import Model
+
+from keras.layers import Input
+from keras.layers import Dense
+from keras.layers import Embedding
+from keras.layers import LSTM, Bidirectional
+import matplotlib.pyplot as plt
+from nltk.corpus import stopwords
+from tqdm import tqdm
+
 from gensim.models.fasttext import FastText
 from gensim.models import Word2Vec
 
@@ -232,3 +249,34 @@ def embedding(data_frame, data_frame_element, embedding_type="word2vec", vector_
   print("<COMPLETE(embededding_words)>")
   
   return model_vectors
+
+
+def tokenizer(data_frame, data_frame_element):    
+  # Faz uma limpeza no texto para deixá-lo corretaente ajustado:
+  # Nota: Criar funções para isso 
+  data_frame[data_frame_element] = data_frame[data_frame_element].apply(lambda x: x.lower())
+  data_frame[data_frame_element] = data_frame[data_frame_element].apply(lambda x: clean_str(x))
+  data_frame[data_frame_element] = data_frame[data_frame_element].apply((lambda x: re.sub('[^a-zA-z0-9\s]','',x)))
+  
+  # Separa um conjunto de stopwords (inglês) fornecido pelo NLTK:
+  stop_words = set(stopwords.words('english'))
+
+  # Cria uma lista vazia aonde ficarão os textos:
+  text = []
+  
+  # Retira-se as stopwords do texto:
+  for row in data[data_frame_element].values:
+      word_list = text_to_word_sequence(row)
+      no_stop_words = [w for w in word_list if not w in stop_words]
+      no_stop_words = " ".join(no_stop_words)
+      text.append(no_stop_words)
+
+  tokenizer = Tokenizer(num_words=10000, split=' ')
+
+  tokenizer.fit_on_texts(text)
+
+  text_tokenized = tokenizer.texts_to_sequences(text)  
+  
+  text_tokenized = pad_sequences(X, maxlen=max(text))
+
+  return text_tokenized
