@@ -266,17 +266,18 @@ def tokenizer(data_frame, data_frame_element):
   
   # Retira-se as stopwords do texto:
   for row in data[data_frame_element].values:
-      word_list = text_to_word_sequence(row)
-      no_stop_words = [w for w in word_list if not w in stop_words]
-      no_stop_words = " ".join(no_stop_words)
-      text.append(no_stop_words)
+    word_list = text_to_word_sequence(row)
+    no_stop_words = [w for w in word_list if not w in stop_words]
+    no_stop_words = " ".join(no_stop_words)
+    text.append(no_stop_words)
 
-  tokenizer = Tokenizer(num_words=10000, split=' ')
+  # Aqui é usado o Tokenizer do próprio Keras para transformar as palavras em tokens
+  tokenizer = Tokenizer(split=' ')
 
   tokenizer.fit_on_texts(text)
 
   text_tokenized = tokenizer.texts_to_sequences(text)  
   
-  text_tokenized = pad_sequences(X, maxlen=max(text))
+  text_tokenized = pad_sequences(text_tokenized, maxlen=max(text))
 
   return text_tokenized
