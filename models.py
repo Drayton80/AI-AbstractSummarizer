@@ -6,7 +6,7 @@ from keras.layers import Embedding
 from keras.layers import LSTM, Bidirectional
 from keras.layers import CuDNNLSTM
 
-def lstm_keras_embedding(max_sequence_length=300, embedding_dimension=300):
+def lstm_keras_seq2seq(max_sequence_length=300, embedding_dimension=300):
     input_shape = (max_sequence_length,)
     model_input = Input(shape=input_shape, name="input", dtype='int32')    
 
