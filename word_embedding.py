@@ -251,13 +251,21 @@ def embedding(data_frame, data_frame_element, embedding_type="word2vec", vector_
   return model_vectors
 
 
+def sentence_clean(sentence):
+  clean = re.sub("[^a-zA-Z]"," ", str(sentence).lower())
+  
+  return clean
+
+
 def tokenizer(data_frame, data_frame_element):    
   # Faz uma limpeza no texto para deixá-lo corretaente ajustado:
   # Nota: Criar funções para isso 
-  data_frame[data_frame_element] = data_frame[data_frame_element].apply(lambda x: x.lower())
-  data_frame[data_frame_element] = data_frame[data_frame_element].apply(lambda x: clean_str(x))
-  data_frame[data_frame_element] = data_frame[data_frame_element].apply((lambda x: re.sub('[^a-zA-z0-9\s]','',x)))
-  
+  #data_frame[data_frame_element] = data_frame[data_frame_element].apply(lambda x: x.lower())
+  #data_frame[data_frame_element] = data_frame[data_frame_element].apply(lambda x: clean_str(x))
+  #data_frame[data_frame_element] = data_frame[data_frame_element].apply((lambda x: re.sub('[^a-zA-z0-9\s]','',x)))
+
+  nltk.download('stopwords')
+
   # Separa um conjunto de stopwords (inglês) fornecido pelo NLTK:
   stop_words = set(stopwords.words('english'))
 
@@ -265,8 +273,9 @@ def tokenizer(data_frame, data_frame_element):
   text = []
   
   # Retira-se as stopwords do texto:
-  for row in data[data_frame_element].values:
-    word_list = text_to_word_sequence(row)
+  for row in data_frame[data_frame_element].values:
+    words_clean = sentence_clean(row)
+    word_list = text_to_word_sequence(words_clean)
     no_stop_words = [w for w in word_list if not w in stop_words]
     no_stop_words = " ".join(no_stop_words)
     text.append(no_stop_words)
@@ -278,6 +287,6 @@ def tokenizer(data_frame, data_frame_element):
 
   text_tokenized = tokenizer.texts_to_sequences(text)  
   
-  text_tokenized = pad_sequences(text_tokenized, maxlen=max(text))
+  text_tokenized = pad_sequences(text_tokenized, maxlen=len(max(text)))
 
   return text_tokenized

@@ -2,8 +2,11 @@
 # A linha acima foi usada pois estava acontecendo um erro de compilação relativa a falta de caracteres
 # relativos ao ASCII no código
 
+import os
 import pandas as pd
 import word_embedding
+from pandas import DataFrame
+from sklearn.model_selection import train_test_split
 
 # Atribui a um data frame os dados relativos ao arquivo csv do data set:
 #   Nota: é preciso colocar o encoding como latin1 pois o utf8 não aceita certos
@@ -32,5 +35,7 @@ data_preprocessed = {'x_train': x_train, 'x_test': x_test,
 if not os.path.exists("vocabulary_models"):
   os.makedirs("vocabulary_models")
 
-model_vectors.save(os.path.join("vocabulary_models", "preprocessed_data.txt"))
+data_frame_preprocessed = DataFrame.from_dict(data_preprocessed)
+
+data_frame_preprocessed.to_csv("preprocessed_data.csv")
 
