@@ -285,7 +285,7 @@ def tokenizer(data_frame, data_frame_element):
 
   return text_tokenized
 
-def preprocess_data(data_frame, save_data=False, save_data_file_name="preprocess_data"):
+def preprocess_data(data_frame, save_data=False, save_data_file_name="preprocessed_data"):
   # Aplicando o pré-processamento do texto e, em seguida, o Tokenizer do Keras pertencente ao Tensorflow
   # é possível converter cada palavra em tokens e, por fim, os textos em conjunto de tokens
   x = tokenizer(data_frame, 'ctext')

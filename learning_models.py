@@ -3,7 +3,7 @@ from tensorflow.keras.models import Model
 from tensorflow.keras.layers import Input
 from tensorflow.keras.layers import Dense
 from tensorflow.keras.layers import Embedding
-from tensorflow.keras.layers import Concatenate
+from tensorflow.keras.layers import concatenate
 
 from tensorflow.keras.layers import LSTM
 from tensorflow.keras.layers import CuDNNLSTM
@@ -61,7 +61,7 @@ def keras_lstm(max_sequence_length, vectors_vocabulary_size, vectors_dimension=3
         # DECODER:
         decoder_input = Input(shape=inputs_shape, name="decoder_input", dtype='int32')
         decoder_embedding = Embedding(vectors_vocabulary_size, vectors_dimension, name="decoder_embedding")(decoder_input)
-        decoder_concatenate = Concatenate([encoder, decoder_embedding])
+        decoder_concatenate = concatenate([encoder, decoder_embedding])
 
         if tensorflow_gpu is True: 
             decoder_lstm = CuDNNLSTM(vectors_dimension, dropout=0.2, recurrent_dropout=0.2, name="decoder_lstm")(decoder_concatenate)
@@ -73,6 +73,3 @@ def keras_lstm(max_sequence_length, vectors_vocabulary_size, vectors_dimension=3
     model = Model(inputs=[model_input, decoder_input], outputs=model_output)
 
     return model
-
-
-#model.compile(loss='categorical_crossentropy', optimizer='adam')
