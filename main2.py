@@ -36,23 +36,37 @@ else:
 texts = data_frame_preprocessed['x'].values.tolist()
 
 # Pega o texto com maior tamanho dentre os textos:
-max_sequence_length = len(max(texts))
+max_sequence_length = 10000
 
 model = learning_models.keras_lstm(max_sequence_length, 5000, vectors_dimension=300)
 
 model.compile(loss = 'binary_crossentropy', optimizer='adam', metrics = ['accuracy'])
 
-print(model.summary())
+#print(model.summary())
 
 # Transforma os valores no data frame em listas para
 x = data_frame_preprocessed['x'].values.tolist()
 y = data_frame_preprocessed['y'].values.tolist()
+'''
+x = []
+y = []
 
-for text in x:
-	
+for text in x_string:
+	text = re.sub("\]|\[", " ", text)
 
-	for character in text:
+	x.append(list(map(int, text.split(", "))))
 
+for text in y_string:
+	text = re.sub("\]|\[", " ", text)
+
+	y.append(list(map(int, text.split(", "))))
+'''
+
+
+print(len(min(x)))
+print(len(max(x)))
+print(len(min(y)))
+print(len(max(y)))
 
 # em seguida, transformá-los em arrays do numpy
 x = np.array(x)

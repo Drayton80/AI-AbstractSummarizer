@@ -251,7 +251,7 @@ def sentence_clean(sentence):
   return clean
 
 
-def tokenizer(data_frame, data_frame_element):    
+def tokenizer(data_frame, data_frame_element, max_sequence_length=10000):    
   # Faz uma limpeza no texto para deixá-lo corretaente ajustado:
   # Nota: Criar funções para isso 
   #data_frame[data_frame_element] = data_frame[data_frame_element].apply(lambda x: x.lower())
@@ -281,7 +281,7 @@ def tokenizer(data_frame, data_frame_element):
 
   text_tokenized = tokenizer.texts_to_sequences(text)  
   
-  text_tokenized = pad_sequences(text_tokenized, maxlen=len(max(text)))
+  text_tokenized = pad_sequences(text_tokenized, maxlen=max_sequence_length)
 
   return text_tokenized
 
@@ -294,6 +294,11 @@ def preprocess_data(data_frame, save_data=False, save_data_file_name="preprocess
   # para criar um data frame do pandas
   x = x.tolist()
   y = y.tolist()
+
+  print(len(min(x)))
+  print(len(max(x)))
+  print(len(min(y)))
+  print(len(max(y)))
 
   # Caso save_data seja verdadeiro, o data frame é salvo:
   if save_data is True:
