@@ -68,7 +68,7 @@ def keras_lstm(max_sequence_length, vectors_vocabulary_size, vectors_dimension=3
         else:
             decoder_lstm = LSTM(vectors_dimension, dropout=0.2, recurrent_dropout=0.2, name="decoder_lstm")(decoder_concatenate)
 
-        model_output = Dense(vectors_vocabulary_size, activation='softmax')(decoder_lstm)
+        model_output = Dense(max_sequence_length, activation='softmax')(decoder_lstm)
 
     model = Model(inputs=[model_input, decoder_input], outputs=model_output)
 

@@ -24,49 +24,49 @@ data_frame.drop(['author', 'date', 'read_more', 'headlines'], axis = 1, inplace 
 #word_embedding.embedding(data_frame, "ctext", embedding_type="word2vec", vector_dimension=300, save_model=True, save_model_file_name="vocabulary_word2vec")
 #word_embedding.embedding(data_frame, "ctext", embedding_type="fasttext", vector_dimension=300, save_model=True, save_model_file_name="vocabulary_fasttext")
 
-# Se os dados ainda não tenham sido pré-processados:
+# Coso os dados ainda não tenham sido pré-processados:
 if not os.path.exists('vocabulary_models/preprocessed_data.csv'):
 	# Aplica-se o pré-processamento neles e é criado um arquivo. Além de ser obtido o data frame:
 	data_frame_preprocessed = preprocess.preprocess_data(data_frame, save_data=True)
+
+	x = data_frame_preprocessed['x'].values.tolist()
+	y = data_frame_preprocessed['y'].values.tolist()
 else:
 	# Caso contrário o arquivo é aberto no formato de data frame:
 	data_frame_preprocessed = pd.read_csv('vocabulary_models/preprocessed_data.csv')
 
-# Transforma os valores de x no data frame para uma lista:
-texts = data_frame_preprocessed['x'].values.tolist()
+	# Transforma os valores no data frame em listas para
+	x_string = data_frame_preprocessed['x'].values.tolist()
+	y_string = data_frame_preprocessed['y'].values.tolist()
+
+	x = []
+	y = []
+
+	# Aqui é feito um pré-processamento para retirar os "[" e "]", pois no momento em que o data frame é
+	# convertido para CSV as listas mantém tais caracteres no string do arquivo, ou seja, uma lista
+	# [12, 2,..., 0] era convertida para "[12, 2,..., 0]" no arquivo, ao em vez de "12, 2,..., 0", que
+	# seria a forma correta:
+	for text in x_string:
+		text = re.sub("\]|\[", "", text)
+
+		x.append(list(map(int, text.split(", "))))
+
+	for text in y_string:
+		text = re.sub("\]|\[", "", text)
+
+		y.append(list(map(int, text.split(", "))))
 
 # Pega o texto com maior tamanho dentre os textos:
-max_sequence_length = 10000
+max_sequence_length = 130
 
 model = learning_models.keras_lstm(max_sequence_length, 5000, vectors_dimension=300)
 
 model.compile(loss = 'binary_crossentropy', optimizer='adam', metrics = ['accuracy'])
 
-#print(model.summary())
-
-# Transforma os valores no data frame em listas para
-x = data_frame_preprocessed['x'].values.tolist()
-y = data_frame_preprocessed['y'].values.tolist()
-'''
-x = []
-y = []
-
-for text in x_string:
-	text = re.sub("\]|\[", " ", text)
-
-	x.append(list(map(int, text.split(", "))))
-
-for text in y_string:
-	text = re.sub("\]|\[", " ", text)
-
-	y.append(list(map(int, text.split(", "))))
-'''
-
-
-print(len(min(x)))
-print(len(max(x)))
-print(len(min(y)))
-print(len(max(y)))
+#print(len(min(x)))
+#print(len(max(x)))
+#print(len(min(y)))
+#print(len(max(y)))
 
 # em seguida, transformá-los em arrays do numpy
 x = np.array(x)

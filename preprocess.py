@@ -251,7 +251,7 @@ def sentence_clean(sentence):
   return clean
 
 
-def tokenizer(data_frame, data_frame_element, max_sequence_length=10000):    
+def tokenizer(data_frame, data_frame_element):    
   # Faz uma limpeza no texto para deixá-lo corretaente ajustado:
   # Nota: Criar funções para isso 
   #data_frame[data_frame_element] = data_frame[data_frame_element].apply(lambda x: x.lower())
@@ -277,11 +277,12 @@ def tokenizer(data_frame, data_frame_element, max_sequence_length=10000):
   # Aqui é usado o Tokenizer do próprio Keras para transformar as palavras em tokens
   tokenizer = Tokenizer(split=' ')
 
+  # São criados Tokens para cada palavra ao longo dos textos:
   tokenizer.fit_on_texts(text)
 
-  text_tokenized = tokenizer.texts_to_sequences(text)  
-  
-  text_tokenized = pad_sequences(text_tokenized, maxlen=max_sequence_length)
+  # Aqui cada texto é transformado em listas de Tokens, ou seja, as palavras neles
+  # são convertidos de Strings para números:
+  text_tokenized = tokenizer.texts_to_sequences(text)
 
   return text_tokenized
 
@@ -289,16 +290,24 @@ def preprocess_data(data_frame, save_data=False, save_data_file_name="preprocess
   # Aplicando o pré-processamento do texto e, em seguida, o Tokenizer do Keras pertencente ao Tensorflow
   # é possível converter cada palavra em tokens e, por fim, os textos em conjunto de tokens
   x = tokenizer(data_frame, 'ctext')
-  y = tokenizer(data_frame, 'text')
+  y = tokenizer(data_frame, 'text' )
+
+  # Pega o tamanho da maior sequencia entre X e Y:
+  max_sequence_length = max([len(max(x)), len(max(y))])
+
+  # Faz com que todos os textos tenham o mesmo tamanho completando aqueles que são menores com zeros no final:
+  x = pad_sequences(x, maxlen=max_sequence_length)
+  y = pad_sequences(y, maxlen=max_sequence_length)
+
   # Como o retorno do Tokenizer é um nparray é necessário convertê-lo em uma lista para ser possível posteriormente usá-lo
   # para criar um data frame do pandas
   x = x.tolist()
   y = y.tolist()
 
-  print(len(min(x)))
-  print(len(max(x)))
-  print(len(min(y)))
-  print(len(max(y)))
+  #print(len(min(x)))
+  #print(len(max(x)))
+  #print(len(min(y)))
+  #print(len(max(y)))
 
   # Caso save_data seja verdadeiro, o data frame é salvo:
   if save_data is True:
