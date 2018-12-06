@@ -5,6 +5,7 @@ import re
 
 import preprocess
 import learning_models
+from tensorflow.keras.optimizers import Adam
 
 from sklearn.model_selection import train_test_split
 
@@ -59,9 +60,11 @@ else:
 # Pega o texto com maior tamanho dentre os textos:
 max_sequence_length = 130
 
-model = learning_models.keras_lstm(max_sequence_length, 5000, vectors_dimension=300)
+model = learning_models.keras_lstm(max_sequence_length, 5000, vectors_dimension=300, tensorflow_gpu=True)
 
-model.compile(loss = 'binary_crossentropy', optimizer='adam', metrics = ['accuracy'])
+model_optimizer = Adam(lr = 0.0001, decay = 0.00000)
+
+model.compile(loss = 'binary_crossentropy', optimizer=model_optimizer, metrics = ['accuracy'])
 
 #print(len(min(x)))
 #print(len(max(x)))
@@ -79,12 +82,12 @@ x_train, x_test, y_train, y_test = train_test_split(x,y, test_size = 0.20, rando
 if not os.path.exists('./model/model_saved.txt'):
 
     model.fit([x_train, y_train], y_train, validation_data=([x_test, y_test], y_test),
-              epochs=2, batch_size=32, shuffle=True, verbose=2)
+              epochs=100, batch_size=128, shuffle=True, verbose=2)
 
     model.save_weights('model/model_saved.txt')    
 
 else:
     model.load_weights('model/model_saved.txt')
 
-scores = model.evaluate(x_test, y_test, verbose = 0, batch_size = batch_size)
-print("Acc: %.2f%%" % (scores[1]*100))
+#scores = model.evaluate(x_test, y_test, verbose = 0, batch_size = 32)
+#print("Acc: %.2f%%" % (scores[1]*100))

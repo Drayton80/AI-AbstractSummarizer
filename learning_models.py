@@ -49,7 +49,7 @@ def keras_lstm(max_sequence_length, vectors_vocabulary_size, vectors_dimension=3
 
         if tensorflow_gpu is True:
             # Define o formato de uma célula LSTM que será utilizada por palavra: 
-            encoder_lstm = CuDNNLSTM(vectors_dimension, dropout=0.2, recurrent_dropout=0.2, name="encoder_lstm")(model_embedding)
+            encoder_lstm = CuDNNLSTM(vectors_dimension, name="encoder_lstm")(model_embedding)
         else:
             # Define o formato de uma célula LSTM que será utilizada por palavra: 
             encoder_lstm = LSTM(vectors_dimension, dropout=0.2, recurrent_dropout=0.2, name="encoder_lstm")(model_embedding)
@@ -64,7 +64,7 @@ def keras_lstm(max_sequence_length, vectors_vocabulary_size, vectors_dimension=3
         decoder_concatenate = concatenate([encoder, decoder_embedding])
 
         if tensorflow_gpu is True: 
-            decoder_lstm = CuDNNLSTM(vectors_dimension, dropout=0.2, recurrent_dropout=0.2, name="decoder_lstm")(decoder_concatenate)
+            decoder_lstm = CuDNNLSTM(vectors_dimension, name="decoder_lstm")(decoder_concatenate)
         else:
             decoder_lstm = LSTM(vectors_dimension, dropout=0.2, recurrent_dropout=0.2, name="decoder_lstm")(decoder_concatenate)
 
